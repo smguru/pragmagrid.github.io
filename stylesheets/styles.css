@@ -10,16 +10,16 @@ html {
 }
 
 body {
-  padding: 50px 0;
+  padding: 10px 0 0 0;
   margin: 0;
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #555;
+  color: #222;
   font-weight: 300;
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
 }
 
 .wrapper {
-  width: 840px;
+  width: 940px;
   margin: 0 auto;
   background: #DEDEDE;
   -webkit-border-radius: 8px;
@@ -42,7 +42,7 @@ a {
 }
 
 p {
-  margin: 0 0 20px;
+  margin: 0 0 10px;
   padding: 0;
 }
 
@@ -57,15 +57,16 @@ header {
   -ms-border-radius: 8px 8px 0 0;
   -o-border-radius: 8px 8px 0 0;
   border-radius: 8px 8px 0 0;
-  background: #C6EAFA;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ddfbfc), color-stop(100%, #c6eafa));
-  background: -webkit-linear-gradient(#ddfbfc, #c6eafa);
-  background: -moz-linear-gradient(#ddfbfc, #c6eafa);
-  background: -o-linear-gradient(#ddfbfc, #c6eafa);
-  background: -ms-linear-gradient(#ddfbfc, #c6eafa);
-  background: linear-gradient(#ddfbfc, #c6eafa);
+  background: #b0cbf4; 
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fbfbfc), color-stop(100%, #b0cbf4));
+  /* header top and bottom color */
+  background: -webkit-linear-gradient(#fbfbfc, #b0cbf4);
+  background: -moz-linear-gradient(#fbfbfc, #b0cbf4);
+  background: -o-linear-gradient(#fbfbfc, #b0cbf4);
+  background: -ms-linear-gradient(#fbfbfc, #b0cbf4);
+  background: linear-gradient(#fbfbfc, #b0cbf4);
   position: relative;
-  padding: 15px 20px;
+  padding: 15px 20px 15px;
   border-bottom: 1px solid #B2D2E1;
 }
 header h1 {
@@ -212,7 +213,7 @@ h1 {
 }
 
 h2 {
-  color: #393939;
+  color: #455979;
 }
 
 h3, h4, h5, h6 {
@@ -285,9 +286,9 @@ hr {
 }
 
 footer {
-  width: 840px;
+  width: 940px;
   margin: 0 auto;
-  padding: 20px 0 0;
+  padding: 10px 0 0;
   color: #ccc;
   overflow: hidden;
 }
@@ -296,7 +297,7 @@ footer a {
   font-weight: bold;
 }
 footer p {
-  float: left;
+  float: right;
 }
 footer p + p {
   float: right;
