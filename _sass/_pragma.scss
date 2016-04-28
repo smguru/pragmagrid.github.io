@@ -1,0 +1,11 @@
+
+/* colors */
+$white: #fff;
+$blue-color:       #455979;
+$blue-color-light: lighten($blue-color, 25%);
+$blue-color-dark:  darken($blue-color, 25%);
+
+.center-image {
+    margin: 0 auto;
+	display: block;
+}
