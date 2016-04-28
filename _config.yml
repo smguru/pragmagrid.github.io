@@ -18,5 +18,5 @@ github_username:  pragmagrid
 markdown: kramdown
 #permalink: /blog/:year/:month/:day/:title
 
-# highlighting
-highlighter: pygments
+# highlighting, pygments is unsupported. Try to use rouge whne needed
+# highlighter: pygments
