@@ -11,18 +11,17 @@
 }
 
 .site-title {
-    font-size: 18px;
     line-height: 56px;
-    font-weight: bold;
+	font-weight: bold;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
     & {
-        color: $blue-color;
+        color: $blue;
     }
     &:visited {
-        color: $blue-color-light;
+        color: $orange;
     }
 }
 
@@ -35,7 +34,10 @@
     }
 
     .page-link {
-        color: $blue-color;
+        color: $blue;
+        &:visited {
+            color: $orange;
+        }
         font-weight: bold;
         line-height: $base-line-height;
 
@@ -125,18 +127,18 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-    width:         calc(25% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
+.footer-col-2 {
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
+}
+
 .footer-col-3 {
-    width: -webkit-calc(55% - (#{$spacing-unit} / 2));
-    width:         calc(55% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {

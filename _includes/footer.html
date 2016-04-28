@@ -8,7 +8,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
-	    <img src="/images/pragma-logo.png" height="55" align="top"/>
+	    <img src="/images/pragma-logo.png" height="45" valign="top"/>
 		<!--
         <ul class="contact-list">
           <li><h4>{{ site.title }}</h4></li>
@@ -19,7 +19,7 @@
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
-          <li><a href="mailto:{{ site.email }}">Contact</a></li>
+          <li class="text">{{ site.short_description }}</li>
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
@@ -52,8 +52,10 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.short_description }}</p>
+        <ul class="contact-list">
+          <li><a href="mailto:{{ site.email }}">Contact</a></li>
       </div>
+
     </div>
 
   </div>
