@@ -3,3 +3,10 @@ initial links
 
 http://jmcglone.com/guides/github-pages/
 https://jekyllrb.com
+
+
+notes on images
+----------------
+make transparent logo:
+convert pragmalogo.png  -fuzz 5% -transparent white pragma-logo.png
+
