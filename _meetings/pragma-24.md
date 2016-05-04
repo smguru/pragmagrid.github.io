@@ -48,11 +48,11 @@ meeting_url: http://pragma24.pragma-grid.net/dct/page/1
 #### Demonstration Session
 
 * [PRAGMA VC sharing automation design and implementation][18] Cindy Zheng,
-  abstract [pdf][47] 
+  [abstract][47] 
 * [Using ViNe IP overlays to establish virtual private condor pools across PRAGMA resources]
-  [19] Mauricio Tsugawa, abstract [pdf][53]
+  [19] Mauricio Tsugawa, [abstract][53]
 * [Virtualizing Lifemapper for PRAGMA: Step 2 - The Computational Tier][20] Aimee Stuart,
-  abstract [pdf][49]
+  [abstract][49]
 * Keynote 2: Cloud security: what changes with SDN, Jose Fortes, UF
 * [PRAGMA Graduate students Association (GSA) update][21]
 * New member introduction: [IU][22], [TU][23], [UFL][24], [UW][25]
@@ -62,24 +62,23 @@ meeting_url: http://pragma24.pragma-grid.net/dct/page/1
 * [Biodiversity Capacity Building in Malaysia using Information Technology (png)][26]
 * [Technologies for Environmental and Disaster Monitoring (png)][27]
 * [Virtual Screening of Indonesian Herbal Database as HIV-1 Protease Inhibitor (jpg)][28]
-* [IPOP: Self-configuring IP-over-P2P Overlay-based Virtual Private Networking (pdf)][29]
+* [IPOP: Self-configuring IP-over-P2P Overlay-based Virtual Private Networking][29]
 * [High Throughput, Low Latency and Reliable Remote File Access][30]
-* [A Grid and Cloud-based Database of pre-computed Scenarios of Tsunamis in Manila Trench (pdf)][31]
+* [A Grid and Cloud-based Database of pre-computed Scenarios of Tsunamis in Manila Trench][31]
 * [An implementation of VIrtual Cluster on a Cloud (jpg)][32]
 
 ### March 22
 
 * First Day status, Peter Arzberger
-* [Keynote 3: e-Science and Data Infrastructure Development (pdf)][33] Thaweesak Koanantakool, Ph.D.
+* [Keynote 3: e-Science and Data Infrastructure Development][33] Thaweesak Koanantakool, Ph.D.
   President National Science and Technology Development Agency (NSTDA), Thailand
 
 #### Demonstration Session
 
 * [Data Observation Network for Earth Demonstration of Tools and Services][34],
-  Dave Vieglais, University of Kansas, abstract [pdf][51]
+  Dave Vieglais, University of Kansas, [abstract][51]
 * [E-Rium: a Web Portal for Publishing & Accessing Observa7on Data from Geographically
-  Distributed and Heterogeneous Sources (pdf)][35], Naiyana Sahavechaphan,
-  abstract [pdf][55]
+  Distributed and Heterogeneous Sources ][35], Naiyana Sahavechaphan, [abstract][55]
 
 #### Working Group Breakout
 
