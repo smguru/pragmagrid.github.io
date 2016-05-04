@@ -12,28 +12,20 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-	  <!--
-        <h2 class="section-heading">At Your Service</h2>
-		-->
+	  <!-- <h2 class="section-heading">At Your Service</h2> -->
       </div>
     </div>
   </div>
 
   <div class="container">
     <div class="row">
-      <!--{% for service in site.music %} 
-      {% endfor %}
-	  -->
+      <!--{% for service in site.music %} {% endfor %} -->
       {% for service in site.[page.short] %}
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
-			<!--
-            <img src="{{ service.image_path }}" alt="{{ service.title }}"/>
-			-->
+			<!-- <img src="{{ service.image_path }}" alt="{{ service.title }}"/> -->
             <li><a href="{{ service.url }}" title="{{ service.title }}">{{ service.title }}</a> </li>
-			<!--
-            <p class="text-muted">{{ service.content }}</p>
-			-->
+			<!-- <p class="text-muted">{{ service.content }}</p> -->
           </div>
         </div>
       {% endfor %}

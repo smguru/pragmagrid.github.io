@@ -12,3 +12,19 @@ $orange: #e55909;
     margin: 0 auto;
 	display: block;
 }
+
+
+/* meetings table */
+
+.meeting {
+    padding: 0;
+}
+
+.meeting td {
+    padding: 0 15px 0 5px;
+}
+
+.strongword {
+    font-weight: 700;
+    color: $blue;
+}

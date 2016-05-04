@@ -1,7 +1,9 @@
 ---
-title: PRAGMA 24 presentations
+title: PRAGMA 24 
 image_path: ""
 layout: page
+meeting_date: March 20-33, 2013, Bangkok, Thailand
+meeting_url: http://pragma24.pragma-grid.net/dct/page/1
 ---
 
 
