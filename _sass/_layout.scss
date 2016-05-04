@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    line-height: 56px;
+    line-height: 36px;
 	font-weight: bold;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -21,13 +21,13 @@
         color: $blue;
     }
     &:visited {
-        color: $orange;
+        color: $blue-dark;
     }
 }
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 36px;
 
     .menu-icon {
         display: none;
@@ -38,7 +38,6 @@
         &:visited {
             color: $orange;
         }
-        font-weight: bold;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
