@@ -1,10 +1,9 @@
 ---
-title: PRAGMA 24
+title: PRAGMA 24 presentations
 image_path: ""
 layout: page
 ---
 
-# Pragma 24 Presentations
 
 ### March 20
 
