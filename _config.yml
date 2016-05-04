@@ -2,21 +2,38 @@
 name: PRAGMA Operations Center website
 title: PRAGMA Operations Center
 email: pragma-discussion@googlegroups.com
-short_description: >
-  PRAGMA Operations Center technical documentation
+
 description: > # this means to ignore newlines until "baseurl:"
-  This website contains a collection of user guides, documentation pages,
-  and technical HOWTOs and FAQs used by PRAGMA projects and experiments.
+  PRAGMA Operations Center technical documentation
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-# uncomment when have it url: "http://goc.pragmagrid.net" # the base hostname & protocol for your site
+# uncomment rul when have it and add CMAKE
+#url: "http://goc.pragmagrid.net" # the base hostname & protocol for your site
 
 #twitter_username: jekyllrb
 github_username:  pragmagrid
 
 # Build settings
 markdown: kramdown
-#permalink: /blog/:year/:month/:day/:title
 
-# highlighting, pygments is unsupported. Try to use rouge whne needed
-# highlighter: pygments
+#permalink: /blog/:year/:month/:day/:title
+permalink: /:title/
+
+collections:
+  resources:
+      output: true
+  projects:
+     output: true
+  people:
+     output: true
+  meetings:
+     output: true
+
+
+exclude:
+  - README
+  - Makefile
+  - server.sh
+  - junk/
+
