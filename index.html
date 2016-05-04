@@ -4,24 +4,34 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">WELCOME</h1>
+  <h1 class="page-heading">Welcome to the PRAGMA Operations Center </h1>
 
-  <p>This website is a collection of user guides, documentation pages, and
-  technical information used by PRAGMA projects and experiments.</p>
+  <p>This website is a collection of user guides and
+     technical documentation used by PRAGMA projects and experiments.
+  </p>
 
 <!--
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
+  {% for collection in site.collections %}
+    {% if collection.label != 'posts'  %}
+       <h3>All documents listed in collection '{{ collection.label}}'</h3>
+       {% assign Collection = site.collections | where: "label", collection.label | first %}
+       {% for doc in Collection.docs %}
+         <li> <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a> </li>
+       {% endfor %}
+       <hr>
+    {% endif %}
+  {% endfor %}
 -->
-
 </div>
+
+<hr>
+
+<div class="contact">
+  <h1 class="page-heading">Contacts </h1>
+    <h3>Group mailing lists</h1>
+    <ul class="contacts">
+	   <li><a href="mailto:{{ site.email }}">All PRAGMA members</a></li>
+       <li><a href="mailto:pragma-cloud-admin@googlegroups.com">PRAGMA Cloud admin </a></li>
+    </ul>
+</div>
+
