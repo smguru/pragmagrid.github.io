@@ -1,5 +1,5 @@
 ---
-title: Person 2 
+title: Person 1 
 image_path: ""
 layout: page
 ---
