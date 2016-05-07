@@ -6,6 +6,9 @@ layout: page
 
 ### The Persistent PRAGMA Testbed resources.
 
+How do we make a worldwide colleciton of resources aialble and usable
+for sharing of data/computation?
+
 * Various technologies are now "good" enough to try:
   * PRAGMA Boot 
   * Cloud Controller 
@@ -15,8 +18,11 @@ layout: page
   * Pure Virtual Machine (VM)  and Virtual Cluster (VC) hosting
   * VM and VC hosting with programmable networking 
     see [ENT][1]
-* Need to be able to integrate data resources (particularly important in
-  Biodiversity expedition)
+* Drive infrastructure by meeds of specific use cases: 
+  * Biodiversity expedition
+  * Lake Ecology Expedition
+  * Experimental Network Testbed
+  * Needs of other PRAGMA working groups
 
 #### Cloud deployment technologies 
 
