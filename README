@@ -1,14 +1,16 @@
 
 initial links
+---------------
 
 start with https://pages.github.com
-
 http://jmcglone.com/guides/github-pages/
 https://jekyllrb.com
 
-
 notes on images
 ----------------
-make transparent logo:
-convert pragmalogo.png  -fuzz 5% -transparent white pragma-logo.png
+1. make transparent logo:
+   convert pragmalogo.png  -fuzz 5% -transparent white pragma-logo.png
+2. make favicon.ico
+   convert -resize 20% images/pragma-logo.png pragma.ico
+   pragma.ico favicon.ico 
 
