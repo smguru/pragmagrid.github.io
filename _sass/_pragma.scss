@@ -8,6 +8,11 @@ $blue-dark:  darken($blue, 25%);
 
 $orange: #e55909;
 
+$teal-dark: #196b89;
+$teal-light: #379bbf;
+
+$grey-light: #fafafa;
+
 .center-image {
     margin: 0 auto;
 	display: block;
@@ -25,6 +30,59 @@ $orange: #e55909;
 }
 
 .strongword {
-    font-weight: 700;
-    color: $blue;
+    font-weight: 500;
+    color: $teal-dark;
 }
+
+.border {
+    color: $orange;
+    background-color: #eee;
+    font-weight: 700;
+}
+
+
+/* ----- column-left ----- */
+.column-left {
+    border: 0px solid red; /*for debugging*/
+    width:80%;
+    float:left;
+    line-height:18px;
+    padding-top: 2px;
+}
+/*
+#column-left #content {width:80%; margin:0 0 0 5px; float:left; }
+    #column-left #content p, #column-left #content h1, #column-left #content
+h2, #column-left #content h3, #column-left #content h5, #column-left #content
+ul { padding:0px 14px 10px 14px;text-align:justify; }
+    #column-left #content ul {padding:0 65px 10px 75px; list-style:disc; list-style-position:outside;}
+    #column-left #content li {margin:0 0 10px 0;}
+
+*/
+
+/* ----- column-right ----- */
+.column-right {
+    border: 0px solid green; /*for debugging*/
+    width:20%;
+    float:right;
+    padding-top: 2px;
+}
+/*    #column-right .divider {width:200px; height:1px; background:#fff; margin:0 0 10px 0;} */
+
+.quicklinks {background:$grey-light; margin-bottom:20px;}
+/*
+    .quicklinks span {color:#338ba7; font-weight:bold;}
+    .quicklinks img {margin:0 0 12px 0; float:left;}
+*/
+.ql-entry {width:98%; margin: 0; padding: 0 0 0 1px;}      
+/* .ql-entry p.more { text-align:center; padding:0 0 0 -9px;} */
+.ql-entry p {font-size:14px; color:$teal-dark;} 
+.ql-entry h4 {padding:0 0 0 0px;  color:$white; font-weight:bold; background: $teal-dark;text-align:center} 
+/*.ql-entry p.sub {margin:10px 0 10px 10px;font-size:11px; }*/
+.ql-entry a:link, .ql-entry a:visited  { color:$teal-light; text-decoration:none; outline:none; }
+.ql-entry a:hover, .ql-entry a:active  { color:$teal-dark; text-decoration:none; outline:none; }
+
+
+/* people images */
+img.thum-left { float:left; margin: 0 10px 0 0; width: 100px; }
+img.thum-right { float:right; margin: 0 10px 0 0;  width: 100px;}
+

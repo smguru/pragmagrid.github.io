@@ -16,29 +16,20 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    & {
-        color: $blue;
-    }
-    &:visited {
-        color: $blue-dark;
-    }
+    & { color: $teal-light; }
+    &:visited { color: $teal-dark; }
 }
 
 .site-nav {
     float: right;
 	font-weight: 500;
     line-height: 36px;
-
-    .menu-icon {
-        display: none;
-    }
+    .menu-icon { display: none; }
 
     .page-link {
-        color: $blue;
-        &:visited {
-            color: $orange;
-        }
+        color: $orange;
+        &:visited { color: $orange; }
+        &:hover { color: $teal-dark; }
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one

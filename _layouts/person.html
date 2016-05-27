@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post-content" itemprop="articleBody">
+  {% if page.imagesrc %} 
+    <img src="/images/people/{{page.imagesrc}}" alt="" class="thum-left"/>
+  {% endif %}
+  <p><strong>{{page.first}} {{page.title}}</strong></br>
+     {{page.affiliation}}
+  </p>
+  {{ content }}
+</div>
+
+<hr class="primary">
+<p> <a href="/people"> Back to People </a> </p>
+
