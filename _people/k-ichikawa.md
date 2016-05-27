@@ -1,6 +1,6 @@
 ---
 title: Ichikawa
-first: Kohei
+firstname: Kohei
 affiliation: NAIST
 imagesrc: "k-ichikawa.png"
 layout: person

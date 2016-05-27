@@ -14,7 +14,7 @@ layout: default
 <ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'steering' %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.first}} {{ post.title }}</a> - {{post.affiliation}}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> - {{post.affiliation}}
       </li>
     {% endif %}
   {% endfor %}
@@ -26,7 +26,7 @@ layout: default
 <ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'ex-steering' %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.first}} {{ post.title }}</a> 
+      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> 
       </li>
     {% endif %}
   {% endfor %}
@@ -38,7 +38,7 @@ layout: default
 <ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'researcher' %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.first}} {{ post.title }}</a> - {{post.affiliation}}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> - {{post.affiliation}}
       </li>
     {% endif %}
   {% endfor %}

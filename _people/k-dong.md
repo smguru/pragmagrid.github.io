@@ -1,6 +1,6 @@
 ---
 title: Dong
-first: Kejun (Kevin) 
+firstname: Kejun (Kevin) 
 affiliation: CNIC
 imagesrc: "k-dong.png"
 layout: person

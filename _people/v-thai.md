@@ -1,6 +1,6 @@
 ---
 title: Thai 
-first: Vinh Quang
+firstname: Vinh Quang
 affiliation: Director of IoIT
 imagesrc: "v-thai.png "
 layout: person

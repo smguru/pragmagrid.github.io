@@ -1,6 +1,6 @@
 ---
 title: Plale
-first: Beth
+firstname: Beth
 affiliation: Director, Data to Insight Center, Indiana University
 imagesrc: "b-plale.png"
 layout: person

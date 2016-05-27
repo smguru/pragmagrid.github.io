@@ -1,6 +1,6 @@
 ---
 title: Suhartanto
-first: Heru
+firstname: Heru
 affiliation: University of Indonesia
 imagesrc: 
 layout: person

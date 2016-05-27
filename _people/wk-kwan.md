@@ -1,6 +1,6 @@
 ---
 title: Kwan
-first: Wing Keung
+firstname: Wing Keung
 affiliation: University of Hong Kong
 imagesrc: 
 layout: person

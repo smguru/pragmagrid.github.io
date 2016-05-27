@@ -1,6 +1,6 @@
 ---
 title: Uthayopas 
-first: Putchong
+firstname: Putchong
 affiliation: Head of Computer Engineering Department, Faculty of Engineering, Kasetsart University
 imagesrc: "p-uthayopas.png"
 layout: person

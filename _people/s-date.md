@@ -1,6 +1,6 @@
 ---
 title: Date
-first: Susumu
+firstname: Susumu
 affiliation: Osaka University
 imagesrc: "s-date.png"
 layout: person

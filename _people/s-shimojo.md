@@ -1,6 +1,6 @@
 ---
 title: Shimojo
-first: Shinji
+firstname: Shinji
 affiliation: Vice Director, Osaka University
 imagesrc: "s-shimojo.jpg"
 layout: person

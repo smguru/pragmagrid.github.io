@@ -1,6 +1,6 @@
 ---
 title: Tsai 
-first: Whey-Fone
+firstname: Whey-Fone
 affiliation: Senior Research Fellow, NCHC
 imagesrc: "wf-tsai.png "
 layout: person

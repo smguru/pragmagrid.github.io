@@ -1,6 +1,6 @@
 ---
 title: Nan
-first: Kai
+firstname: Kai
 affiliation: CNIC
 imagesrc: "k-nan.png"
 layout: person

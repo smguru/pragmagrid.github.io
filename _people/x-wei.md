@@ -1,6 +1,6 @@
 ---
 title: Wei
-first: Xiaohui
+firstname: Xiaohui
 affiliation: College of Computer Science and Technology, Jilin University, Jilin University
 imagesrc: "x-wei.png"
 layout: person

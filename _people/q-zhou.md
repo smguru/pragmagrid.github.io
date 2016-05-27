@@ -1,6 +1,6 @@
 ---
 title: Zhou
-first: Quan (Gabriel)
+firstname: Quan (Gabriel)
 affiliation: Student/Research Assistant, Indiana University, School of Informatics and Computing, and Data To Insight Center
 imagesrc: "g-zhou.png"
 layout: person

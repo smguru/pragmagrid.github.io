@@ -1,6 +1,6 @@
 ---
 title: Tanaka
-first: Yoshio
+firstname: Yoshio
 affiliation: Dr. Eng., AIST
 imagesrc: "y-tanaka.png"
 layout: person

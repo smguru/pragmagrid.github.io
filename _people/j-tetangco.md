@@ -1,6 +1,6 @@
 ---
 title: Tetangco
-first: Jelina Tanya H. 
+firstname: Jelina Tanya H. 
 affiliation: ASTI
 imagesrc: 
 layout: person

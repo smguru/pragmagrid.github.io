@@ -1,6 +1,6 @@
 ---
 title: Wahab
-first: Habibah A.
+firstname: Habibah A.
 affiliation: Professor, USM
 imagesrc: "h-wahab.png"
 layout: person

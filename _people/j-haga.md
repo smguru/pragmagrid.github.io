@@ -1,6 +1,6 @@
 ---
 title: Haga
-first: Jason
+firstname: Jason
 affiliation: AIST, Japan
 imagesrc: "j-haga.png"
 layout: person

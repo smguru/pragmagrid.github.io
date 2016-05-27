@@ -1,6 +1,6 @@
 ---
 title: Cho
-first: Kum Won
+firstname: Kum Won
 affiliation: Director, KISTI
 imagesrc: "kw-cho.png "
 layout: person

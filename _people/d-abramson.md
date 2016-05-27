@@ -1,6 +1,6 @@
 ---
 title: Abramson
-first: David
+firstname: David
 affiliation: Director of Research Computing Centre, The University of Queensland
 imagesrc: "d-abramson.png"
 layout: person

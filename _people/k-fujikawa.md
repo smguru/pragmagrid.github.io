@@ -1,6 +1,6 @@
 ---
 title: Fujikawa
-first: Kazutoshi
+firstname: Kazutoshi
 affiliation: NAIST
 imagesrc: 
 layout: person

@@ -1,6 +1,6 @@
 ---
 title: Arzberger
-first: Peter
+firstname: Peter
 affiliation: Chair, PRAGMA Steering Committee, UC San Diego
 imagesrc: "p-arzberger.png "
 layout: person
