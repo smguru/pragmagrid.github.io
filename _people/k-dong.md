@@ -6,5 +6,6 @@ imagesrc: "k-dong.png"
 layout: person
 categories:
  - "steering"
+ - "researcher"
 ---
 

@@ -6,6 +6,7 @@ imagesrc: "b-plale.png"
 layout: person
 categories:
  - "steering"
+ - "researcher"
 ---
 
 Professor of Informatics and Computing Indiana University Bloomington

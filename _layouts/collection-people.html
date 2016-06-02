@@ -4,8 +4,6 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<section id="services">
-
 {% assign pages = site.[page.short] | sort: "title" %}
 
 <div class="border">
@@ -13,21 +11,13 @@ layout: default
 </div>
 <ul class="posts">
   {% for post in pages %}
-    {% if post.categories[0] == 'steering' %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> - {{post.affiliation}}
-      </li>
+    {% if post.categories[0] == 'steering-list' %}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">Current members</a> </li>
     {% endif %}
   {% endfor %}
-</ul>
-
-<div class="border">
-  <h4>EX-OFFICIO MEMBERS </h4>
-</div>
-<ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'ex-steering' %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> 
-      </li>
+      <li><a href="{{ post.url }}" title="{{ post.title }}">Ex-officio members</a> </li>
     {% endif %}
   {% endfor %}
 </ul>
@@ -37,121 +27,30 @@ layout: default
 </div>
 <ul class="posts">
   {% for post in pages %}
-    {% if post.categories[0] == 'researcher' %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> - {{post.affiliation}}
+    {% if post.categories[0] == 'researcher-list' %}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">Current researchers</a> 
+      </li>
+    {% endif %}
+  {% endfor %}
+  {% for post in pages %}
+    {% if post.categories[0] == 'ex-researchers' %}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> 
       </li>
     {% endif %}
   {% endfor %}
 </ul>
-        <div class="divider"></div>
-        <h3>EX-OFFICIO MEMBERS OF THE STEERING COMMITTEE:</h3>
-        <ul>
-            <li><strong>Arun Agarwal</strong><br />Professor, School of Computer and Information Services<br />Chairman, ECCNF, University of Hyderabad, India</li>
-            <li><strong>Col (NS) Larry Ang</strong><br />Formerly employed by the Bionformatics Institute, Singapore</li>
-            <li><strong>Maxine Brown</strong><br />Director, EVL, Computer Science Department, University of Chicago (UIC), Chicago, Illinois, USA</li>
-            <li><strong>Royol Chitradon</strong><br />Director, Committee and Secretariat<br />Hydro and Agro Informatics Institute<br />Ministry of Sciences and Technology<br />Cloud Security Alliance — Thailand Chapter</li>
-            <li><strong>Jysoo Lee</strong><br />Principal Researcher, Division of Supercomputing, Korea Institute of Science and Technology Information (KISTI), Daejeon, Korea</li>
-            <li><strong>Sangsan Lee</strong><br />President & CEO, Handysoft, Seoul, Korea</li>
-            <li><strong>Satoshi Matsuoka</strong><br />Professor, Tokyo Institute of Technology, Tokyo, Japan</li>
-            <li><strong>Rick McMullen</strong><br />Director, Arkansas High Performance Computing Center, University of Arkansas, USA</li>
-            <li><strong>Radha Nandkumar</strong><br />Director, Arkansas High Performance Computing Center, University of Arkansas, USA</li>
-            <li><strong>John O’Callaghan</strong><br />Emeritus Professor, The Australian National University<br />Principal, Lakeview Consulting</li>
-            <li><strong>Bernard Pailthorpe</strong><br />Professor of Physics (Honorary), University of Sydney, Australia<br />Director, Centre for machine Learning
-Charles Sturt University, Bathurst, NSW</li>
-            <li><strong>Piyawut (Joe) Srichaikul</strong><br />Assistant Executive Director, Platform Technology Program<br />National Electronics and Computer Technology Center (NECTEC), Thailand</li>
-            <li><strong>Jim Williams</strong><br />Director, International Network Operations (Retired)<br />Indiana University and Internet2, USA</li>
-            <li><strong>Baoping Yan</strong><br />
- Computer Network Information Center (CNIC), Chinese Academy of Sciences. </li>
-        </ul>
 
-        <div class="divider"></div>
-        
-        <h3>RESEARCHERS:</h3>
-           <ul>
-          <li><strong><a href="a-agarwal.php">Arun Agarwal</a></strong> - University of Hyderabad</li>
-          <li><strong>Ota Akihiko</strong> - AIST</li>
-            <li><strong><a href="r-beaman.php">Reed Beaman</a></strong> - University of Florida</li>
-            <li><strong>Paul Bonnington</strong> - Monash University</li>
-            <li><strong>Maxine Brown</strong> - StarLight and TransLight/StarLight Initiatives</li>
-            <li><strong><a href="c-carey.php">Cayelan Carey</a></strong> - Virginia Tech</li>
-            <li><strong>Huah Yong Chan</strong> - Universiti Sains Malaysia</li>
-            <li><strong>Chi-Ming Chen</strong> - NCHC</li>
-            <li><strong>Kuo-Yang Cheng</strong> - NCHC</li>
-            <li><strong><a href="l-clementi.php">Luca Clementi</a></strong> - UC San Diego</li>
-            <li><strong><a href="k-dong.php">Kejun (Kevin) Dong</a></strong>, CNIC</li>
-            <li><strong><a href="r-figueiredo.php">Renato Figueiredo</a></strong> - Associate Professor, Electrical and Computer Engineering, University of Florida</li>
-            <li><strong><a href="j-fortes.php">Jose Fortes</a></strong> - Professor and AT&T Eminent Scholar, University of Florida</li>
-            <li><strong><a href="t-fountain.php">Tony R. Fountain</a></strong> - UC San Diego</li>
-            <li><strong><a href="v-kung-haga">Vivian Kung Haga</a></strong> - Balboa Park Online Collaborative</li>
-            <li><strong><a href="j-haga.php">Jason Haga</a></strong> - UC San Diego</li>
-            <li><strong><a href="p-hanson.php">Paul Hanson</a></strong> - Distinguished Professor of Research, University of Wisconsin, Center for Limnology</li>          
-            <li><strong>P.T. Ho</strong> - University of Hong Kong</li>
-            <li><strong>Wesley Hsu</strong> - Balboa Park Online Collaborative</li>
-            <li><strong><a href="w-huang.php">Weicheng Huang</a></strong> - NCHC</li>
-            <li><strong><a href="k-ichikawa.php">Kohei Ichikawa</a></strong> - NAIST</li>
-            <li><strong>Eiji Kawai</strong> - NICT</li>
-            <li><strong>Nawawit Kes</strong> - Kasetsart University</li>
-            <li><strong>Tomohiro Kudoh -</strong> AIST</li>
-            <li><strong>Ruth Lee</strong> - KISTI</li>
-            <li><strong>Satoshi Matsuoka</strong> - Titech</li>
-            <li><strong>George McLaughlin</strong> - TransPAC3/Indiana University</li>
-            <li><strong><a href="b-plale.php">Beth Plale</a></strong> - Director, Data To Insight Center and Professor of Informatics and Computing, Indiana University</li>
-            <li><strong>Prapaporn Rattanatamrong</strong> - Thammasat University</li>
-            <li><strong>Jennifer Schopf</strong> - TransPAC3/Indiana University</li>
-            <li><strong>Peter Shin</strong> -  UC San Diego</li>
-            <li><strong>Piyawut (Joe) Srichaikul</strong> -  NECTEC</li>
-            <li><strong>Aimee Stewart</strong> -  University of Kansas</li>
-            <li><strong>Osamu Tatebe</strong> - University of Tsukuba</li>
-            <li><strong><a href="s-tilak.php">Sameer Tilak</a></strong> - UC San Diego</li>
-            <li><strong><a href="m-tsugawa.php">Mauricio Tsugawa</a></strong> - University of Florida</li>
-            <li><strong>Sornthep Vannarat</strong> - NECTEC</li>
-            <li><strong>Rajeev Wankar</strong> - University of Hyderabad</li>
-            <li><strong>Nadya Williams</strong> - UC San Diego</li>
-            <li><strong>Hiroaki Yamanaka</strong> - NICT</li>
-
-        </ul>
-
-        <div class="divider"></div>
-        <h3>STUDENTS:</h3>
-        <ul>
-           <li><strong>Praween Amontamavt</strong> - NIST</li>
-           <li><strong>Sangwook Bae </strong>- Konkuk University</li>
-       <li><strong>Sandy Charlespeterson</strong> - Kasetsart University</li>
-           <li><strong>Anun Charoensuk</strong></li>
-        <li><strong>Khureltulga Dashdavaa</strong> - Osaka University</li> 
-           <li><strong>Chavit Denninart</strong> - Kasetsart University</li>
-       <li><strong>Jonathan Doubek</strong> - Virginia Tech</li> 
-           <li><strong>Kannan Govindorroyan</strong> - Anna University</li>
-        <li><strong>Kyuho Jeong</strong> - University of Florida</li> 
-           <li><strong><a href="m-jiang.php">Meilan Jiang</a></strong> - Student (Ph.D. Candidate), Konkuk University, South Korea </li>
-        <li><strong>Puangrat Jinpon</strong></li>
-           <li><strong>Nawawit Kessaraphong</strong> - Kasetsart University</li>
-           <li><strong>Myongjin Kim</strong> - Konkuk University</li>
-       <li><strong>Grant Langlois</strong> - University of Wisconsin</li> 
-       <li><strong>Weishan Li</strong> - Jilin University</li> 
-       <li><strong>Xieming Li</strong>, University of Tsukuba</li> 
-             <li><strong><a href="y-luo.php">Yuan Luo</a></strong> - Research Assistant, Indiana University</li>
-           <li><strong>Michael Nekrasov</strong> - UCSB</li>
-        <li><strong>Premrudee Noonsang</strong></li>
-     
-       <li><strong>Hiroki Ohtsuji</strong> - University of Tsukuba</li> 
-           <li><strong>Wittaya Pheera</strong></li>
-        <li><strong>SeungHyun Seo</strong> - Konkuk University</li>
-       <li><strong>Yi Shen</strong> - CNIC</li> 
-       <li><strong>Pierre St. Juste</strong> - University of Florida</li> 
-       <li><strong>Taiki Tada</strong> - Osaka University</li> 
-       <li><strong>Fuyumasa Takatsu</strong> - University of Tsukuba</li> 
-      
-       <li><strong>Pongsakorn U-chupala</strong> - NAIST</li> 
-       <li><strong>Luke Winslow</strong> - University of Wisconsin</li> 
-       <li><strong>Xin Xu</strong> - CNIC</li> 
-       <li><strong>Chao (Chris) Yan</strong> - CNIC</li> 
-           <li><strong>Gu Yi</strong> - Konkuk University</li>
-          <li><strong><a href="g-zhou.php">Gabriel Zhou</a></strong> - Research Assistant, Indiana University: School of Informatics and Computing, and Data To Insight Center</li>
-        </ul>
-          
-
-</section>
+<div class="border">
+  <h4>STUDENTS </h4>
+</div>
+<ul class="posts">
+  {% for post in pages %}
+    {% if post.categories[0] == 'students' %}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> 
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <hr class="primary">
 <p> <a href="{{ page.url }}"> Back to top </a> </p>
