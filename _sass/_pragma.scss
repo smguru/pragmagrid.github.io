@@ -15,7 +15,7 @@ $grey-light: #fafafa;
 
 .center-image {
     margin: 0 auto;
-	display: block;
+    display: block;
 }
 
 
@@ -73,7 +73,7 @@ ul { padding:0px 14px 10px 14px;text-align:justify; }
     .quicklinks span {color:#338ba7; font-weight:bold;}
     .quicklinks img {margin:0 0 12px 0; float:left;}
 */
-.ql-entry {width:98%; margin: 0; padding: 0 0 0 1px;}      
+.ql-entry {width:96%; margin: 0; padding: 0 0 0 5px;}      
 /* .ql-entry p.more { text-align:center; padding:0 0 0 -9px;} */
 .ql-entry p {font-size:14px; color:$teal-dark;} 
 .ql-entry h4 {padding:0 0 0 0px;  color:$white; font-weight:bold; background: $teal-dark;text-align:center} 
@@ -86,3 +86,14 @@ ul { padding:0px 14px 10px 14px;text-align:justify; }
 img.thum-left { float:left; margin: 0 10px 0 0; width: 100px; }
 img.thum-right { float:right; margin: 0 10px 0 0;  width: 100px;}
 
+
+/* page images */
+img.img-left { float:left; margin:0 10px 0 0; }
+img.img-right { float:right; margin:0 0 0 10px; }
+
+
+/* overview images */
+.collab {float:left; margin:10px 20px 10px 12px;}
+.collab p {margin:0; padding:0;}
+.collab-container img {float:left;}
+div.clear   { clear:both; height:.01em; overflow:hidden; }
