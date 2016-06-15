@@ -4,6 +4,7 @@ image_path: ""
 layout: page
 meeting_date: January 27-29, 2016, Manila Phillippines
 meeting_url: http://pragma30.pragma-grid.net/dct/page/1
+date: 2016-01-27
 ---
 
 ### January 27

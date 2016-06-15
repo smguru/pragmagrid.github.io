@@ -4,6 +4,7 @@ image_path: ""
 layout: page
 meeting_date: October 16-18, 2013, Beijing, China
 meeting_url: http://pragma25.pragma-grid.net/dct/page/1
+date: 2013-10-16
 ---
 
 ### October 16

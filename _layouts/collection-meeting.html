@@ -3,12 +3,7 @@ layout: default
 ---
 
 <section class="bg-dark">
-  <div class="text-center">
     <h1>{{ page.title }}</h1>
-  </div>
-  <div class="container">
-    For earlier meetings please see <a href="/archive">Archive</a><br/><br/>
-  </div>
 </section>
 
 <section id="services">
@@ -16,10 +11,10 @@ layout: default
     <div class="row">
       <!--{% for service in site.music %} {% endfor %} -->
       <table class="meeting">
-        {% for service in site.[page.short] %}
+        {% for service in site.[page.short] reversed %}
         <tr>
           <td class="strongword">
-            {{ service.title }}
+            {{ service.title }} 
           </td>
           <td>
             {{ service.meeting_date }}
@@ -33,7 +28,12 @@ layout: default
       </table>
     </div>
   </div>
+
 </section>
+
+<div class="container">
+  <br/>For earlier meetings please see <a href="/archive">Archive</a> <br/><br/>
+</div>
 
 <hr class="primary">
 <p> <a href="{{ page.url }}"> Back to top </a> </p>

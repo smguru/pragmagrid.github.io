@@ -4,6 +4,7 @@ image_path: ""
 layout: page
 meeting_date: October 15-17, 2014, Bloomington, Indiana USA
 meeting_url: http://pragma27.pragma-grid.net/dct/page/1
+date: 2014-10-15
 ---
 
 ### October 15

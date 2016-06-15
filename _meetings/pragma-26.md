@@ -4,6 +4,7 @@ image_path: ""
 layout: page
 meeting_date: April 9-11, 2014, Tainan, Taiwan
 meeting_url: http://pragma26.pragma-grid.net/dct/page/1
+date: 2014-04-09
 ---
 
 ### April 9
