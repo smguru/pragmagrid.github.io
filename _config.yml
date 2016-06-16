@@ -29,6 +29,8 @@ collections:
      output: true
   meetings:
      output: true
+  news:
+     output: true
 
 
 exclude:

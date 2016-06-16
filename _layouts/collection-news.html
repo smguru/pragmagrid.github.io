@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+<div class="border">
+    <h2>{{ page.title }}</h2>
+</div>
+
+<section id="services">
+  <div class="container">
+    <div class="row">
+      <table class="">
+        {% for service in site.[page.short] reversed %}
+          {% if service.categories[0] == "news" %}
+            <tr>
+              <td>
+                 <span class="smalltitle">{{ service.date | date: '%B %d, %Y'  }}:</span>
+                 <span class="strongword">{{ service.title }}</span> 
+              </td>
+            </tr>
+            <tr>
+              <td><p> {{service.content}}</p> </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+</section>
+
+<div class="border">
+    <h2>Upcoming Events</h2>
+</div>
+
+<section id="services">
+  <div class="container">
+    <div class="row">
+      <table class="">
+        {% for service in site.[page.short] reversed %}
+          {% if service.categories[0] == "events" %}
+            <tr>
+              <td>
+                 <span class="smalltitle">{{ service.dates }}: </span>
+                 <span class="strongword">{{ service.title }}</span> 
+              </td>
+            </tr>
+            <tr>
+              <td><p> {{service.content}}</p> </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+
+<P>
+Please see <a href="/meetings">Earlier events</a> for completed PRAGMA meetings. <br/>
+</p>
+
+</section>
+
+
+<div class="border">
+    <h2>Highlights</h2>
+</div>
+
+<section id="services">
+  <div class="container">
+    <div class="row">
+      <table class="">
+        {% for service in site.[page.short] reversed %}
+          {% if service.categories[0] == "archive" %}
+            <tr>
+              <td>
+                 <span class="smalltitle">{{ service.date | date: '%B %d, %Y'  }}:</span>
+                 <span class="strongword">{{ service.title }}</span> 
+              </td>
+            </tr>
+            <tr>
+              <td><p> {{service.content}}</p> </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+</section>
+
+<hr class="primary">
+
+<p> <a href="{{ page.url }}"> Back to top </a> </p>
