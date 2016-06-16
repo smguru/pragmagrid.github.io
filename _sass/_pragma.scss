@@ -97,3 +97,10 @@ img.img-right { float:right; margin:0 0 0 10px; }
 .collab p {margin:0; padding:0;}
 .collab-container img {float:left;}
 div.clear   { clear:both; height:.01em; overflow:hidden; }
+
+/* news markup */
+
+.smalltitle {
+    font-weight: 600;
+    color: $blue-dark;
+}
