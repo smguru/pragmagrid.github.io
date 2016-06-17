@@ -1,7 +1,7 @@
 ---
 title: Hanson
 firstname: Paul
-affiliation: Distinguished Professor of Research, University of Wisconsin, Center for Limnology
+affiliation: Distinguished Professor of Research, Center for Limnology, University of Wisconsin
 imagesrc: "p-hanson.png"
 layout: person
 categories:
