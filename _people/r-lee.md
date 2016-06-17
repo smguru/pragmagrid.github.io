@@ -1,7 +1,7 @@
 ---
 title: Lee
 firstname: Ruth
-affiliation:  KISTI
+affiliation:  KISTI, Korea
 imagesrc: 
 layout: person
 categories:
