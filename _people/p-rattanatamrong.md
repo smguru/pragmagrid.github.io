@@ -1,7 +1,7 @@
 ---
 title: Rattanatamrong
 firstname: Prapaporn (Nan)
-affiliation: Thammasat University
+affiliation: Thammasat University, Thailand
 imagesrc: 
 layout: person
 categories:
