@@ -1,7 +1,7 @@
 ---
 title: Agarwal
 firstname: Arun
-affiliation: University of Hyderabad, India
+affiliation: Dean, School of Computer and Information Sciences, University of Hyderabad, India
 imagesrc: "a-agarwal.png"
 layout: person
 categories:
