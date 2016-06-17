@@ -1,7 +1,7 @@
 ---
 title: Huang
 firstname: Weicheng
-affiliation: Researcher, Division Manager of Software Technology Division, NCHC
+affiliation: Researcher, Division Manager of Software Technology Division, NCHC, Taiwan
 imagesrc: "w-huang.png"
 layout: person
 categories:
