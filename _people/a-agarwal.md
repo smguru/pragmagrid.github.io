@@ -7,12 +7,12 @@ layout: person
 categories:
  - "researcher"
 ---
-Professor, School of Computer and Information Sciences. 
+Dean, School of Computer and Information Sciences 
 
 **PRAGMA Role:** Member since 2002; Co-advisor to PRAGMA Students; Member,
-Resources and Geoscience Working Group.
+Resources Working Group.
 
-**Related Work:** Networking with Interest Groups to promote teaching and research.
+**Related Work:** Networking with interest groups to promote teaching and research.
 
         
         
