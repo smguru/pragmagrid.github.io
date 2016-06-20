@@ -1,7 +1,7 @@
 ---
 title: Dong
 firstname: Kejun (Kevin) 
-affiliation: CNIC, People's Republic of China
+affiliation: Dr., CNIC, Chinese Academy of Sciences
 imagesrc: "k-dong.png"
 layout: person
 categories:
