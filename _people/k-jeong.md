@@ -1,7 +1,7 @@
 ---
 title: Jeong 
 firstname: Karpjoo
-affiliation: Professor, Konkuk University
+affiliation: Professor, Konkuk University, Seoul, Korea
 imagesrc: "k-jeong.png "
 layout: person
 categories:
