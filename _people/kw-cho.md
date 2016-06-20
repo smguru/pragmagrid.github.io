@@ -1,7 +1,7 @@
 ---
 title: Cho
 firstname: Kum Won
-affiliation: Director, KISTI
+affiliation: Director, Korea Institute of Science and Technology Information (KISTI)
 imagesrc: "kw-cho.png "
 layout: person
 categories:
