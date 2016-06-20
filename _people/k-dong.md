@@ -9,10 +9,8 @@ categories:
  - "researcher"
 ---
 
-**PRAGMA Role:**Steering Committee Member
+**PRAGMA Role: **Steering Committee Member
 
-**Related Work:**Collaboration Technology, Cloud Computing, Data Mining
+**Related Work: **Collaboration Technology, Cloud Computing, Data Mining
 
-[Website][1]
 
-[1]http://www.escience.cn/people/kevin
