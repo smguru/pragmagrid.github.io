@@ -1,7 +1,7 @@
 ---
 title: Fujikawa
 firstname: Kazutoshi
-affiliation: NAIST
+affiliation: NAIST, Japan
 imagesrc: 
 layout: person
 categories:
