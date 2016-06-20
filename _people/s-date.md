@@ -1,14 +1,12 @@
 ---
 title: Date
 firstname: Susumu
-affiliation: Osaka University
+affiliation: Associate Professor, Cybermedia Center, Osaka University
 imagesrc: "s-date.png"
 layout: person
 categories:
  - "steering"
 ---
-
-Associate Professor, Cybermedia Center, Osaka University
 
 **PRAGMA Role:**  Member of Steering Committee
 
