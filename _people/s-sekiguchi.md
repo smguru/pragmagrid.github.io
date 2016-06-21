@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Steering Committee Member.
+**PRAGMA Role:** PRAGMA Steering Committee Member
 
 [Website][1]
 
