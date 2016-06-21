@@ -1,14 +1,14 @@
 ---
 title: Nan
 firstname: Kai
-affiliation: CNIC
+affiliation: Computer Network Information Center (CNIC), Chinese Academy of Sciences
 imagesrc: "k-nan.png"
 layout: person
 categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Steering Committee Member.
+**PRAGMA Role:** PRAGMA Steering Committee Member
 
 **Related Work:** Computer networks, distributed systems and CSCW. Working on Duckling
 
