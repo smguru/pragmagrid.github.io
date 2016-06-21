@@ -12,3 +12,7 @@ categories:
 
 **Related Work:** Disaster Management Information Platform development, Big Data
 Platform and Analytics associated with Disaster management.
+
+[Website][1]
+
+[1]: https://www.researchgate.net/profile/Whey_Fone_Tsai2
