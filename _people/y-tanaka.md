@@ -1,14 +1,14 @@
 ---
 title: Tanaka
 firstname: Yoshio
-affiliation: Dr. Eng., AIST
+affiliation: Dr. Eng., National Institute of Advanced Industrial Science and Technology (AIST)
 imagesrc: "y-tanaka.png"
 layout: person
 categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Steering Committee Member; Co-Lead of PRAGMA Resources and Data Working Group.
+**PRAGMA Role:** PRAGMA Steering Committee Member; Co-Lead of PRAGMA Resources and Data Working Group
 
 **Related Work:** Building international communities and cyberinfrastructure to
 advance science and technology, and developing technologies such as
