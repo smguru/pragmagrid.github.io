@@ -1,7 +1,7 @@
 ---
 title: Sekiguchi
 firstname: Satoshi
-affiliation: Deputy Director-General, Directorate for Information Technology and Electronics, AIST
+affiliation: Deputy Director-General, Directorate for Information Technology and Electronics, National Institute of Advanced Industrial Science and Technology (AIST)
 imagesrc: "s-sekiguchi.png"
 layout: person
 categories:
