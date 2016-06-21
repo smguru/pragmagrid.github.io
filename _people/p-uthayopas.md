@@ -19,3 +19,7 @@ capability in solving real world problem that increases the quality of life.
 In addition, I also interest in how to educate next generation computer
 scientists in Thailand.
 
+
+[Website][1]
+
+[1]: https://hpcnc.wordpress.com/faculty/putchong-uthayopas/
