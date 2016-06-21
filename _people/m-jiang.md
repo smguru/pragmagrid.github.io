@@ -14,3 +14,8 @@ categories:
 cyber-infrastructure to support lake environmental research for Korean Lake
 Ecological Observatory Network. Key projects are KLEON and Urban-ecosystem
 support system.
+
+[Website][1]
+
+[1]: http://blog.gleon.org/author/meilan-jiang/
+
