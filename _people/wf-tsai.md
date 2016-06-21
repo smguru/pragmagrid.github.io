@@ -1,7 +1,7 @@
 ---
 title: Tsai 
 firstname: Whey-Fone
-affiliation: Senior Research Fellow, National Center for High-performance Computing
+affiliation: Senior Research Fellow, National Center for High-performance Computing (NCHC)
 imagesrc: "wf-tsai.png "
 layout: person
 categories:
