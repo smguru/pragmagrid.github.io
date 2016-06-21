@@ -46,7 +46,14 @@ layout: default
 <ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'students' %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> 
+      <li><a href="{{ post.url }}" title="{{ post.title }}"> Current students</a> 
+      </li>
+    {% endif %}
+  {% endfor %}
+
+  {% for post in pages %}
+    {% if post.categories[0] == 'ex-students' %}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">Alumni students</a> 
       </li>
     {% endif %}
   {% endfor %}
