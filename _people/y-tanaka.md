@@ -1,7 +1,7 @@
 ---
 title: Tanaka
 firstname: Yoshio
-affiliation: Principal Research Scientist, National Institute of Advanced Industrial Science and Technology (AIST)
+affiliation: Director, Information Technology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST) 
 imagesrc: "y-tanaka.png"
 layout: person
 categories:
