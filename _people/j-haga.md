@@ -1,16 +1,14 @@
 ---
 title: Haga
 firstname: Jason
-affiliation: AIST, Japan
+affiliation: Senior Research Scientist, Information Technology Research Institute, AIST
 imagesrc: "j-haga.png"
 layout: person
 categories:
  - "researcher"
 ---
 
-Assistant Project Scientist
-
-**PRAGMA Role:** Member of Telescience and Bioscience working groups. Mentor in PRIME program. 
+**PRAGMA Role:** Bioscience Working Group Lead; Member of Telescience Working Group
 
         
         
