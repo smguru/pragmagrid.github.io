@@ -8,9 +8,9 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Steering Committee Member
+**PRAGMA Role:** Steering Committee Member.
 
-**Related Work:** Computer networks, distributed systems and CSCW, Duckling software
+**Related Work:** Computer networks, distributed systems and CSCW, Duckling software.
 
 [Website][1]
 
