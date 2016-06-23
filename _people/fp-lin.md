@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** Steering Committee Member, Co-Chair/Member of Telescience Working Group
+**PRAGMA Role:** Steering Committee Member, Co-Chair/Member of Telescience Working Group.
 
 **Related Work:** Developing Data-oriented and community-based Cyberinfrastrcuture
 for Telescience, Geoscience and bioscience. Key projects are Earth Science
