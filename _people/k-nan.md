@@ -1,7 +1,7 @@
 ---
 title: Nan
 firstname: Kai
-affiliation: Deputy Diretor General, Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
+affiliation: Deputy Director General, Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
 imagesrc: "k-nan.png"
 layout: person
 categories:
