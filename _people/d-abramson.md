@@ -9,9 +9,9 @@ categories:
 ---
 
 **PRAGMA Role:**  Member of Steering Committee. Involved in PRIME & MURPA
-International internship activities, and the resources group.
+International internship activities, and the PRAGMA Resources group.
 
-**Related Work**: High performance computer systems design and software
+**Related Work**: High-performance computer systems design and software
 engineering tools for programming parallel and distributed supercomputers.
 
 
