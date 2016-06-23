@@ -1,7 +1,7 @@
 ---
 title: Nakasan
 firstname: Chawanat
-affiliation: Student (Ph.D. Candidate), NAIST
+affiliation: Student (Ph.D. Candidate), Nara Institute of Science and Technology (NAIST)
 imagesrc: 
 layout: person
 categories:
