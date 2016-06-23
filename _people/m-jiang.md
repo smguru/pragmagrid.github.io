@@ -1,7 +1,7 @@
 ---
 title: Jiang
 firstname: Meilan
-affiliation: Student (Ph.D. Candidate), Konkuk University, South Korea
+affiliation: Student (Ph.D. Candidate), Konkuk University 
 imagesrc: "m-jiang.png"
 layout: person
 categories:
