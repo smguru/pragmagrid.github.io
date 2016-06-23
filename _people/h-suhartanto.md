@@ -1,7 +1,7 @@
 ---
 title: Suhartanto
 firstname: Heru
-affiliation: University of Indonesia
+affiliation: Professor, Computer Science, Universitas Indonesia
 imagesrc: 
 layout: person
 categories:
