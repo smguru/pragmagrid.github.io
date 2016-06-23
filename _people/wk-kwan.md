@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** Steering Committee Member
+**PRAGMA Role:** Steering Committee Member.
 
 
-**Related Work:** Fluid Mechanics, HPC and Grid Computing Applications
+**Related Work:** Fluid Mechanics, HPC and Grid Computing Applications.
