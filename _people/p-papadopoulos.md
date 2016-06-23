@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Steering Committee Member. Resources working group member.
+**PRAGMA Role:** Steering Committee Member and Member of PRAGMA's Resources Working Group.
 
 **Related Work:** Toolkit since 2007. As CSTNET director, developing advanced networks.
 
