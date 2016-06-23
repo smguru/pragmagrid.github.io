@@ -2,7 +2,7 @@
 title: U-chupala
 firstname: Pongsakorn
 affiliation: Student (Ph.D. Candidate), NAIST
-imagesrc: ""
+imagesrc: 
 layout: person
 categories:
  - "steering"
