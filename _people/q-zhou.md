@@ -8,6 +8,6 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** Student Steering Committee Member; PRAGMA Member since 2013
+**PRAGMA Role:** PRAGMA Student Steering Committee Member.
 
 
