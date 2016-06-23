@@ -10,6 +10,8 @@ categories:
 
 **PRAGMA Role:** Lake Expedition Scientist
 
+**Related Work:** Freshwater Ecology, Community and Ecosystem Ecology
+
 [Website][1]
 
 [1]: [http://www.carey.biol.vt.edu]
