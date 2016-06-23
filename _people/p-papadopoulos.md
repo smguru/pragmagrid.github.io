@@ -1,7 +1,7 @@
 ---
 title: Papadopoulos
 firstname: Phil
-affiliation: Director, UC Computing Systems, San Diego Supercomputer Center (SDSC), UC San Diego (UCSD); Associate Research Professor (Adjunct), Computer Science, UCSD, SDSC/UCSD
+affiliation: Director, UC Computing Systems, San Diego Supercomputer Center (SDSC), UC San Diego (UCSD); Associate Research Professor (Adjunct), Computer Science, UCSD 
 imagesrc: "p-papadopoulos.png"
 layout: person
 categories:
