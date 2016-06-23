@@ -1,7 +1,7 @@
 ---
 title: Dong
 firstname: Kejun (Kevin) 
-affiliation: Dr., CNIC, Chinese Academy of Sciences
+affiliation: Professor, Chinese Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
 imagesrc: "k-dong.png"
 layout: person
 categories:
@@ -11,7 +11,7 @@ categories:
 
 **PRAGMA Role:** Steering Committee Member 
 
-**Related Work:** Collaboration Technology, Cloud Computing, Data Mining.
+**Related Work:** Collaboration Technology, Cloud Computing, Distributed Systems and Data Mining
 
 <br>
 
