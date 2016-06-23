@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Student Steering Committee Member
+**PRAGMA Role:** PRAGMA Student Steering Committee Member.
 
 **Related Work:** Environmental and ecological Data management. Developing
 cyber-infrastructure to support lake environmental research for Korean Lake
