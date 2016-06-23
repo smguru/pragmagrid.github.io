@@ -9,9 +9,9 @@ categories:
  - "researcher"
 ---
 
-**PRAGMA Role:** Steering Committee Member 
+**PRAGMA Role:** Steering Committee Member. 
 
-**Related Work:** Collaboration Technology, Cloud Computing, Distributed Systems and Data Mining
+**Related Work:** Collaboration Technology, Cloud Computing, Distributed Systems and Data Mining.
 
 <br>
 
