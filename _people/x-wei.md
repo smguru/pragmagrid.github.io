@@ -1,7 +1,7 @@
 ---
 title: Wei
 firstname: Xiaohui
-affiliation: College of Computer Science and Technology, Jilin University, Jilin University
+affiliation: Dean, College of Computer Science and Technology, Jilin University
 imagesrc: "x-wei.png"
 layout: person
 categories:
