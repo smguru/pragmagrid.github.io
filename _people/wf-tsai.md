@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** Member, PRAGMA Geoscience Working Group; Member PRAGMA Steering Committee
+**PRAGMA Role:** Steering Committee Member and Member of PRAGMA's Geoscience Working Group.
 
 **Related Work:** Disaster Management Information Platform development, Big Data
 Platform and Analytics associated with Disaster management.
