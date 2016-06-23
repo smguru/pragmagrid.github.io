@@ -1,7 +1,7 @@
 ---
 title: Nan
 firstname: Kai
-affiliation: Computer Network Information Center (CNIC), Chinese Academy of Sciences
+affiliation: Deputy Diretor General, Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
 imagesrc: "k-nan.png"
 layout: person
 categories:
@@ -10,7 +10,7 @@ categories:
 
 **PRAGMA Role:** PRAGMA Steering Committee Member
 
-**Related Work:** Computer networks, distributed systems and CSCW. Working on Duckling
+**Related Work:** Computer networks, distributed systems and CSCW, Duckling software
 
 [Website][1]
 
