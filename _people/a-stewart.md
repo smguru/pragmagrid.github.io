@@ -1,7 +1,7 @@
 ---
 title: Stewart
 firstname: Aimee
-affiliation: University of Kansas
+affiliation: Senion Systems Programmer, KU Biodiversity Institute & National History Museum, The University of Kansas
 imagesrc: 
 layout: person
 categories:
