@@ -1,7 +1,7 @@
 ---
 title: Thai 
 firstname: Vinh Quang
-affiliation: Director of IoIT
+affiliation: Vice-Chairman, Vietnamese Academy of Science and Technology, Institute of Information Technology (IOIT)
 imagesrc: "v-thai.png "
 layout: person
 categories:
