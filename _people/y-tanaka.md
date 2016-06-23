@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Steering Committee Member; Co-Lead of PRAGMA Resources and Data Working Group
+**PRAGMA Role:** Steering Committee Member; Co-Lead of PRAGMA Resources and Data Working Group.
 
 **Related Work:** Building international communities and cyberinfrastructure to
 advance science and technology, and developing technologies such as
