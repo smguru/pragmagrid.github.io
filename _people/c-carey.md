@@ -1,7 +1,7 @@
 ---
 title: Carey
 firstname: Cayelan
-affiliation:  Assistant Professor, Dept. of Biological Sciences, Virginia Tech
+affiliation:  Assistant Professor of Biological Sciences, Virginia Tech
 imagesrc: "c-carey.jpg"
 layout: person
 categories:
