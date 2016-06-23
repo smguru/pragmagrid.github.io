@@ -1,7 +1,7 @@
 ---
 title: Kwan
 firstname: Wing Keung
-affiliation: Assistant IT Director, University of Hong Kong
+affiliation: Assistant IT Director, The University of Hong Kong
 imagesrc: 
 layout: person
 categories:
