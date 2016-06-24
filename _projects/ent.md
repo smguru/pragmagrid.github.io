@@ -14,7 +14,7 @@ layout: page
   * is not a production system;
   * allows complete freedom to access and configure network resources.
 
-* Provide access to SDN hardware/software to PRAGMA researchers.
+* Provide access of SDN hardware/software to PRAGMA researchers.
 
 * Offer networking support for PRAGMA multi-cloud
   and user-defined trust envelopes.
