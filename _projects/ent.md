@@ -19,6 +19,10 @@ layout: page
 * Offer networking support for PRAGMA multi-cloud
   and user-defined trust envelopes.
 
+<p>
+
 See [technical documentation][1] in the PRAGMA-ENT public repository.
+
+<p>
 
 [1]: https://github.com/pragmagrid/pragma_ent/wiki
