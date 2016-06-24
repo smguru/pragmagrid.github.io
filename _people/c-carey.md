@@ -14,4 +14,4 @@ categories:
 
 [Website][1]
 
-[1]: [http://www.carey.biol.vt.edu]
+[1]: [http://www.biol.vt.edu/faculty/carey/]
