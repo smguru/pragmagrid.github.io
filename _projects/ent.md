@@ -12,7 +12,7 @@ layout: page
 * Build breakable international SDN testbed for use by PRAGMA researchers that:
 
   * is not a production system;
-  * allows complete freedom to access and configure netwokr resources.
+  * allows complete freedom to access and configure network resources.
 
 * Provide access to SDN hardware/software to PRAGMA researchers.
 
