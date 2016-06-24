@@ -8,7 +8,7 @@ categories:
  - "researcher"
 ---
 
-**PRAGMA Role:** GLEON expedition leader
+**PRAGMA Role:** GLEON Expedition Leader
 
 **Related Work:** Forming teams to better understand lake ecosystems through
 developing sensor networks and numerical simulation models. Multi-disciplinary
