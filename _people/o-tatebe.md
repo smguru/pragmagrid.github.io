@@ -1,10 +1,17 @@
 ---
 title: Tatebe
 firstname: Osamu
-affiliation: University of Tsukuba, Japan
+affiliation: Professor, University of Tsukuba, Japan
 imagesrc: 
 layout: person
 categories:
  - "researcher"
 ---
 
+**PRAGMA Role:** Researcher
+
+**Related Work:** High performance and data-intensive computing; parallel and distributed system software.
+
+[Website][1]
+
+[1]: http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/
