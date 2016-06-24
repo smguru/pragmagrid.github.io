@@ -2,7 +2,7 @@
 title: Figueiredo
 firstname: Renato
 affiliation: Professor, Electrical and Computer Engineering, University of Florida
-imagesrc:  
+imagesrc: "r-figueiredo.png"
 layout: person
 categories:
  - "steering"
