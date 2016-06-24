@@ -8,3 +8,11 @@ categories:
  - "researcher"
 ---
 
+**PRAGMA Role:** Research co-lead for Lifemapper
+
+
+**Related Work:** Biodiversity research using geospatial species data to create distribution maps via Lifemapper.
+
+[Website][1]
+
+[1]: https://biodiversity.ku.edu/informatics
