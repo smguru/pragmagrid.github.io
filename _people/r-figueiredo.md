@@ -9,11 +9,9 @@ categories:
  - "researcher"
 ---
 
-**PRAGMA Role:** Steering Committee Member.
+**PRAGMA Role:** Steering Committee Member. Leading research and development of peer-to-peer virtual network overlays.
 
-**Related Work:** Virtualization in distributed systems (virtual machines, networks, 
-file systems, Autonomic computing, Peer-to-peer systems, Social networks and their 
-applications in systems design, Cloud computing, Computer architecture.
+**Related Work:** Research and development of software-based overlay virtual private network (VPN) systems that facilitate private communication and collaboration among Internet users. Key projects in addition to PRAGMA are IP-over-P2P and SocialVPN.
 
 [Website][1]
 
