@@ -10,9 +10,9 @@ categories:
 
 **PRAGMA Role:** PRAGMA Steering Committee Member
 
-**Related Work:** Member of the Council, Research Data Alliance — https://rd-alliance.org/
+**Related Work:** Member of the Council, Research Data Alliance: https://rd-alliance.org/
 
-Member, Science Council of Japan  http://www.scj.go.jp/en/
+Member, Science Council of Japan: http://www.scj.go.jp/en/
 
 [Website][1]
 
