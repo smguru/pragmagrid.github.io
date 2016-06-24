@@ -8,9 +8,9 @@ categories:
  - "researcher"
 ---
 
-**PRAGMA Role:** Participant of Resource Work Group, Ezilla
+**PRAGMA Role:** Participant of Resource Work Group, Ezilla.
 
-**Related Work:** Cloud Interoperability Research project of NSC, Taiwan
+**Related Work:** Cloud Interoperability Research project of NSC, Taiwan.
 
 [Website][1]
 
