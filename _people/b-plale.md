@@ -9,8 +9,6 @@ categories:
  - "researcher"
 ---
 
-Professor of Informatics and Computing Indiana University Bloomington
-
 **PRAGMA Role:** Steering Committee Member. Involved in PRAGMA students group,
 and PRAGMA Resources group.
 
