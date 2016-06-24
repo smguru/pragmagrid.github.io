@@ -1,7 +1,7 @@
 ---
 title: Lee
-firstname: Ruth
-affiliation:  KISTI, Korea
+firstname: Jong Suk (Ruth)
+affiliation:  Senior Research Scientist, Korea Institute of Science and Technology Information (KISTI)
 imagesrc: 
 layout: person
 categories:
