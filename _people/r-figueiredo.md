@@ -1,7 +1,7 @@
 ---
 title: Figueiredo
 firstname: Renato
-affiliation: Associate Professor, Electrical and Computer Engineering, University of Florida
+affiliation: Professor, Electrical and Computer Engineering, University of Florida
 imagesrc:  
 layout: person
 categories:
