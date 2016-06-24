@@ -1,17 +1,17 @@
 ---
 title: Stewart
 firstname: Aimee
-affiliation: Senior Systems Programmer, KU Biodiversity Institute & National History Museum, The University of Kansas
+affiliation: Research Architect, Lifemapper Lead Developer, KU Biodiversity Institute and Natural History Museum, University of Kansas
 imagesrc: 
 layout: person
 categories:
  - "researcher"
 ---
 
-**PRAGMA Role:** Research co-lead for Lifemapper
+**PRAGMA Role:** Software application developer enabling Lifemapper deployment on PRAGMA resources and species distribution research on Mount Kinabalu, Sabah, Malaysia in the Virtual Biodiversity Expedition.
 
 
-**Related Work:** Biodiversity research using geospatial species data to create distribution maps via Lifemapper.
+**Related Work:** Software enabling biodiversity research on single- and multi-species distributions, and geo-physical and evolutionary drivers of those distributions.
 
 [Website][1]
 
