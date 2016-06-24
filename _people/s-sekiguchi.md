@@ -1,7 +1,7 @@
 ---
 title: Sekiguchi
 firstname: Satoshi
-affiliation: Deputy Director-General, Directorate for Information Technology and Electronics, National Institute of Advanced Industrial Science and Technology (AIST)
+affiliation: Director General, Department of Information Technology and Human Factors, National Institute of Advanced Industrial Science and Technology (AIST)
 imagesrc: "s-sekiguchi.png"
 layout: person
 categories:
@@ -9,6 +9,9 @@ categories:
 ---
 
 **PRAGMA Role:** PRAGMA Steering Committee Member
+
+**Related Work:** Member of the Council, Research Data Alliance https://rd-alliance.org/
+Member, Science Council of Japan http://www.scj.go.jp/en/
 
 [Website][1]
 
