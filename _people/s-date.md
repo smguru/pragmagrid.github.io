@@ -10,4 +10,9 @@ categories:
 
 **PRAGMA Role:**  Steering Committee Member.
 
-**Related Work:**  Studies on: 1) methods for building a Grid environment leveraging virtual machine technology; 2) high-resolution video transmission using TDWs; 3) access control mechanisms using Grid security technologies.
+**Related Work:**  Studies on: 1) Widely distributed computing (Cloud and Grid); 2) High-performance computing; 3) Large-scale visualization.
+
+
+[Website][1]
+
+[1]: http://ds-server.ais.cmc.osaka-u.ac.jp/en/
