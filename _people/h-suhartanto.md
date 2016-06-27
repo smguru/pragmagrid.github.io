@@ -2,7 +2,7 @@
 title: Suhartanto
 firstname: Heru
 affiliation: Professor, Computer Science, Universitas Indonesia
-imagesrc: 
+imagesrc: "h-suhartanto.png"
 layout: person
 categories:
  - "steering"
