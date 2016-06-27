@@ -2,7 +2,7 @@
 title: Tatebe
 firstname: Osamu
 affiliation: Professor, University of Tsukuba, Japan
-imagesrc: 
+imagesrc: "o-tatebe.png"
 layout: person
 categories:
  - "researcher"
