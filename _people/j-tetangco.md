@@ -2,7 +2,7 @@
 title: Tetangco
 firstname: Jelina Tanya H. 
 affiliation: Project Manager, The Department of Science and Technology - Advanced Science and Technology Institute (DOST-ASTI)
-imagesrc: 
+imagesrc: "j-tetangco.png"
 layout: person
 categories:
  - "steering"
