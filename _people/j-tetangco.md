@@ -8,3 +8,10 @@ categories:
  - "steering"
 ---
 
+**PRAGMA Role:** Steering Committee Member.
+
+**Related Work:** HPC, Cloud Computing.
+
+[Website][1]
+
+[1]: https://www.asti.dost.gov.ph/ 
