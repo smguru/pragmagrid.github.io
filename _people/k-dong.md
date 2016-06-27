@@ -1,7 +1,7 @@
 ---
 title: Dong
 firstname: Kejun (Kevin) 
-affiliation: Professor, Chinese Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
+affiliation: Professor, Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
 imagesrc: "k-dong.png"
 layout: person
 categories:
