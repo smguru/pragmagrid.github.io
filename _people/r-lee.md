@@ -2,7 +2,7 @@
 title: Lee
 firstname: Jongsuk (Ruth)
 affiliation:  Principal Researcher, National Supercomputing Division, Korea Institute of Science and Technology Information (KISTI)
-imagesrc: 
+imagesrc: "r-lee.png"
 layout: person
 categories:
  - "researcher"
