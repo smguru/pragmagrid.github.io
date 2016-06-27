@@ -2,7 +2,7 @@
 title: Rattanatamrong
 firstname: Prapaporn (Nan)
 affiliation: Lecturer; Department of Computer Science, Thammasat University
-imagesrc: 
+imagesrc: "p-rattanatamrong.png"
 layout: person
 categories:
  - "steering"
