@@ -1,16 +1,16 @@
 ---
 title: Huang
 firstname: Weicheng
-affiliation: Researcher, Division Manager of Software Technology Division, NCHC, Taiwan
+affiliation: Research Fellow, Division Director of Software Technology Division, NCHC
 imagesrc: "w-huang.png"
 layout: person
 categories:
  - "researcher"
 ---
 
-**PRAGMA Role:** Participant of Resource Work Group, Ezilla.
+**PRAGMA Role:** Participant of Resource Work Group.
 
-**Related Work:** Cloud Interoperability Research project of NSC, Taiwan.
+**Related Work:** Big Data Platform project & Data Marketplace project of MOST, Taiwan.
 
 [Website][1]
 
