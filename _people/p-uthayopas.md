@@ -1,23 +1,16 @@
 ---
 title: Uthayopas 
 firstname: Putchong
-affiliation: Head, Department of Computer Engineering, Faculty of Engineering, Kasetsart University
+affiliation: Acting Vice President for Information, Kasetsart University 
 imagesrc: "p-uthayopas.png"
 layout: person
 categories:
  - "steering"
 ---
 
-**PRAGMA Role:** PRAGMA Steering Commitee Member. I am a member of Resources
-Working Group, Cyber learning Group where I lead the team that engage in the
-building of PRAGMA resources infrastructure. Currently, we are also working on
-the building of VM cloud and SDN testbed for PRAGMA.
+**PRAGMA Role:** Steering Committee Member. I am a member of the Resources Working Group where I lead the team that engages in the building of PRAGMA resources infrastructure. 
 
-**Related Work:** My research interests include the Grid and Cloud Middleware.
-Driving the growth of HPC community and the application of computational
-capability in solving real world problem that increases the quality of life.
-In addition, I also interest in how to educate next generation computer
-scientists in Thailand.
+**Related Work:** My research interests include Grid Computing, Cloud computing, resources management in distributed systems, and energy efficiency in a Large-scale computing system. I am a board member of Thailand E-Science Infrastructure Project under NECTEC/NSTDA. I am also serving as the President of Computational Science and Engineering Association, Thailand.
 
 
 [Website][1]
