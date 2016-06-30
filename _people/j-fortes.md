@@ -15,8 +15,7 @@ participant in project on "Software-defined Overlay Networks".
 
 **Related Work:** Middleware for distributed systems, software-defined systems,
 cloud computing, cyberinfrastructure for e-Science, autonomic computing,
-international collaboration; besides PRAGMA, iDigBio, FutureGrid and Center
-for Cloud and Autonomic Computing.
+international collaboration; besides PRAGMA, iDigBio and CENTRA.
 
 [Website][1]
 
