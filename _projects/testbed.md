@@ -4,9 +4,9 @@ image_path: ""
 layout: page
 ---
 
-### The Persistent PRAGMA Testbed resources.
+### The Persistent PRAGMA Testbed Resources
 
-How do we make a worldwide colleciton of resources aialble and usable
+How do we make a worldwide collection of resources available and usable
 for sharing of data/computation?
 
 * Various technologies are now "good" enough to try:
@@ -19,7 +19,7 @@ for sharing of data/computation?
   * VM and VC hosting with programmable networking 
     see [ENT][1]
 * Drive infrastructure by meeds of specific use cases: 
-  * Biodiversity expedition
+  * Biodiversity Expedition
   * Lake Ecology Expedition
   * Experimental Network Testbed
   * Needs of other PRAGMA working groups
