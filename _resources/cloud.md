@@ -1,15 +1,14 @@
 ---
-title: Cloud resources
+title: Cloud Resources
 image_path: ""
 layout: page
 ---
 
 
-The PRAGMA Cloud started in 2010 by Resources Working Group. PRAGMA Cloud is
-composed of VM hosting systems and technical expertise from PRAGMA members and
-friends institutions. It provides the infrastructure and a collaborative
-environment for Cloud software and applications to interoperate and improve.
-It is also where PRAGMA researchers can innovate and experiment with new
-approaches and new solutions to make Cloud easy to use.
+In 2010 the Resources Working Group started PRAGMA Cloud. Composed of VM hosting systems and technical expertise from PRAGMA members and
+collaborating institutions, PRAGMA Cloud provides the infrastructure and a collaborative
+environment for Cloud software and applications.
+PRAGMA researchers can experiment and develop innovative ideas and 
+approaches to find effective solutions improving the ability to obtain access for Cloud resources.
 
-#### Current PRAGMA Cloud member institutions (list by regions and sites)
+#### Current PRAGMA Cloud Member Institutions (list by regions and sites)
