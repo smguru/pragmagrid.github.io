@@ -1,38 +1,38 @@
 ---
-title: Computational resources
+title: Computational Resources
 image_path: ""
 layout: page
 ---
 
 #### PRAGMA Grid 
 
-The PRAGMA Grid is established May 18, 2004 by PRAGMA Resources Working Group.
+The PRAGMA Grid was established on May 18, 2004 by the PRAGMA Resources Working Group.
 This grid is composed of cluster systems and technical expertise from PRAGMA
-members and friends institutions. It provides the infrastructure and a
+members and collaborating institutions. PRAGMA Grid provides the infrastructure and a
 collaborative environment for grid middleware and grid applications to
-interoperate and improve. It is  also where PRAGMA researchers can innovate and
-experiment with new approaches and new solutions to make the grid easy to use.
-Please see more detail information on PRAGMA Grid resources.
+interoperate and improve. In this environment, PRAGMA researchers can
+experiment with new approaches, solutions and innovative ideas to make the grid easy to use.
+Please see more detailed information on PRAGMA Grid Resources.
 
-#### Who should join PRAGMA grid?
+#### Who should join PRAGMA Grid?
 
-Any institutions have been working in grid applications and middleware and are
-interested in building a long term collaborative relationship with PRAGMA
-communities are welcome to join PRAGMA grid.
+Institutions that are working with grid applications and middleware, and are
+interested in building a long term-collaborative relationship with PRAGMA
+communities, are welcome to join PRAGMA Grid.
 
-Any individual researchers interested in working with PRAGMA grid can work
-thru their home institutions or thru existing PRAGMA grid member institutions
-which they already have working relationship with.
+Individual researchers interested in collaborating with PRAGMA Grid can work via
+their home institutions or through existing PRAGMA grid member institutions if a  
+working relationship exists.
 
-PRAGMA grid does not require every member institution to contribute hardware
-resources, but for all practical purposes, it's a lot easier for application
-drivers to access PRAGMA grid from a local node that's a part of PRAGMA grid.
+PRAGMA Grid does not require member institutions to contribute hardware
+resources, but for all intensive purposes, it's much easier for application
+drivers to access PRAGMA Grid from a local node that's a part of PRAGMA Grid.
 
 #### What kinds of applications are suitable to run in PRAGMA Grid?
 
-- Real science and real grid applications - per PRAGMA charter.
+- Real science and real grid applications — per PRAGMA charter.
 - Applications can submit jobs through globus gatekeeper to local job
-   schedulers (SGE, PBS, LSF, SQMS, etc.).  This enables resource sharing in PRAGMA grid.
+   schedulers (SGE, PBS, LSF, SQMS, etc.).  This enables resource sharing in PRAGMA Grid.
 - No absolute rules, and things may change as better technologies
-   develop. In case of any questions on the suitability of your application,
-   contact PRAGMA Cloud Admin.
+   develop. In the event that you might have questions regarding the suitability of your application(s),
+   please contact the PRAGMA Cloud Admin.
