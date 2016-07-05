@@ -2,7 +2,7 @@
 title: Fujikawa
 firstname: Kazutoshi
 affiliation: Professor, Information Initiative Center, Nara Institute of Science and Technology (NAIST)
-imagesrc: 
+imagesrc: "k-fujikawa.png"
 layout: person
 categories:
  - "steering"
