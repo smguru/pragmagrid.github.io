@@ -1,7 +1,7 @@
 ---
 title: Fujikawa
 firstname: Kazutoshi
-affiliation: Associate Professor, Nara Institute of Science and Technology (NAIST)
+affiliation: Professor, Information Initiative Center, Nara Institute of Science and Technology (NAIST)
 imagesrc: 
 layout: person
 categories:
@@ -11,7 +11,7 @@ categories:
 
 **PRAGMA Role:** Steering Committee Member. 
 
-**Related Work:** Distributed multimedia systems, ubiquitous systems and multicast mechanisms for mobile nodes.
+**Related Work:** Developing disaster tolerant networks using SDN technology.
 
 [Website][1]
 
