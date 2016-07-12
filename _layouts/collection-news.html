@@ -36,7 +36,7 @@ layout: default
   <div class="container">
     <div class="row">
       <table class="">
-        {% for service in site.[page.short] reversed %}
+        {% for service in site.[page.short] %}
           {% if service.categories[0] == "events" %}
             <tr>
               <td>
