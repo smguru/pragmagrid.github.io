@@ -25,7 +25,7 @@ their home institutions or through existing PRAGMA grid member institutions if a
 working relationship exists.
 
 PRAGMA Grid does not require member institutions to contribute hardware
-resources, but for all intensive purposes, it's much easier for application
+resources, but for all intents and purposes, it's much easier for application
 drivers to access PRAGMA Grid from a local node that's a part of PRAGMA Grid.
 
 #### What kinds of applications are suitable to run in PRAGMA Grid?
