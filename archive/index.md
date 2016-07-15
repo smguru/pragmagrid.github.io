@@ -4,7 +4,7 @@ title: Archive
 ---
 
 
-{% assign base = 'https://github.com/pragmagrid/pragma-historic' %}
+{% assign base = 'https://github.com/pragmagrid/pragma-historic/tree/master/pragma-doc' %}
 
 All available documents (presentations, slides, etc.)
 for PRAGMA activities prior to the PRAGMA 24 workshop are archived in the
