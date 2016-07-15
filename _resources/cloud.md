@@ -11,4 +11,3 @@ environment for Cloud software and applications.
 PRAGMA researchers can experiment and develop innovative ideas and 
 approaches to find effective solutions improving the ability to obtain access for Cloud resources.
 
-#### Current PRAGMA Cloud Member Institutions (list by regions and sites)
