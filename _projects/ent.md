@@ -23,7 +23,6 @@ layout: page
 * Offer networking support for PRAGMA multi-cloud and user-defined trust envelopes.
 
 <p>
-[Website][1]
 
 See [technical documentation][1] in the PRAGMA-ENT public repository.
 
