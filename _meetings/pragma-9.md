@@ -1,0 +1,9 @@
+---
+title: PRAGMA 9
+imagesrc: "workshop-09.png"
+layout: page
+meeting_date: October 20-23, 2005, Hyderabad, India
+meeting_url: "" 
+date: 2005-10-20
+---
+
