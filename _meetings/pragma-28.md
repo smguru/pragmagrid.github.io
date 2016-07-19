@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 28 
-image_path: ""
+imagesrc: "workshop-28.png"
 layout: page
 meeting_date: April 8-10, 2015, Osaka & Nara, Japan
 meeting_url: http://pragma28.pragma-grid.net/dct/page/1

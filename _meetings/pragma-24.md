@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 24 
-image_path: ""
+imagesrc: "workshop-24.png"
 layout: page
 meeting_date: March 20-22, 2013, Bangkok, Thailand
 meeting_url: http://pragma24.pragma-grid.net/dct/page/1

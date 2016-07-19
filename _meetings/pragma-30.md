@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 30 
-image_path: ""
+imagesrc: "workshop-30.png"
 layout: page
 meeting_date: January 27-29, 2016, Manila, Philippines
 meeting_url: http://pragma30.pragma-grid.net/dct/page/1

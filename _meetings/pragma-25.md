@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 25 
-image_path: ""
+imagesrc: "workshop-25.png"
 layout: page
 meeting_date: October 16-18, 2013, Beijing, China
 meeting_url: http://pragma25.pragma-grid.net/dct/page/1

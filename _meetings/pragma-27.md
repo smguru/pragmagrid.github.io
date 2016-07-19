@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 27 
-image_path: ""
+imagesrc: "workshop-27.png"
 layout: page
 meeting_date: October 15-17, 2014, Bloomington, Indiana, USA
 meeting_url: http://pragma27.pragma-grid.net/dct/page/1

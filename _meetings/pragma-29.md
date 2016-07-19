@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 29 
-image_path: ""
+imagesrc: "workshop-29.png"
 layout: page
 meeting_date: October 7-9, 2015, Depok, Indonesia
 meeting_url: http://pragma29.pragma-grid.net/dct/page/1

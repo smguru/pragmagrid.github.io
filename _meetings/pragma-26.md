@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 26
-image_path: ""
+imagesrc: "workshop-26.png"
 layout: page
 meeting_date: April 9-11, 2014, Tainan, Taiwan
 meeting_url: http://pragma26.pragma-grid.net/dct/page/1

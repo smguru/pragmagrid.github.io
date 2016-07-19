@@ -6,6 +6,8 @@ layout: default
     <h1>{{ page.title }}</h1>
 </section>
 
+{% assign base = 'https://github.com/pragmagrid/pragma-historic/tree/master/pragma-doc' %}
+
 <section id="services">
   <div class="container">
     <div class="row">
@@ -13,15 +15,22 @@ layout: default
       <table class="meeting">
         {% for service in site.[page.short] reversed %}
         <tr>
-          <td class="strongword">
-            {{ service.title }} 
+          <td>
+            {% if service.imagesrc %}
+               <img src="/images/workshops/{{service.imagesrc}}" alt="" class=""/>
+	        {% endif %}
           </td>
           <td>
-            {{ service.meeting_date }}
-          </td>
-          <td>
-              <a href="{{ service.url }}" title="{{ service.title }}">presentations </a> |  
-              <a href="{{ service.meeting_url }}" title="{{ service.title }}">website</a> 
+            <span class="strongword">{{ service.title }} </span><br>
+            {{ service.meeting_date }}<br>
+            {% if service.presentations %}
+                <a href="{{ base }}" title="{{ service.title }}">presentations </a>
+	        {% else %}
+                <a href="{{ service.url }}" title="{{ service.title }}">presentations </a>
+	        {% endif %}
+            {% if service.meeting_url  != "" %}
+               |  <a href="{{ service.meeting_url }}" title="{{ service.title }}">website</a> 
+	        {% endif %}
           </td>
         </tr>
         {% endfor %}
@@ -32,8 +41,12 @@ layout: default
 </section>
 
 <div class="container">
-  <br/>For earlier meetings please see <a href="/archive">Archive</a> <br/><br/>
+  <br/>Presentations for PRAMGA meeting prior to the PRAGMA 24 are
+  linked the archive in the git repository. <br/><br/>
 </div>
 
 <hr class="primary">
 <p> <a href="{{ page.url }}"> Back to top </a> </p>
+
+
+
