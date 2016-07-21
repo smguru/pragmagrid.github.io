@@ -1,11 +1,11 @@
 ---
-title: PRAGMA Lake Expedition
+title: PRAGMA Lake Sciences
 image_path: ""
 layout: page
 ---
 
 
-### Understanding and predicting degradation of lake and reservoir water quality around the world
+### Predicting impact of eutrophication on lake ecosystem services
 
 <p></p>
 
