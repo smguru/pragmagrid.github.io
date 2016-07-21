@@ -5,8 +5,7 @@ layout: page
 ---
 
 
-### PRAGMA Lake Expedition:  Understanding and predicting degradation of lake and 
-reservoir water quality around the world
+### Understanding and predicting degradation of lake and reservoir water quality around the world
 
 <p></p>
 
