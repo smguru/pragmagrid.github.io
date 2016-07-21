@@ -1,11 +1,11 @@
 ---
-title: Virtual Biodiversity 
+title: Virtual Biodiversity Expedition
 image_path: ""
 layout: page
 ---
 
 
-### Virtual Biodiversity Expedition:  Understanding adaption in extreme environments
+### Understanding adaption in extreme environments
 
 <p></p>
 
