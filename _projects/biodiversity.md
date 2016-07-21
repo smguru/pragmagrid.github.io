@@ -1,5 +1,5 @@
 ---
-title: Virtual Biodiversity Expedition
+title: PRAGMA Virtual Biodiversity Expedition
 image_path: ""
 layout: page
 ---
