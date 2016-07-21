@@ -20,6 +20,8 @@ layout: page
 
 * Offer networking support for PRAGMA multi-cloud and user-defined trust envelopes.
 
+* Create and utilize an experimental software-defined Netwrok Testbed.
+
 See [technical documentation][1] in the PRAGMA-ENT public repository.
 
 [1]: https://github.com/pragmagrid/pragma_ent/wiki
