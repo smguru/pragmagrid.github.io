@@ -5,12 +5,12 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.tagline %}
-        <h2>{{page.tagline}}</h2>
-    {% endif %} 
   </header>
 
   <article class="post-content">
+    {% if page.tagline %}
+         <span class="strongword"><h4>{{page.tagline}}</h4></span>
+    {% endif %} 
     {{ content }}
   </article>
 
