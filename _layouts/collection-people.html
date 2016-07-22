@@ -6,9 +6,16 @@ layout: default
 
 {% assign pages = site.[page.short] | sort: "title" %}
 
-<div class="border">
-  <h4>STEERING COMMITTEE</h4>
-</div>
+<table width="100%">
+
+<tr>
+  <th><div class="border">Steering Committee</div> </th>
+  <th><div class="border">Researchers</div> </th>
+  <th><div class="border">Students</div> </th>
+</tr>
+
+<tr>
+<td width="34%">
 <ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'steering-list' %}
@@ -21,10 +28,9 @@ layout: default
     {% endif %}
   {% endfor %}
 </ul>
+</td>
 
-<div class="border">
-  <h4>RESEARCHERS</h4>
-</div>
+<td width="33%">
 <ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'researcher-list' %}
@@ -39,10 +45,9 @@ layout: default
     {% endif %}
   {% endfor %}
 </ul>
+</td>
 
-<div class="border">
-  <h4>STUDENTS </h4>
-</div>
+<td width="33%">
 <ul class="posts">
   {% for post in pages %}
     {% if post.categories[0] == 'students' %}
@@ -58,6 +63,9 @@ layout: default
     {% endif %}
   {% endfor %}
 </ul>
+</td>
+</tr>
+</table>
 
 <h2>Members and Partners</h2>
 
@@ -128,7 +136,6 @@ title="TransPAC3" />
           
   </map>
 </div>
-
 
 <h2>Additional Organizations active in PRAGMA</h2>
 For more info see <a href="/additional-organizations"> this link </a>
