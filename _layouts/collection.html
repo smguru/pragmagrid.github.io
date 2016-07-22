@@ -12,23 +12,23 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-	  <!-- <h2 class="section-heading">At Your Service</h2> -->
       </div>
     </div>
   </div>
 
+  {% assign pages = site.[page.short] | sort: "order" %}
+
   <div class="container">
     <div class="row">
-      <!--{% for service in site.music %} {% endfor %} -->
-      {% for service in site.[page.short] %}
+	  <ul>
+      {% for service in pages %}
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
-			<!-- <img src="{{ service.image_path }}" alt="{{ service.title }}"/> -->
             <li><a href="{{ service.url }}" title="{{ service.title }}">{{ service.title }}</a> </li>
-			<!-- <p class="text-muted">{{ service.content }}</p> -->
           </div>
         </div>
       {% endfor %}
+	  </ul>
     </div>
   </div>
 </section>
