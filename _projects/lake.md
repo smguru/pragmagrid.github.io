@@ -6,8 +6,6 @@ order: 2
 tagline: Predicting impact of eutrophication on lake ecosystem services
 ---
 
-<p></p>
-
 Scientists in the PRAGMA Lake Expedition are working to better understand and predict
 the globally pervasive degradation of lake and reservoir water quality.  Meaningful
 advancements require new understanding of how complex biophysical interactions result in extreme
@@ -23,7 +21,7 @@ reservoirs, combined with new simulation models and expert knowledge from the gl
 show promise for making predictions of the future based on patterns from the past.
 
 
-#### Challenges:
+<span class="strongword">Challenges:</span>
 
 * Many challenges remain due to:
 
@@ -37,9 +35,8 @@ show promise for making predictions of the future based on patterns from the pas
   * the cyber-infrastructure and compute resources required to support these activities are out of 
   reach for most lake ecologists.
   
-<p></p>
 
-#### Approach:
+<span class="strongword">Approach:</span>
 
 * creative application of pattern detection and calssification algorithms adapted from computer science;
 

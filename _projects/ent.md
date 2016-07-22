@@ -6,16 +6,13 @@ order: 3
 tagline: Creating and utilizing an Experimental software-defined Network Testbed
 ---
 
-### PRAGMA Experimental Network Testbed (PRAGMA-ENT) 
-
-#### Goals:
+<span class="strongword">Goals:</span>
 
 * Build breakable international SDN testbed for use by PRAGMA researchers that:
 
   * is not a production system;
   * allows complete freedom to access and configure network resources.
   
-<p></p>
 
 * Provide access of SDN hardware/software to PRAGMA researchers.
 

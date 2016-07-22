@@ -6,7 +6,6 @@ order: 1
 tagline: Understanding adaption in extreme environments
 ---
 
-<p></p>
 
 One of the ongoing activities of the PRAGMA is fostering virtual biodiversity expeditions 
 by bringing domain scientists and cyber infrastructure specialists together as a team.  Over
@@ -20,8 +19,7 @@ of species distribution maps calculated from public specimen distribution maps c
 public specimen data and includes a suite of data and tools for biodiversity researchers that
 calculate single and multi-species distribution predictions and macroecological analyses.
 
-
-#### Technical Goals:
+<span class="strongword">Technical Goals:</span>
 
 * Create a viable virtualization solution that can be easily adopted and reused
 by scientists at multiple institutions and projects.  This solution:
@@ -32,9 +30,8 @@ by scientists at multiple institutions and projects.  This solution:
   * enables scientists to perform Lifemapper-facilitated data processing on large,
   sensitive or restricted data.
   
-<p></p>
 
-#### Additional Goals:
+<span class="strongword">Additional Goals:</span>
 
 * To create a viable virtualization solution that can be easily adopted and reused
 by scientists at other institutions and projects.
