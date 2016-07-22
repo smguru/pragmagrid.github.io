@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<section class="bg-dark">
+  <div class="text-center">
+    <h1>{{ page.title }}</h1>
+  </div>
+</section>
+
+<section id="services">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+      </div>
+    </div>
+  </div>
+
+  {% assign pages = site.[page.short] | sort: "order" %}
+
+  <div class="container">
+    <div class="row">
+      <ul>
+      {% for service in pages %}
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="service-box">
+            <li><a href="{{ service.url }}" title="{{ service.title }}">{{ service.title }}</a> 
+            {% if service.tagline %}
+                : {{ service.tagline }}
+            {% endif %}
+
+            </li>
+          </div>
+        </div>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+For more information about use of, collaboration with, or contribution to
+these resources, please send an email 
+to <a href="mailto:pragma-cloud-admin@googlegroups.com">PRAGMA Cloud Admin</a>
+
+
+
+<hr class="primary">
+<p> <a href="{{ page.url }}"> Back to top </a> </p>
