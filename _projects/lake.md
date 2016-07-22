@@ -1,12 +1,10 @@
 ---
-title: PRAGMA Lake Sciences
+title: Lake Ecology
 image_path: ""
 layout: page
 order: 2
+tagline: Predicting impact of eutrophication on lake ecosystem services
 ---
-
-
-### Predicting impact of eutrophication on lake ecosystem services
 
 <p></p>
 
@@ -51,6 +49,6 @@ of ecologists, and;
 * a community approach to technology systems development that embeds scientists from multiple disciplines
 in the approach.
 
-For general questions please email the [PRAGMA Cloud Admin][1]
+<hr class="primary">
+<p> <a href="/projects"> Back to Scientific Expeditions </a> </p>
 
-[1]: mailto:pragma-cloud-admin@googlegroups.com

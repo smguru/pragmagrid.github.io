@@ -1,12 +1,10 @@
 ---
-title: PRAGMA Virtual Biodiversity
+title: Virtual Biodiversity
 image_path: ""
 layout: page
 order: 1
+tagline: Understanding adaption in extreme environments
 ---
-
-
-### Understanding adaption in extreme environments
 
 <p></p>
 
@@ -44,6 +42,6 @@ by scientists at other institutions and projects.
 * Garner uses (institutional and individual) to use these tools to create and work
 with their own specialized Lifemapper instance.
 
-For general questions please email the [PRAGMA Cloud Admin][1]
+<hr class="primary">
+<p> <a href="/projects"> Back to Scientific Expeditions </a> </p>
 
-[1]: mailto:pragma-cloud-admin@googlegroups.com

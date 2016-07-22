@@ -3,8 +3,8 @@ title: PRAGMA-ENT
 image_path: ""
 layout: page
 order: 3
+tagline: Creating and utilizing an Experimental software-defined Network Testbed
 ---
-
 
 ### PRAGMA Experimental Network Testbed (PRAGMA-ENT) 
 
@@ -26,3 +26,7 @@ order: 3
 See [technical documentation][1] in the PRAGMA-ENT public repository.
 
 [1]: https://github.com/pragmagrid/pragma_ent/wiki
+
+<hr class="primary">
+<p> <a href="/projects"> Back to Scientific Expeditions </a> </p>
+
