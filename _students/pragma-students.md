@@ -12,9 +12,9 @@ order: 1
 <p>
      
         <ul>
-          <li>Organizing student workshops and poster sessions as part of the bi-annual PRAGMA Workshops;</li>
-          <li>Hosting online seminars for the broader PRAGMA community; and</li>
-          <li>Working together to develop a unique model to involve graduate students in the unique Pacific Rim collaborations that define PRAGMA scientific research.</li>
+          <li>Organize student workshops and poster sessions as part of the bi-annual PRAGMA Workshops;</li>
+          <li>Host online seminars for the broader PRAGMA community; and</li>
+          <li>Work together to develop a unique model to involve graduate students in the unique Pacific Rim collaborations that define PRAGMA scientific research.</li>
          
         </ul>
 
@@ -32,7 +32,7 @@ The goal of PRAGMA Students is to develop technically knowledgeable, culturally 
 
 <p>
 
-At the PRAGMA 22 workshop (April 2012, Melbourne), a group of graduate students and their mentors met to discuss the value, role, activities and goals of a student group inside of PRAGMA. Institutes represented included Indiana University, Konkuk University, Osaka University, University of Tsukuba, Monash University, and Kasetsart University. To provide an example of the value of an active student program in a research network, the president-elect of the GLEON Student Association (GSA), Kohji Muraoka (Waikato University) attended. GLEON, the Global Lakes Ecological Observatory Network, is a grassroots network of limnologists, ecologists, information technology experts, and engineers who use the network of people, sensors and data to understand issues such as eutrophication or climate change at regional to global scales. GLEON, established and based on an early PRAGMA expedition to deploy sensors on a lake in Taiwan, evolved a very successful Graduate Student Association. In particular, Kohji emphasized the role of the GSA in providing mentoring, information, training, research and networking opportunities for students. An interim steering committee was established with representatives from Konkuk University (Meilan Jiang), Osaka University (Taiki Tada), and Indiana University (Umashanthi Pavalanathan and Yuan Luo).
+At the PRAGMA 22 Workshop (April 2012, Melbourne), a group of graduate students and their mentors met to discuss the value, role, activities and goals of a student group inside of PRAGMA. Institutes represented included Indiana University, Konkuk University, Osaka University, University of Tsukuba, Monash University, and Kasetsart University. To provide an example of the value of an active student program in a research network, the president-elect of the GLEON Student Association (GSA), Kohji Muraoka (Waikato University) attended. GLEON, the Global Lakes Ecological Observatory Network, is a grassroots network of limnologists, ecologists, information technology experts, and engineers who use the network of people, sensors and data to understand issues such as eutrophication or climate change at regional to global scales. GLEON, established and based on an early PRAGMA expedition to deploy sensors on a lake in Taiwan, evolved a very successful Graduate Student Association. In particular, Kohji emphasized the role of the GSA in providing mentoring, information, training, research and networking opportunities for students. An interim steering committee was established with representatives from Konkuk University (Meilan Jiang), Osaka University (Taiki Tada), and Indiana University (Umashanthi Pavalanathan and Yuan Luo).
 
 </p>
 
@@ -58,12 +58,5 @@ As with PRAGMA, the best way to learn more is to participate in a workshop, part
 
 </p>
 
-<h2>Contact</h2>
 
-
-<p>
-
-PRAGMA Students Mailing List:  pragma-student-list {AT} googlegroups {DOT} com
-
-<p>
 
