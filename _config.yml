@@ -31,6 +31,8 @@ collections:
      output: true
   news:
      output: true
+  students:
+     output: true
 
 
 exclude:
