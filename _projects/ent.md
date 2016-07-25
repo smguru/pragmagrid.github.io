@@ -3,7 +3,7 @@ title: PRAGMA-ENT
 image_path: ""
 layout: page
 order: 3
-tagline: Creating and utilizing an Experimental software-defined Network Testbed
+tagline: Creating and utilizing an experimental software-defined network testbed
 ---
 
 <span class="strongword">Goals:</span>
