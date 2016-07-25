@@ -15,7 +15,7 @@ the real goal is to predict the circumstances in which blooms may occur, thereby
 advanced warning for water managers and the public who may rely on the services provided
 by lakes and reservoirs. 
 
-Technical advancements that span discipliens and national boundaries are helping lake ecologists
+Technical advancements that span disciplines and national boundaries are helping lake ecologists
 improve predictions of algal blooms.  Large data sets from sensors embedded in lakes and 
 reservoirs, combined with new simulation models and expert knowledge from the global community
 show promise for making predictions of the future based on patterns from the past.
