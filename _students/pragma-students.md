@@ -6,8 +6,9 @@ order: 1
 ---
 
 
+<div class="border">
 <h2>PRAGMA Students</h2>
-
+</div>
 
 <p>
      
@@ -20,15 +21,17 @@ order: 1
 
 </p>
 
+<div class="border">
 <h2>How PRAGMA Students Interact with Core PRAGMA Community</h2>
-
+</div>
 
 <p>
 
 The goal of PRAGMA Students is to develop technically knowledgeable, culturally inclusive, and interdisciplinary scientists capable of leading global research. Students who participate in PRAGMA Students have opportunities to become involved in PRAGMA scientific research teams as well as in the broader PRAGMA community. There are five types of opportunities for students in PRAGMA (following in bold): Education and mentoring will be provided within the PRAGMA core research community. PRAGMA Students will generate its own networking opportunities, and be a vehicle for leadership opportunities both within the student group and influencing PRAGMA overall. PRAGMA Students will also strengthen the PRAGMA core through the infusion of new ideas.
 
+<div class="border">
 <h2>History</h2>
-
+</div>
 
 <p>
 
@@ -36,8 +39,9 @@ At the PRAGMA 22 Workshop (April 2012, Melbourne), a group of graduate students 
 
 </p>
 
+<div class="border">
 <h2>Student Activities</h2>
-
+</div>
 
 <p>
 
@@ -48,8 +52,10 @@ Finally, the group encouraged all students in PRAGMA to become involved in activ
 
 </p>
 
-<h2>How to Get Involved</h2>
 
+<div class="border">
+<h2>How to Get Involved</h2>
+</div>
 
 <p>
 
