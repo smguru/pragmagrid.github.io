@@ -11,8 +11,9 @@ tagline: Creating and utilizing an Experimental software-defined Network Testbed
 * Build breakable international SDN testbed for use by PRAGMA researchers that:
 
   * is not a production system;
-  * allows complete freedom to access and configure network resources.<br>
+  * allows complete freedom to access and configure network resources.<p>
   
+  <p>
 
 * Provide access of SDN hardware/software to PRAGMA researchers.
 
