@@ -8,7 +8,7 @@ tagline: Understanding adaption in extreme environments
 
 
 One of the ongoing activities of the PRAGMA is fostering virtual biodiversity expeditions 
-by bringing domain scientists and cyber infrastructure specialists together as a team.  Over
+by bringing domain scientists and cyberinfrastructure specialists together as a team.  Over
 the past few years, PRAGMA members have been collaborating on virtualizing the Lifemapper
 software infrastructure.  Virtualization and cloud computing have increased scalability,
 flexibility, efficiency and simplified application deployment on the PRAGMA cloud.
