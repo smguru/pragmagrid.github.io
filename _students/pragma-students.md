@@ -5,11 +5,6 @@ date: 2016-07-25
 order: 1
 ---
 
-<div class="border">
-    <h2>{{ page.title }}</h2>
-</div>
-
-<p>
 
 <div class="border">
 <h2>PRAGMA Students</h2>
