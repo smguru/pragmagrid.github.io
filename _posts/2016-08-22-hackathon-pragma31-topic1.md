@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Student Hackathon Topic 1"
+date: 2016-08-22
+---
+
+<div class="border">
+  <h4>Hackathon Topic 1: Extension of the existing PRAGMA Cloud Testbed site</h4>
+</div>
+
+**Description**: Setting up a node (with or without ENT) and registering the node to the PRAGMA Cloud
+Scheduler. Possibly start a virtual cluster via cloud scheduler.
+
+**Roadmap**
+
+<h4><span class="strongword">1. Install and configure Rocks cluster frontend on a ZOTAC server.  </span></h4>
+
+   * Using USB CD/DVD drive and a CD with Rocks 6.2 kernel ISO image install a
+      cluster frontend. See the [Rocks Users Guide][1] for installation instructions:
+
+   * For the section "Install and configure your frontend" you wil need the
+     following info for your host (given to you):
+
+     * IP address
+     * Fully qualified domain name 
+     * Gateway IP
+     * DNS IP
+     * netmask
+     * for the "ksdevice" please use "eth1"
+
+   * During the frontend install (you will be led to this screen) choose the following rolls:
+ 
+     * kernel 
+     * ganglia
+     * hpc
+     * web-server
+     * python
+     * perl
+     * os
+     * base
+     * area51
+     * kvm (this is responsible for virtualization)
+     
+     Kernel roll is on a CD, the rest of the rolls are installed over the network. 
+     See section 3.5 of the install guide.
+
+   * Enable Public web access to your frontend (see guide).
+
+<h4><span class="strongword">2. Install and configure Open vSwitch on Rocks frontend </span></h4>
+   * Follow instructions on [Installing Rocks6.2 cluster with Open vSwitch Roll][2]
+     You will be able to execute the instrucitons for the physical forntend.
+     Part of the instrucitons are for the virtual frontend, see the info below
+     to create  a virtual frontend.
+   * For the completion of this step you will need to install a virtual cluster
+     on your physical frontend. For the virtual cluster you are given an IP
+     and FQDN. A firt part of FQDN is the HOSTNAME (substitute your values in the commands below).
+     Here is a set of commands to execute to create a virtual cluster:
+     * **rocks add cluster IP 0 fe-name=HOSTNAME**
+     * **rocks set host vm HOSTNAME  mem=2048**
+     * **rocks list host vm**  (this is a check that VM info is setup in the rocks database)
+     * **rocks start host vm HOSTNAME**   (start VM and its installation)
+
+<h4><span class="strongword">3. Register your physical host with the PRAGMA Cloud Scheduler </span></h4>
+   * Login at [Cloud Scheduler][4] with your team  user name and password.
+     and register your physical host as a site  (name, site, latitute, etc).
+
+<!--
+<h4><span class="strongword">4. Install pragma_boot on the node </span></h4>
+
+   Follow instructions in [this link][3]
+-->
+
+[1]: http://rocksclusters.github.io/docs/guides.html 
+[2]: https://github.com/pragmagrid/pragma_ent/wiki/Installing-Rocks6.2-cluster-with-Open-vSwitch-Roll
+[3]: https://github.com/pragmagrid/pragma_boot
+[4]: http://fiji.rocksclusters.org/cloud-scheduler
