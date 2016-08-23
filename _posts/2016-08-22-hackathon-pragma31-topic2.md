@@ -12,13 +12,30 @@ date: 2016-08-22
 **Possible projects**: 
 
 * An API for querying the Cloud Scheduler database for registered sites and 
-  real-time visualizations of the results  for PRAGMA Testbed sites. The
-  visualization can be a google map (or other map) with PRAGMA sites
-  geolocated.
-* New visualization that monitors current bookings (running virtual clusters),
-  on what sites, and what is remaining site availability. Possibly name of a
-  virtual cluster (type of disk image requested. This info is specified in the
-  booking request)
+  real-time visualizations of the results for PRAGMA Testbed sites. The
+  visualization can be a google map (or other map) that shows PRAGMA sites
+  geolocated.  Hint: each site has Latitude, Longitude, Name, ENT-enabled attributes
+  that will need to be used. The result of this visualization should be viewed
+  in the browser
+
+* New visualization that monitors current bookings (each booking is a running virtual cluster).
+  Each PRAGMA site information includes :
+
+      * CPU available (total)
+      * Memory available (total)
+      * Name 
+      * ENT-enabled or not
+
+  Each reservationion information includes :
+
+      * resource where it runs
+      * CPU used
+      * memory used
+      * VC name (virtual cluster disk image name)
+
+  You can choose to present site remaiing capacity, types of running bookings,
+  etc. from using information about sites and runnign bookings. 
+  The result of this visualizatio should be viewed in the browser.
 
 **Resources**:
 
@@ -32,7 +49,6 @@ date: 2016-08-22
         'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';</code><br>
         and a time zone.
       * Example script using  PHP API:<br>
-        <code>
         &lt;?php<br>
         session_start();<br>
         require_once 'bookedapi.php';<br>
@@ -41,15 +57,15 @@ date: 2016-08-22
         $bookedApiUrl =<br>
         'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';<br>
         $bookedapiclient = new bookedapiclient($username, $password);<br>
-        $bookedapiclient-> authenticate(true);<br>
+        $bookedapiclient-> authenticate(true);
+
         // get user information given user id <br>
         function GetUser($bookedapiclient, $userid) {<br>
-            $userInfo = $bookedapiclient->getUser($userid);<br>
-            print_r($userInfo);<br>
+          &nbsp;&nbsp;&nbsp;  $userInfo = $bookedapiclient->getUser($userid);<br>
+          &nbsp;&nbsp;&nbsp;  print_r($userInfo);<br>
         }<br>
         GetUser($bookedapiclient, 1);<br>
-		?&gt;<br>
-        </code>
+        ?&gt;<br>
 
   * PRAGMA installation of cloud scheduler and its [website][3] 
   * PRAGMA installation Booked scheduler [API documentation][4]

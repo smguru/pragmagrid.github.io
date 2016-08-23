@@ -46,23 +46,45 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
 
    * Enable Public web access to your frontend (see guide).
 
-<h4><span class="strongword">2. Install and configure Open vSwitch on Rocks frontend </span></h4>
-   * Follow instructions on [Installing Rocks6.2 cluster with Open vSwitch Roll][2]
-     You will be able to execute the instrucitons for the physical forntend.
-     Part of the instrucitons are for the virtual frontend, see the info below
-     to create  a virtual frontend.
+<h4><span class="strongword">2. Register your physical host with the PRAGMA Cloud Scheduler </span></h4>
+   * Login at [Cloud Scheduler][4] with your team  user name and a password
+     and register your physical host as a site. For an example registration
+     see  **Responsibilities -> Resources** link. You will need to create a
+     new resource. Info to edit:
+
+         * Resource name
+         * Resource Permisisons (use automatically granted)
+         * Resource administrator (PRAGMA 31 students) 
+
+     then click on "Add Resource" button. 
+
+     In a new window provide information about **Additional Attributes**.
+     Most values can be kept as the defaults that are presented in the example registration.
+     Values to update:
+
+         * Available CPUS (use 2)
+         * Available Gb Memory (use 2)
+         * Leave ENT-enable as "no". You can update this attribute later after configuriung ENT.
+         * Provide correct  Latitude ad Longigtude  for your location.
+
+<h4><span class="strongword">3. Create a vritual cluster</span></h4>
    * For the completion of this step you will need to install a virtual cluster
      on your physical frontend. For the virtual cluster you are given an IP
      and FQDN. A firt part of FQDN is the HOSTNAME (substitute your values in the commands below).
      Here is a set of commands to execute to create a virtual cluster:
-     * **rocks add cluster IP 0 fe-name=HOSTNAME**
-     * **rocks set host vm HOSTNAME  mem=2048**
-     * **rocks list host vm**  (this is a check that VM info is setup in the rocks database)
-     * **rocks start host vm HOSTNAME**   (start VM and its installation)
 
-<h4><span class="strongword">3. Register your physical host with the PRAGMA Cloud Scheduler </span></h4>
-   * Login at [Cloud Scheduler][4] with your team  user name and password.
-     and register your physical host as a site  (name, site, latitute, etc).
+         rocks add cluster IP 0 fe-name=HOSTNAME (creates needed info in rocks database)
+         rocks set host vm HOSTNAME  mem=2048 (set 2Gb of memory for virtual frontend)
+         rocks list host vm  (check that VM info is setup in the rocks database)
+         rocks start host vm HOSTNAME   (start VM and its installation)
+
+<h4><span class="strongword">4. Install and configure Open vSwitch on Rocks frontend </span></h4>
+   * Follow instructions on [Installing Rocks6.2 cluster with Open vSwitch Roll][2]
+     You will be able to execute the instructions for the physical frontend.
+     Part of the instructions are for the virtual frontend, see the info below
+     to create  a virtual frontend.
+   * If successfull, login at [Cloud Scheduler][1] and update your registered
+     resource **ENT-enabled** attribute.
 
 <!--
 <h4><span class="strongword">4. Install pragma_boot on the node </span></h4>
