@@ -43,29 +43,32 @@ date: 2016-08-22
     In the Booked website in **Help -> Contributions** there is a link to already
     written [API client][2] (PHP). This API may be used as a basis, or rewritten 
     using any other languge of your choice. If you choose this API, note:
+
       * one of the files has a bug. The fix is easy and will be evident from the PHP errors. 
       * for the configuration file of this API you will need to set the correct address for BOOKEDWEBSERVICESURL:<br>
-        <code>const BOOKEDWEBSERVICESURL =
-        'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';</code><br>
+        ``const BOOKEDWEBSERVICESURL = 'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';``<br>
         and a time zone.
       * Example script using  PHP API:<br>
-        &lt;?php<br>
-        session_start();<br>
-        require_once 'bookedapi.php';<br>
-        $username = 'youraccount';<br>
-        $password = 'yourpassword';<br>
-        $bookedApiUrl =<br>
-        'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';<br>
-        $bookedapiclient = new bookedapiclient($username, $password);<br>
-        $bookedapiclient-> authenticate(true);
 
-        // get user information given user id <br>
-        function GetUser($bookedapiclient, $userid) {<br>
-          &nbsp;&nbsp;&nbsp;  $userInfo = $bookedapiclient->getUser($userid);<br>
-          &nbsp;&nbsp;&nbsp;  print_r($userInfo);<br>
-        }<br>
-        GetUser($bookedapiclient, 1);<br>
-        ?&gt;<br>
+        ```php
+        <?php
+        session_start();
+        require_once 'bookedapi.php';
+        $username = 'youraccount';
+        $password = 'yourpassword';
+        $bookedApiUrl =
+        'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
+        $bookedapiclient = new bookedapiclient($username, $password);
+        $bookedapiclient-> authenticate(true);
+  
+        // get user information given user id 
+        function GetUser($bookedapiclient, $userid) {
+            &nbsp;&nbsp;&nbsp;  $userInfo = $bookedapiclient->getUser($userid);
+            &nbsp;&nbsp;&nbsp;  print_r($userInfo);
+        }
+        GetUser($bookedapiclient, 1);
+        ?>
+        ``` 
 
   * PRAGMA installation of cloud scheduler and its [website][3] 
   * PRAGMA installation Booked scheduler [API documentation][4]
