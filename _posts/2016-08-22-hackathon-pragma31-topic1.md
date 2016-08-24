@@ -86,8 +86,14 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
      your host name. This will open a new GUI window  and you can start
      installation similar to what you did for the physical frontend. 
      Choose all the rolls you did for the physical frontend except "kvm".
+     After the installation is complete you  will see the icon with the name
+	 of your virtual forntend and "Shutoff" status. 
+	 
+	 To start the virtual frontend after the install:
 
-     After the installation is complete you can ssh to your virtual frontend.
+	     rocks start host vm HOSTNAME
+	 
+	 Once virtual frontend is jup and running and you can "ping" it,  ssh to your virtual frontend.
 
 <h4><span class="strongword">4. Install and configure Open vSwitch on Rocks frontend </span></h4>
    * Follow instructions on [Installing Rocks6.2 cluster with Open vSwitch Roll][2]
