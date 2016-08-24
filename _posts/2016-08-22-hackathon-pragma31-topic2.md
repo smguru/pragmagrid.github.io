@@ -55,7 +55,9 @@ date: 2016-08-22
   * for the configuration file of this API you will need to set the correct time zone and the
     address for Cloud scheduler:<br>
 
-        const BOOKEDWEBSERVICESURL = 'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
+  ```php
+  const BOOKEDWEBSERVICESURL = 'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
+  ```
 
   * Example script using  PHP API:<br>
 
