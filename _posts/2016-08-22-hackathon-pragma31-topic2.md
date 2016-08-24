@@ -54,25 +54,25 @@ date: 2016-08-22
 
   * Example script using  PHP API:<br>
 
-    ```php
-    <?php
-    session_start();
-    require_once 'bookedapi.php';
-    $username = 'youraccount';
-    $password = 'yourpassword';
-    $bookedApiUrl =
-    'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
-    $bookedapiclient = new bookedapiclient($username, $password);
-    $bookedapiclient-> authenticate(true);
-  
-    // get user information given user id 
-    function GetUser($bookedapiclient, $userid) {
-        &nbsp;&nbsp;&nbsp;  $userInfo = $bookedapiclient->getUser($userid);
-        &nbsp;&nbsp;&nbsp;  print_r($userInfo);
-     }
-     GetUser($bookedapiclient, 1);
-     ?>
-     ``` 
+      ```php
+      <?php
+      session_start();
+      require_once 'bookedapi.php';
+      $username = 'youraccount';
+      $password = 'yourpassword';
+      $bookedApiUrl =
+      'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
+      $bookedapiclient = new bookedapiclient($username, $password);
+      $bookedapiclient-> authenticate(true);
+    
+      // get user information given user id 
+      function GetUser($bookedapiclient, $userid) {
+          &nbsp;&nbsp;&nbsp;  $userInfo = $bookedapiclient->getUser($userid);
+          &nbsp;&nbsp;&nbsp;  print_r($userInfo);
+       }
+       GetUser($bookedapiclient, 1);
+       ?>
+       ``` 
 
 * PRAGMA installation of cloud scheduler and its [website][3] 
 * PRAGMA installation Booked scheduler [API documentation][4]
