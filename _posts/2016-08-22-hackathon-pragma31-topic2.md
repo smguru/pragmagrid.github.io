@@ -41,6 +41,11 @@ date: 2016-08-22
 
 **Resources**:
 
+* PRAGMA installation of cloud scheduler and its [website][3] 
+* PRAGMA installation Booked scheduler [API documentation][4]
+* Use your user registration given to you for the cloud scheduler [website][3]
+  and the API  access because because one needs to be a user
+  to be able to use API and the database queries. 
 * Original Booked software used as a basis for the Cloud Scheduler, see [website][1]
   In the Booked website in **Help -> Contributions** there is a link to already
   written [API client][2] (PHP). This API may be used as a basis, or rewritten 
@@ -54,31 +59,25 @@ date: 2016-08-22
 
   * Example script using  PHP API:<br>
 
-      ```php
-      <?php
-      session_start();
-      require_once 'bookedapi.php';
-      $username = 'youraccount';
-      $password = 'yourpassword';
-      $bookedApiUrl =
-      'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
-      $bookedapiclient = new bookedapiclient($username, $password);
-      $bookedapiclient-> authenticate(true);
+  ```php
+  <?php
+  session_start();
+  require_once 'bookedapi.php';
+  $username = 'youraccount';
+  $password = 'yourpassword';
+  $bookedApiUrl =
+  'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
+  $bookedapiclient = new bookedapiclient($username, $password);
+  $bookedapiclient-> authenticate(true);
     
-      // get user information given user id 
-      function GetUser($bookedapiclient, $userid) {
-          &nbsp;&nbsp;&nbsp;  $userInfo = $bookedapiclient->getUser($userid);
-          &nbsp;&nbsp;&nbsp;  print_r($userInfo);
-       }
-       GetUser($bookedapiclient, 1);
-       ?>
-       ``` 
-
-* PRAGMA installation of cloud scheduler and its [website][3] 
-* PRAGMA installation Booked scheduler [API documentation][4]
-* Use your user registration given to you for the cloud scheduler [website][3]
-  and the API  access because because one needs to be a user
-  to be able to use API and the database queries. 
+  // get user information given user id 
+  function GetUser($bookedapiclient, $userid) {
+    &nbsp;&nbsp;&nbsp;  $userInfo = $bookedapiclient->getUser($userid);
+    &nbsp;&nbsp;&nbsp;  print_r($userInfo);
+  }
+  GetUser($bookedapiclient, 1);
+  ?>
+  ``` 
 
 [1]: http://www.bookedscheduler.com 
 [2]: https://github.com/TrueSerenity/booked-php-api-client 
