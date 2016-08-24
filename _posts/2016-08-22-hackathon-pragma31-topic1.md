@@ -80,11 +80,11 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
 
      Then start virtual maanger with :
         
-		 virt-manger
+         virt-manger
 
      In the virt-manager GUI window double click on the icon that represents
-	 your host name. This will open a new GUI window  and you can start
-	 installation similar to what you did for the physical frontend. 
+     your host name. This will open a new GUI window  and you can start
+     installation similar to what you did for the physical frontend. 
      Choose all the rolls you did for the physical frontend except "kvm".
 
      After the installation is complete you can ssh to your virtual frontend.
@@ -92,8 +92,8 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
 <h4><span class="strongword">4. Install and configure Open vSwitch on Rocks frontend </span></h4>
    * Follow instructions on [Installing Rocks6.2 cluster with Open vSwitch Roll][2]
      You will be able to execute the instructions for the physical frontend.
-     Part of the instructions are for the virtual frontend, see the info below
-     to create  a virtual frontend.
+     Part of the instructions are for the virtual frontend that you created in
+     a previous step.
    * If successfull, login at [Cloud Scheduler][1] and update your registered
      resource **ENT-enabled** attribute.
 
