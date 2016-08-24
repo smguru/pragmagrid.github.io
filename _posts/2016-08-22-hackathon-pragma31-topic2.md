@@ -19,36 +19,40 @@ date: 2016-08-22
   in the browser
 
 * New visualization that monitors current bookings (each booking is a running virtual cluster).
-  Each PRAGMA site information includes :
+  <br>Each PRAGMA site information includes :
 
-      * CPU available (total)
-      * Memory available (total)
-      * Name 
-      * ENT-enabled or not
+  * CPU available (total)
+  * Memory available (total)
+  * Name 
+  * ENT-enabled or not
 
+  <br>
   Each reservationion information includes :
 
-      * resource where it runs
-      * CPU used
-      * memory used
-      * VC name (virtual cluster disk image name)
+  * resource where it runs
+  * CPU used
+  * memory used
+  * VC name (virtual cluster disk image name)
 
+  <br>
   You can choose to present site remaiing capacity, types of running bookings,
-  etc. from using information about sites and runnign bookings. 
+  etc. from using information about sites and running bookings. 
   The result of this visualizatio should be viewed in the browser.
 
 **Resources**:
 
-  * Original Booked software used as a basis for the Cloud Scheduler, see [website][1]
-    In the Booked website in **Help -> Contributions** there is a link to already
-    written [API client][2] (PHP). This API may be used as a basis, or rewritten 
-    using any other languge of your choice. If you choose this API, note:
+* Original Booked software used as a basis for the Cloud Scheduler, see [website][1]
+  In the Booked website in **Help -> Contributions** there is a link to already
+  written [API client][2] (PHP). This API may be used as a basis, or rewritten 
+  using any other languge of your choice. If you choose this API, note:
 
-      * one of the files has a bug. The fix is easy and will be evident from the PHP errors. 
-      * for the configuration file of this API you will need to set the correct address for BOOKEDWEBSERVICESURL:<br>
-        ``const BOOKEDWEBSERVICESURL = 'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';``<br>
-        and a time zone.
-      * Example script using  PHP API:<br>
+  * one of the files has a bug. The fix is easy and will be evident from the PHP errors. 
+  * for the configuration file of this API you will need to set the correct time zone and the
+    address for Cloud scheduler:<br>
+
+        const BOOKEDWEBSERVICESURL = 'http://fiji.rocksclusters.org/cloud-scheduler/Web/Services/index.php';
+
+  * Example script using  PHP API:<br>
 
         ```php
         <?php
@@ -70,11 +74,11 @@ date: 2016-08-22
         ?>
         ``` 
 
-  * PRAGMA installation of cloud scheduler and its [website][3] 
-  * PRAGMA installation Booked scheduler [API documentation][4]
-  * Use your user registration given to you for the cloud scheduler [website][3]
-    and the API  access because because one needs to be a user
-    to be able to use API and the database queries. 
+* PRAGMA installation of cloud scheduler and its [website][3] 
+* PRAGMA installation Booked scheduler [API documentation][4]
+* Use your user registration given to you for the cloud scheduler [website][3]
+  and the API  access because because one needs to be a user
+  to be able to use API and the database queries. 
 
 [1]: http://www.bookedscheduler.com 
 [2]: https://github.com/TrueSerenity/booked-php-api-client 
