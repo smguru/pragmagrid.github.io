@@ -67,6 +67,7 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
          * Leave ENT-enable as "no". You can update this attribute later after configuriung ENT.
          * Provide correct  Latitude ad Longigtude  for your location.
 
+<!--
 <h4><span class="strongword">3. Create a vritual cluster</span></h4>
    * For the completion of this step you will need to install a virtual cluster
      on your physical frontend. For the virtual cluster you are given an IP
@@ -94,6 +95,14 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
 	     rocks start host vm HOSTNAME
 	 
 	 Once virtual frontend is jup and running and you can "ping" it,  ssh to your virtual frontend.
+-->
+
+<h4><span class="strongword">3. Install pragma_boot on the node </span></h4>
+
+   Follow instructions in [this link][3]. When you come to the step of
+   downloading virtual images, instead of emailing cloud admin use images from
+   the USB drive.  The USB drive contains the repository with one virtual
+   cluster image.
 
 <h4><span class="strongword">4. Install and configure Open vSwitch on Rocks frontend </span></h4>
    * Follow instructions on [Installing Rocks6.2 cluster with Open vSwitch Roll][2]
@@ -103,11 +112,6 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
    * If successfull, login at [Cloud Scheduler][1] and update your registered
      resource **ENT-enabled** attribute.
 
-<!--
-<h4><span class="strongword">4. Install pragma_boot on the node </span></h4>
-
-   Follow instructions in [this link][3]
--->
 
 [1]: http://rocksclusters.github.io/docs/guides.html 
 [2]: https://github.com/pragmagrid/pragma_ent/wiki/Installing-Rocks6.2-cluster-with-Open-vSwitch-Roll
