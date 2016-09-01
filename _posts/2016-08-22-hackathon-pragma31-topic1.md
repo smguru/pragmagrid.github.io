@@ -98,20 +98,98 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
 -->
 
 <h4><span class="strongword">3. Install pragma_boot on the node </span></h4>
+   * Follow instructions in [this link][3]. When you come to the step of
+     downloading virtual images, instead of emailing cloud admin use images from
+     the USB drive given to you.  
+   * The USB drive contains the repository with two virtual
+     cluster images. You will use centos image for pragma boot.
+     When a USB is inserted it will be automatically mounted as `/media/<hash-string>`
+     Recreated the repository from USB on your host :
+        
+         mkdir -p /state/partition1/vm-images
+         cp /media/<hash-string>/state/partition1/vcdb.txt /state/partition1/vm-images
+         mkdir -p /state/partition1/vm-images/centos7
+         cp /media/<hash-string>/state/partition1/centos7.xml /state/partition1/vm-images/centos7
+         /bin/cp --sparse=alwyas /media/<hash-string>/state/partition1/centos7-fe.img /state/partition1/vm-images/centos7
+   * Test your configuration using instructions in [this link][3]
+   * Start Virtual cluster using centos7 image:
 
-   Follow instructions in [this link][3]. When you come to the step of
-   downloading virtual images, instead of emailing cloud admin use images from
-   the USB drive.  The USB drive contains the repository with one virtual
-   cluster image.
+         pragma boot centos7 0 loglevel=DEBUG
+
 
 <h4><span class="strongword">4. Install and configure Open vSwitch on Rocks frontend </span></h4>
    * Follow instructions on [Installing Rocks6.2 cluster with Open vSwitch Roll][2]
      You will be able to execute the instructions for the physical frontend.
-     Part of the instructions are for the virtual frontend that you created in
-     a previous step.
+     Execute all instructions in sections untill  you reach section
+     **Add physical link connecting to the Open vSwitch**. Skip this section and
+     the **Sync the config** sections and instead execute :
+
+	     rocks sync config 
+	     rocks sync host network YOUR-HOST
+
+   * Setup GRE link on the physical frontend. 
+
+     Execute command below. Note, XXX.XXX.XXX.XXX is a
+     controller IP address, YYY.YYY.YYY.A is an IP addresss you will give to your physical host 
+     and YYY.YYY.YYY.1 is the interface on the controller host (these addresses are given to you):
+
+         ovs-vsctl add-port br0 gre-naist -- set interface gre-naist type=gre options:remote_ip=XXX.XXX.XXX.XXX
+         ovs-vsctl add-port br0 tap0 -- set Interface tap0 type=internal
+         ifconfig tap0 YYY.YYY.YYY.A netmask 255.255.0.0 up
+         ping YYY.YYY.YYY.A   (ping your own address)
+         ping YYY.YYY.YYY.1   (ping interface on the remote controller)
+ 
+   * Configuration for Virtual Cluster
+
+     Verify that the virtual hosts are down by running this command (the
+     output should list "nostate" for STATUS):
+
+         rocks list host vm status=1
+
+     If the status shows "active" stop the virtual frontend with:
+
+         rocks stop host vm YOUR-FE
+
+     Add interfaces to your virtual cluster nodes. For a virtual frontend (named YOUR-VF):
+
+         rocks add host interface YOUR-VF  ovs subnet=openflow mac=`rocks report vm nextmac`
+         rocks sync config YOUR-VF
+
+   * Setting up interfaces on Virtual cluster
+
+     Start up your virtual frontend :
+
+         rocks start host vm YOUR-VF
+
+     When the virtual frontend is up and running, ssh on the virtual frontend
+     and execute the following commands. Substitute network name, subnet, netmask and
+     the host IP with the values for your network. The network name can be your
+     choice, but subnet, netmask and the host IP must be coming from ENT
+     operators (given to you):
+
+         yum install net-tools
+    
+     The above will install `ifconfig` command.
+
+         ifconfig -a
+
+     Find a new interface (not eth0, eth1, or lo), for example `ens5`.
+
+<!--
+         rocks add  network vopenflow subnet=YYY.YYY.0.0 netmask=255.255.0.0
+         rocks add host interface localhost eth2 subnet=vopenflow ip=YYY.YYY.YYY.B
+         rocks sync config
+         rocks sync host network localhost
+-->
+         ifconfig ens5 YYY.YYY.YYY.B netmask 255.255.0.0
+         ifconfig -a
+         ping YYY.YYY.YYY.B (ping your virtual frontend interface)
+         ping YYY.YYY.YYY.1 (ping interface on remote controller)
+         ping YYY.YYY.YYY.A (ping interface on your physical frontend)
+   
+
    * If successfull, login at [Cloud Scheduler][1] and update your registered
      resource **ENT-enabled** attribute.
-
 
 [1]: http://rocksclusters.github.io/docs/guides.html 
 [2]: https://github.com/pragmagrid/pragma_ent/wiki/Installing-Rocks6.2-cluster-with-Open-vSwitch-Roll
