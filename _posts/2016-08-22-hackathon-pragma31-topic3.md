@@ -27,5 +27,12 @@ date: 2016-08-22
   computed efficiently, which could be displayed in graphs, trees, maps,
   videos or any other visual method.
 
-**Resources**: TBA
+**Resources**: 
+
+[Lifemapper Documentation][1]
+
+[Pragma Hackathon documentaion][2]
+
+[1]: http://lifemapper.github.io/
+[2]: http://lifemapper.github.io/2016/08/23/pragma-31-student-hackathon.html
 
