@@ -6,6 +6,8 @@ layout: page
 
 ### The Persistent PRAGMA Testbed Resources
 
+**To add a new site to a PRAGMA Cloud testbed follow [this link][2]**
+
 How do we make a worldwide collection of resources available and usable
 for sharing of data/computation?
 
@@ -48,3 +50,4 @@ for sharing of data/computation?
 * IU
 
 [1]: /projects/ent/
+[2]: /site-setup/
