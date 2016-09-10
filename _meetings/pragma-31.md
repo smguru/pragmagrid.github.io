@@ -58,9 +58,9 @@ date: 2016-07-22
 * <span class="strongword">14:00 - 15:30</span> **Breakout for Working Groups**
 
   Resources Working Group:  [GLEON][15] | [RDA][16] | [ENT][17] <br>
-  [Biosciences Working Group] <br>
-  [Telescience Working Group] <br>
-  [Cyber-Learning/Distance Education Working Group] <br>
+  Biosciences Working Group <br>
+  Telescience Working Group <br>
+  Cyber-Learning/Distance Education Working Group <br>
 
 * <span class="strongword">16:30 - 17:50</span> **DEMO SESSION #1: Testbed Research**
   <br>**Chair:** Dr. Kohei Ichikawa, NAIST <br>
@@ -75,6 +75,58 @@ date: 2016-07-22
 #### <span class="strongword">September 9 </span>
 
 **PRAGMA31 Main Workshop Day 2**
+
+* <span class="strongword">08:30 - 08:40</span> **OPENING ADDRESS**
+  <br>By: Dr. Peter Arzberger Chair of the PRAGMA Steering Committee
+
+* <span class="strongword">08:40 - 09:30</span> **DEMO SESSION #2: Data and Science Research**
+  <br>**Chair:** Dr. Renato Figueiredo, University of Florida<br>
+  **Presentations:**<br>
+  1. [Global SQL platform on inter-cloud computing environment][24], Nakagawa Ikuo, Osaka University<br>
+  2. [Bringing visibility to food security data results][25], Quan Zhou, Indiana University<br>
+  <br>
+
+* <span class="strongword">09:30 - 10:40</span> **PRAGMA STUDENT SESSION**
+
+  * "Best Student Lightning Talks and Awards" Chair: Mr. Chawanat Nakasan, NAIST<br>
+     * **1st  place** [Implementing and Testing Ceph Distributed File System with Multipath TCP][26] <br>
+     * **2nd  place** [A Proposal of Access Control Mechanism Towards User-dedicated <br>
+       PRAGMA-ENT for IoT Era][27], Takuya Yamada, Osaka University<br>
+     * **3rd  place** [EDDVISAR Augmented Reality within Web Technology][28], Phuripat Akarasiriwong, Nodtakorn Thamsuwan, <br>
+     <br>
+
+  * [PRAGMA Student Hackathon Summary and Awards][33] Chair: Dr. Putchong Uthayopas, Kasetsart University
+
+     * Task 1 [Extension of the existing PRAGMA Cloud Testbed site][29] <br>
+     * Task 2 [Add more visibility and analytical ability to PRAGMA Cloud Testbed services][30] <br>
+     <br>
+
+* <span class="strongword">13:45 - 14:30</span> **DEMO SESSION #3: Data and Science Research**<br>
+  **Chair:** Dr. Jason Haga, AIST<br>
+  **Presentations:** <br>
+  1. [EDISON 2.0: Toward a Science Platform for Online HPC Simulations in
+     Computational Science and Engineering][31] Young-Kyoon Suh (KISTI) <br>
+  2. [Dynamic Addition of SDSC Comet and PRAGMA Cloud Nodes to a GRAPLEr Pool][32],
+     Renato Figueiredo (UF) <br>
+  <br>
+
+* <span class="strongword">14:30 - 16:00</span> **Breakout for Working Groups**
+
+  Resources Working Group: <br>
+      
+   * [Establishing a Central Research Database for the Lower Mekong Region][34]
+   * [PRGMA Cloud Scheduler][35]
+
+  Biosciences Working Group <br>
+  Telescience Working Group  <br>
+  Cyber-Learning/Distance Education Working Group <br>
+
+* <span class="strongword">16:20 - 17:10</span> **WORKING GROUP UPDATES**
+
+  * [Resources Working Group][39] By: Dr. Philip Papadoupoulos
+  * [Biosciences Working Group][36] By: Dr. Jason Haga 
+  * [Telescience Working Group][37] By: Dr. Shinji Shimojo
+  * [Cyber-Learning/Distance Education Working Group][38] By: Dr. Ruth Lee
 
 {% assign base = 'https://github.com/pragmagrid/pragma-meetings/blob/master/pragma31' %}
 
@@ -98,12 +150,31 @@ date: 2016-07-22
 [15]: {{ base }}/september-8/breakout/resources-gleon.pdf
 [16]: {{ base }}/september-8/breakout/resources-rda.pdf
 [17]: {{ base }}/september-8/breakout/resources-ent.pdf
-[18]: breakout bio
-[19]: breakout tele
-[19]: breakout cyber
 
 [20]: {{ base }}/september-8/demo/cloud-scheduler-demo.pdf
 [21]: {{ base }}/september-8/demo/clonezilla-demo.pdf
 [22]: {{ base }}/september-8/demo/openflow-demo.pdf
 [23]: {{ base }}/september-8/demo/overlaySDN-demo.pdf
 
+[24]: {{ base }}/september-9/demo/globalSQL-demo.pdf
+[25]: {{ base }}/september-9/demo/visibility-demo.pdf
+
+[26]: {{ base }}/september-9/student-talks/lightingTalk-1.pdf
+[27]: {{ base }}/september-9/student-talks/lightingTalk-2.pdf
+[28]: {{ base }}/september-9/student-talks/lightingTalk-3.pdf
+
+[29]: {{ base }}/september-9/hackathon-sumamry/task1.pdf
+[30]: {{ base }}/september-9/hackathon-sumamry/task2.pdf
+
+[31]: {{ base }}/september-9/demo/edison-demo.pdf
+[32]: {{ base }}/september-9/demo/grapler-demo.pdf
+
+[33]: {{ base }}/september-9/hackathon-sumamry/hackathon-sumamry.pdf
+
+[34]: {{ base }}/september-9/breakout/resources-mekong.pdf
+[35]: {{ base }}/september-9/breakout/resources-cloud-scheduler.pdf
+
+[36]: {{ base }}/september-9/wg-updates/wg-biosciences.pdf
+[37]: {{ base }}/september-9/wg-updates/wg-telesciences.pdf
+[38]: {{ base }}/september-9/wg-updates/wg-cyberlearning.pdf
+[39]: {{ base }}/september-9/wg-updates/wg-resources.pdf
