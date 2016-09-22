@@ -128,6 +128,11 @@ date: 2016-07-22
   * [Telescience Working Group][37] By: Dr. Shinji Shimojo
   * [Cyber-Learning/Distance Education Working Group][38] By: Dr. Ruth Lee
 
+* <span class="strongword">17:10 - 17:30</span> **CLOSING**
+
+  * [Closing Remarks ][40] By: Dr. Peter Arzberger, PRAGMA Chair
+  * [PRAGMA32 HOST PRESENTATION][41] By: Dr. Renato Figueiredo, University of Florida
+
 {% assign base = 'https://github.com/pragmagrid/pragma-meetings/blob/master/pragma31' %}
 
 [1]: /hackathon
@@ -178,3 +183,6 @@ date: 2016-07-22
 [37]: {{ base }}/september-9/wg-updates/wg-telesciences.pdf
 [38]: {{ base }}/september-9/wg-updates/wg-cyberlearning.pdf
 [39]: {{ base }}/september-9/wg-updates/wg-resources.pdf
+
+[40]: {{ base }}/september-9/summary-steering-committee.pdf
+[41]: {{ base }}/september-9/welcome-pragma32.pdf
