@@ -1,7 +1,7 @@
 ---
-title: Beeman
+title: Beaman
 firstname: Reed
-affiliation: Associate Curator, University of Florida
+affiliation: Directorate for Biological Sciences, Division of Biological Infrastructure, National Science Foundation
 imagesrc: "r-beeman.png"
 layout: person
 categories:
