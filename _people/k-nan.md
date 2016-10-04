@@ -5,7 +5,6 @@ affiliation: Deputy Director General, Computer Network Information Center (CNIC)
 imagesrc: "k-nan.png"
 layout: person
 categories:
- - "steering"
 ---
 
 **PRAGMA Role:** Steering Committee Member.
