@@ -5,8 +5,6 @@ affiliation: Professor, Computer Network Information Center (CNIC), Chinese Acad
 imagesrc: "k-dong.png"
 layout: person
 categories:
- - "steering"
- - "researcher"
 ---
 
 **PRAGMA Role:** Steering Committee Member. 
