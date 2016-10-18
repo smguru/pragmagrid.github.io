@@ -31,7 +31,7 @@ date: 2016-08-22
 
 [Lifemapper Documentation][1]
 
-[Pragma Hackathon documentaion][2]
+[Pragma Hackathon documentation][2]
 
 [1]: http://lifemapper.github.io/
 [2]: http://lifemapper.github.io/2016/08/23/pragma-31-student-hackathon.html
