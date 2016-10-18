@@ -11,14 +11,14 @@ date: 2016-08-04
 * **Topic 1: <br>[Extension of the existing PRAGMA Cloud Testbed site][1]**
   <br>Possible project:
   * Setting up a node (with or without ENT) and registering the node to the PRAGMA Cloud
-    Scheduler. Possibly start a virtual cluster via cloud scheduler 
+    Scheduler. Possibly start a virtual cluster via cloud scheduler. 
 
 * **Topic 2: <br>[Applications that add more visibility and analytical ability to PRAGMA Cloud Testbed services][2]**
   <br>Possible projects:
   * An API for querying the Cloud Scheduler database for registered sites and new
-    real-time visualizations of the results  for PRAGMA Testbed sites.
+    real-time visualizations of the results for PRAGMA Testbed sites.
   * New visualization that monitors current bookings (running virtual clusters),
-    on what sites, and what is remaining site availability. Possibly name of a virtual cluster 
+    on what sites, and what is remaining site availability. Possibly name of a virtual cluster.
 
 * **Topic 3: <br>[Applications that search, query, discover or generally mine
   biodiversity data through Lifemapper APIs][3]**
