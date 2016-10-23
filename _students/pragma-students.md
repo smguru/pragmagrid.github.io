@@ -45,10 +45,57 @@ At the PRAGMA 22 Workshop (April 2012, Melbourne), a group of graduate students 
 
 <p>
 
-Two key activities of PRAGMA Students occur at each PRAGMA workshop. First, PRAGMA Students organize a workshop that allows fellow students to talk and share their own research activities with each other. In addition, the workshop includes discussions relevant to students, often engaging mentors from around PRAGMA.
-PRAGMA Students also organize the poster session for the overall PRAGMA Workshop, allowing students to review abstracts and select the strongest posters for presentation.
-In addition, the PRAGMA Students group organizes a distributed seminar with speakers from the PRAGMA community on topics of interest to the students. The first such distributed seminar was held in February 2013, featuring Dr. Philip Papadopoulos speaking about “Building the PRAGMA Multi-Cloud.” The video of his talk can be found at http://connect.iu.edu/p1un2k6gqy6/.
-Finally, the group encouraged all students in PRAGMA to become involved in activities of expeditions and working groups as equal collaborators.
+Two key activities of PRAGMA Students occur at each PRAGMA workshop. First, PRAGMA Students organize a workshop that allows fellow students to talk and share their own research activities with each other. In addition, the workshop includes discussions relevant to students, often engaging mentors from around PRAGMA. PRAGMA Students also organize the poster session for the overall PRAGMA Workshop, allowing students to review abstracts and select the strongest posters for presentation.  
+
+<p> The following students were recognized during recent PRAGMA Workshops:
+
+<p>
+ 
+<b> PRAGMA 30 </b>
+
+<p>
+ 
+ <b> The Best Poster Award: </b>
+ 
+Rhia Trogo-Pantola, Jed Barry Ebardaloza, Delfin Jay Sabido IX, Edgardo Tongson, Gerry Bagtasa, Orlando Balderama. IBM. <cite> Enabling Philippine Farmers to Adapt to Climate Variability Using Seasonal Climate and Weather Forecast with a Crop Simulation Model in an SMS-based Farmer Decision Support System. </cite>
+
+<p>
+
+<b> The Best Poster Award, 2nd Place: </b>
+
+Lemuel Clark P. Velasco, Joshua Dave E. Gomora, Leonard N. Aguanta, Joanna Marie D. Acibar, John Paul S. Postrano, Lyka Cristina T. Diaz, Leo Anthony T. Catane. Mindanao State University - Iligan Institute of Technology. Data Visualization of Schistosomiasis Community Health Data Using Google Maps and Google Charts.
+
+<p>
+
+<b> The Best Poster Award, 2nd Place: </b> 
+
+Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date. Nara Institute of Science and Technology and Osaka University. Practicality and Feasibility of Improving Linux Container Utilization with Task Rebalancing Strategy.
+ 
+<p>
+
+<b> PRAGMA 31  </b> 
+
+<p>
+ 
+ <b> Best Poster Award: </b>
+ 
+Chawanat Nakasan, Kohei Ichikawa, and Hajimu Iida. Nara Institute of Science and Technology. Implementing and Testing Ceph Distributed File System with Multipath TCP.
+
+<p>
+ 
+ <b> Best Poster Award, 2nd Place: </b>
+
+Takuya Yamada, Keichi Takahashi, Masaya Muraki, Susumu Date, and Shinji Shimojo. Osaka University. A Proposal of Access Control Mechanism Towards User-dedicated PRAGMA ENT for IoT Era.
+
+<p>
+ 
+ <b> Best Poster Award, 3rd Place: </b>
+
+Phuripat Akarasiriwong. Mahidol University. EddvisAR: Augmented Reality Within Web Browser Technology.  
+
+</p>
+
+In addition, the PRAGMA Students group organizes a distributed seminar with speakers from the PRAGMA community on topics of interest to the students. The first such distributed seminar was held in February 2013, featuring Dr. Philip Papadopoulos speaking about “Building the PRAGMA Multi-Cloud.” The video of his talk can be found at http://connect.iu.edu/p1un2k6gqy6/. Finally, the group encouraged all students in PRAGMA to become involved in activities of expeditions and working groups as equal collaborators.  
 
 </p>
 
@@ -60,7 +107,7 @@ Finally, the group encouraged all students in PRAGMA to become involved in activ
 <p>
 
 PRAGMA Students’ activities are open to all. Membership in PRAGMA Students is open to students associated with PRAGMA member institutions, and advised by a PRAGMA faculty member.
-As with PRAGMA, the best way to learn more is to participate in a workshop, particularly in the PRAGMA Student Workshop held prior to each PRAGMA Workshop (see above). Students are also encouraged to contact others in the PRAGMA Students group, to subscribe to the mailing list , and to participate in other PRAGMA activities  (pragma-student-list {AT} googlegroups {DOT} com).
+As with PRAGMA, the best way to learn more is to participate in a workshop, particularly in the PRAGMA Student Workshop held prior to each PRAGMA Workshop (see above). Students are also encouraged to contact others in the PRAGMA Students group, to subscribe to the mailing list and to participate in other PRAGMA activities  (pragma-student-list {AT} googlegroups {DOT} com).
 
 </p>
 
