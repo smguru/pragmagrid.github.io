@@ -63,13 +63,13 @@ Rhia Trogo-Pantola, Jed Barry Ebardaloza, Delfin Jay Sabido IX, Edgardo Tongson,
 
 <b> The Best Poster Award, 2nd Place: </b>
 
-Lemuel Clark P. Velasco, Joshua Dave E. Gomora, Leonard N. Aguanta, Joanna Marie D. Acibar, John Paul S. Postrano, Lyka Cristina T. Diaz, Leo Anthony T. Catane. Mindanao State University - Iligan Institute of Technology. Data Visualization of Schistosomiasis Community Health Data Using Google Maps and Google Charts.
+Lemuel Clark P. Velasco, Joshua Dave E. Gomora, Leonard N. Aguanta, Joanna Marie D. Acibar, John Paul S. Postrano, Lyka Cristina T. Diaz, Leo Anthony T. Catane. <cite> Mindanao State University - Iligan Institute of Technology. Data Visualization of Schistosomiasis Community Health Data Using Google Maps and Google Charts. </cite>
 
 <p>
 
 <b> The Best Poster Award, 2nd Place: </b> 
 
-Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date. Nara Institute of Science and Technology and Osaka University. Practicality and Feasibility of Improving Linux Container Utilization with Task Rebalancing Strategy.
+Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date. Nara Institute of Science and Technology and Osaka University. <cite> Practicality and Feasibility of Improving Linux Container Utilization with Task Rebalancing Strategy. </cite>
  
 <p>
 
@@ -79,19 +79,19 @@ Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date. Nara Inst
  
  <b> Best Poster Award: </b>
  
-Chawanat Nakasan, Kohei Ichikawa, and Hajimu Iida. Nara Institute of Science and Technology. Implementing and Testing Ceph Distributed File System with Multipath TCP.
+Chawanat Nakasan, Kohei Ichikawa, and Hajimu Iida. Nara Institute of Science and Technology. <cite> Implementing and Testing Ceph Distributed File System with Multipath TCP. </cite>
 
 <p>
  
  <b> Best Poster Award, 2nd Place: </b>
 
-Takuya Yamada, Keichi Takahashi, Masaya Muraki, Susumu Date, and Shinji Shimojo. Osaka University. A Proposal of Access Control Mechanism Towards User-dedicated PRAGMA ENT for IoT Era.
+Takuya Yamada, Keichi Takahashi, Masaya Muraki, Susumu Date, and Shinji Shimojo. Osaka University. <cite> A Proposal of Access Control Mechanism Towards User-dedicated PRAGMA ENT for IoT Era. </cite>
 
 <p>
  
  <b> Best Poster Award, 3rd Place: </b>
 
-Phuripat Akarasiriwong. Mahidol University. EddvisAR: Augmented Reality Within Web Browser Technology.  
+Phuripat Akarasiriwong. Mahidol University. <cite> EddvisAR: Augmented Reality Within Web Browser Technology. </cite>  
 
 </p>
 
