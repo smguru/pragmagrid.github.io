@@ -1,0 +1,122 @@
+/*
+adapted from http://css3.bradshawenterprises.com/cfimg/#cfimg3
+
+For "n" images define:
+a = presentation time for one image
+b = duration for cross fading
+t = (a+b)*n  - total animation-duration 
+t/n = a + b  - animation-delay 
+
+Percentage for keyframes:
+  0%  
+  a/t*100%
+  (a+b)/t*100% = 1/n*100%
+  100%-(b/t*100%)
+  100%
+
+Current sefinition is for 4 keyframes and 3 images.
+
+*/ 
+
+@-webkit-keyframes FadeInOut {
+ 0% { opacity:1; }
+ 22% { opacity:1; }
+ 33% { opacity:0; }
+ 88% { opacity:0; }
+ 100% { opacity:1; }
+}
+
+@-moz-keyframes FadeInOut {
+ 0% { opacity:1; }
+ 22% { opacity:1; }
+ 33% { opacity:0; }
+ 88% { opacity:0; }
+ 100% { opacity:1; }
+}
+
+@-o-keyframes FadeInOut {
+ 0% { opacity:1; }
+ 22% { opacity:1; }
+ 33% { opacity:0; }
+ 88% { opacity:0; }
+ 100% { opacity:1; }
+}
+
+@keyframes FadeInOut {
+ 0% { opacity:1; }
+ 22% { opacity:1; }
+ 33% { opacity:0; }
+ 88% { opacity:0; }
+ 100% { opacity:1; }
+}
+
+#fade {
+  position:relative;
+  /*
+  height:281px;
+  max-width:500px;
+  width:450px;
+  */
+  margin:0 auto;
+}
+
+#fade img {
+  position:absolute;
+  left:0;
+}
+
+#fade img {
+  -webkit-animation-name: FadeInOut;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration: 27s;
+
+  -moz-animation-name: FadeInOut;
+  -moz-animation-timing-function: ease-in-out;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-duration: 27s;
+
+  -o-animation-name: FadeInOut;
+  -o-animation-timing-function: ease-in-out;
+  -o-animation-iteration-count: infinite;
+  -o-animation-duration: 27s;
+
+  animation-name: FadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 27s;
+}
+
+#fade img:nth-of-type(1) {
+  -webkit-animation-delay: 24s;
+  -moz-animation-delay: 24s;
+  -o-animation-delay: 24s;
+  animation-delay: 24s;
+}
+
+#fade img:nth-of-type(2) {
+  -webkit-animation-delay: 15s;
+  -moz-animation-delay: 15s;
+  -o-animation-delay: 15s;
+  animation-delay: 15s;
+}
+
+#fade img:nth-of-type(3) {
+  -webkit-animation-delay: 6s;
+  -moz-animation-delay: 6s;
+  -o-animation-delay: 6s;
+  animation-delay: 6s;
+}
+
+.shadow {
+  -webkit-box-shadow: 5px 5px 5px #aaa;
+  -moz-box-shadow: 5px 5px 5px #aaa;
+  box-shadow: 5px 5px 5px #aaa;
+  margin-bottom: 10px;
+}
+
+div.caption {
+  display: block;
+  float: left;
+  clear: both;
+}
