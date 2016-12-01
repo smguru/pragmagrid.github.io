@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PRAGMA Students
-date: 
 order: 1
 ---
 
