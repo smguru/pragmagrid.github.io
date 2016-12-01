@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PRAGMA Students
-date: 2016-07-25 
+date: 
 order: 1
 ---
 
