@@ -1,5 +1,5 @@
 ---
-title: PRAGMA-ENT 
+title: ENT 
 image_path: ""
 layout: page
 order: 3
