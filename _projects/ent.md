@@ -24,11 +24,11 @@ Taiwan (national Applied Research Laboratories) with a goal of expanding the bac
 
  <p>
 
-* Establish an international VLAN (virtual local area network) between TU and ENT.
+* Establishing an international VLAN (virtual local area network) between TU and ENT.
 
  <p>
 
-* Continue collaborations with researchers and students at Kasetsart University (KU) in Thailand to monitor and visualize the OpenFlow Network of PRAGMA-ENT.
+* Continuing collaborations with researchers and students at Kasetsart University (KU) in Thailand to monitor and visualize the OpenFlow Network of PRAGMA-ENT.
 
  <p>
 
