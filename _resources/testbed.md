@@ -16,22 +16,21 @@ for sharing of data/computation?
   * Cloud Controller 
   * Overlay Networks
   
-  <p>
+ <p>
 
-* Two types of natural testbed resources
+* Two types of natural testbed resources:
   * Pure Virtual Machine (VM)  and Virtual Cluster (VC) hosting
   * VM and VC hosting with programmable networking 
     see [ENT][1]
     
 <p>
-
+    
 * Drive infrastructure by meeds of specific use cases: 
   * Biodiversity Expedition
   * Lake Ecology Expedition
   * Experimental Network Testbed
   * Needs of other PRAGMA working groups
   
-<p>
 
 #### Cloud deployment technologies 
 
