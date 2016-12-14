@@ -14,24 +14,20 @@ for sharing of data/computation?
 * Various technologies are now "good" enough to try:
   * PRAGMA Boot 
   * Cloud Controller 
-  * Overlay Networks
-  
- <p>
-
+  * Overlay Networks 
+ 
 * Two types of natural testbed resources:
-  * Pure Virtual Machine (VM)  and Virtual Cluster (VC) hosting
+  * Pure Virtual Machine (VM) and Virtual Cluster (VC) hosting
   * VM and VC hosting with programmable networking 
     see [ENT][1]
-    
-<p>
-    
-* Drive infrastructure by meeds of specific use cases: 
+
+* Drive infrastructure by needs of specific use cases: 
   * Biodiversity Expedition
   * Lake Ecology Expedition
   * Experimental Network Testbed
   * Needs of other PRAGMA working groups
   
-
+  
 #### Cloud deployment technologies 
 
 * ROCKS (UCSD)
