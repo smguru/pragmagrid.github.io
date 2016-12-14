@@ -15,11 +15,15 @@ for sharing of data/computation?
   * PRAGMA Boot 
   * Cloud Controller 
   * Overlay Networks 
+  
+
  
 * Two types of natural testbed resources:
   * Pure Virtual Machine (VM) and Virtual Cluster (VC) hosting
   * VM and VC hosting with programmable networking 
     see [ENT][1]
+
+
 
 * Drive infrastructure by needs of specific use cases: 
   * Biodiversity Expedition
