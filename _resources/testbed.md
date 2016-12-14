@@ -18,14 +18,12 @@ for sharing of data/computation?
   
 <br/>
 
- 
 * Two types of natural testbed resources:
   * Pure Virtual Machine (VM) and Virtual Cluster (VC) hosting
   * VM and VC hosting with programmable networking 
     see [ENT][1]
 
 <br/>
-
 
 * Drive infrastructure by needs of specific use cases: 
   * Biodiversity Expedition
@@ -35,7 +33,6 @@ for sharing of data/computation?
   
 <br/>
 
-  
 #### Cloud deployment technologies 
 
 * ROCKS (UCSD)
@@ -45,14 +42,11 @@ for sharing of data/computation?
 
 <br/>
 
-
 #### Record keeping performance 
 
 * perfSONAR - mesh configuration
 
-
 <br/>
-
 
 #### Sites
 
