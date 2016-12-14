@@ -15,7 +15,7 @@ for sharing of data/computation?
   * PRAGMA Boot 
   * Cloud Controller 
   * Overlay Networks 
-  
+
 <br/>
 
 * Two types of natural testbed resources:
@@ -30,7 +30,7 @@ for sharing of data/computation?
   * Lake Ecology Expedition
   * Experimental Network Testbed
   * Needs of other PRAGMA working groups
-  
+
 <br/>
 
 #### Cloud deployment technologies 
