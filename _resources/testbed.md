@@ -16,6 +16,7 @@ for sharing of data/computation?
   * Cloud Controller 
   * Overlay Networks 
   
+<br/>
 
  
 * Two types of natural testbed resources:
@@ -23,6 +24,7 @@ for sharing of data/computation?
   * VM and VC hosting with programmable networking 
     see [ENT][1]
 
+<br/>
 
 
 * Drive infrastructure by needs of specific use cases: 
@@ -31,6 +33,8 @@ for sharing of data/computation?
   * Experimental Network Testbed
   * Needs of other PRAGMA working groups
   
+<br/>
+
   
 #### Cloud deployment technologies 
 
@@ -39,10 +43,15 @@ for sharing of data/computation?
 * OPenNebula (NCHC)
 * CloudStack (AIST, UFL, KU)
 
+<br/>
+
 
 #### Record keeping performance 
 
 * perfSONAR - mesh configuration
+
+
+<br/>
 
 
 #### Sites
