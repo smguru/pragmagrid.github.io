@@ -22,7 +22,9 @@ for sharing of data/computation?
   * Pure Virtual Machine (VM)  and Virtual Cluster (VC) hosting
   * VM and VC hosting with programmable networking 
     see [ENT][1]
+    
 <p>
+
 * Drive infrastructure by meeds of specific use cases: 
   * Biodiversity Expedition
   * Lake Ecology Expedition
@@ -38,13 +40,11 @@ for sharing of data/computation?
 * OPenNebula (NCHC)
 * CloudStack (AIST, UFL, KU)
 
-<p>
 
 #### Record keeping performance 
 
 * perfSONAR - mesh configuration
 
-<p>
 
 #### Sites
 
