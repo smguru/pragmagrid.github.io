@@ -6,7 +6,7 @@ layout: page
 
 ### The Persistent PRAGMA Testbed Resources
 
-**To add a new site to a PRAGMA Cloud testbed follow [this link][2]**
+**To add a new site to a PRAGMA Cloud testbed follow [this link:][2]**
 
 How do we make a worldwide collection of resources available and usable
 for sharing of data/computation?
@@ -14,17 +14,24 @@ for sharing of data/computation?
 * Various technologies are now "good" enough to try:
   * PRAGMA Boot 
   * Cloud Controller 
-  * Overlay Networks
+  * Overlay Networks 
 
-* Two types of natural testbed resources
-  * Pure Virtual Machine (VM)  and Virtual Cluster (VC) hosting
+<br/>
+
+* Two types of natural testbed resources:
+  * Pure Virtual Machine (VM) and Virtual Cluster (VC) hosting
   * VM and VC hosting with programmable networking 
     see [ENT][1]
-* Drive infrastructure by meeds of specific use cases: 
+
+<br/>
+
+* Drive infrastructure by needs of specific use cases: 
   * Biodiversity Expedition
   * Lake Ecology Expedition
   * Experimental Network Testbed
   * Needs of other PRAGMA working groups
+
+<br/>
 
 #### Cloud deployment technologies 
 
@@ -33,9 +40,13 @@ for sharing of data/computation?
 * OPenNebula (NCHC)
 * CloudStack (AIST, UFL, KU)
 
+<br/>
+
 #### Record keeping performance 
 
 * perfSONAR - mesh configuration
+
+<br/>
 
 #### Sites
 

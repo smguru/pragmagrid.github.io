@@ -1,5 +1,5 @@
 ---
-title: Lake Ecology
+title: Limnology
 image_path: ""
 layout: page
 order: 2

@@ -1,5 +1,5 @@
 ---
-title: Virtual Biodiversity
+title: Biodiversity
 image_path: ""
 layout: page
 order: 1
