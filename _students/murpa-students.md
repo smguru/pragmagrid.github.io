@@ -98,7 +98,10 @@ Mentor: Dr. Andrea Chiba<br />
 Project Title: Computation Time Scales in iRat-Rat Social Interactions<br />
 </ul>
 
+<p>
+
 <p><strong>2013</strong></p>
+
 <ul>
 
 <strong>Rui Jie Chow</strong><br />
@@ -121,9 +124,13 @@ Project Title: Performing MapReduce tasks in Kepler using Nimrod/K<br />
 <strong>Tim Telfer</strong><br />
 Mentor: Dr. Sameer Tilak<br />  
 Project Title: Automating the Deployment and Management of Software Stacks For Ad-Hoc Wireless Sensor Network Devices<br />
+
 </ul>
 
+<p>
+
 <p><strong>2012</strong></p>
+
 <ul>
 
 <strong>John Bell</strong><br />
@@ -160,7 +167,9 @@ Mentor: Dr. Philip Papadopoulos<br />
 Project Title: Approaches to author Rocks virtual machine in Amazon Elastic Compute Cloud<br />
 
 </ul>
- 
+
+<p>
+
 <p><strong>2011</strong></p>
 
 <ul>
@@ -200,9 +209,9 @@ Project Title: Integrating Web Services, Nimrod and Kepler in Biomedical Workflo
 Mentor: Dr. Jurgen Schulze<br />  
 Project Title: Real Time Visualisation in Astrophysics<br /> 
 
-
-
 </ul>
+
+<p>
  
 <p><strong>2010</strong></p>
 
@@ -250,6 +259,8 @@ Project Title: Interactively Viewing Density Fields<br />
 
 
 </ul>
+
+<p>
  
 <p><strong>2009</strong></p>
 
@@ -295,7 +306,7 @@ Project Title: Spatial Visualisation for Urban Modelling<br />
 
 <p>
 
- 
+<br  />
 
 MURPA and QURPA involve an advanced seminar scheme, in which students can attend virtual seminars given by world leading experts before they leave. These seminars also allow students to "meet" potential UCSD mentors and get some information about potential projects. In 2016 the seminar series focused on an all female cast of presenters. At the time of writing this report, six students  have been selected at Monash for the upcoming MURPA 2016/2017 round, and two UQ students are yet to be chosen.
 
