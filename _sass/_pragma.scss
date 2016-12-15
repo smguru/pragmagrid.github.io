@@ -100,6 +100,12 @@ img.img-right { float:right; margin:0 0 0 10px; }
 div.clear   { clear:both; height:.01em; overflow:hidden; }
 
 /* news markup */
+.dates { 
+    color:$teal-dark; 
+    font-weight:bold; 
+    font-size: 14px; 
+    text-align:center;
+}
 
 .smalltitle {
     font-weight: 600;

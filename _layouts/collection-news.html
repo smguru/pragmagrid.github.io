@@ -14,8 +14,8 @@ layout: default
           {% if service.categories[0] == "news" %}
             <tr>
               <td>
-                 <span class="smalltitle">{{ service.date | date: '%B %d, %Y'  }}:</span>
-                 <span class="strongword">{{ service.title }}</span> 
+                 <span class="dates">{{ service.date | date: '%B %d, %Y'  }}</span>
+                 <span class="smalltitle">&nbsp;&nbsp;&nbsp;{{ service.title }}</span>
               </td>
             </tr>
             <tr>
@@ -40,8 +40,8 @@ layout: default
           {% if service.categories[0] == "events" %}
             <tr>
               <td>
-                 <span class="smalltitle">{{ service.dates }}: </span>
-                 <span class="strongword">{{ service.title }}</span> 
+                 <span class="dates">{{ service.dates }}</span>
+                 <span class="smalltitle">&nbsp;&nbsp;&nbsp;{{ service.title }}</span>
               </td>
             </tr>
             <tr>
@@ -72,8 +72,8 @@ Please see <a href="/meetings">Earlier events</a> for past PRAGMA meetings. <br/
           {% if service.categories[0] == "archive" %}
             <tr>
               <td>
-                 <span class="smalltitle">{{ service.date | date: '%B %d, %Y'  }}:</span>
-                 <span class="strongword">{{ service.title }}</span> 
+                 <span class="dates">{{ service.date | date: '%B %d, %Y'  }}</span>
+                 <span class="smalltitle">&nbsp;&nbsp;&nbsp;{{ service.title }}</span>
               </td>
             </tr>
             <tr>
