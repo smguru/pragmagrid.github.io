@@ -254,12 +254,6 @@ Project Title: Interactively Viewing Density Fields<br />
 
 </ul>
 
-
-
-
-
-</ul>
-
 <p>
  
 <p><strong>2009</strong></p>
