@@ -15,7 +15,7 @@ In today’s educational arena, universities must provide students with opportun
 
 Since 2008, 42 Monash University students have travelled to international partners under the Monash Undergraduate Research Projects Abroad program (MURPA). They are selected for the program the year prior to their research internships, hence, those chosen in 2015 travelled in 2016, etc.  They have travelled to the University of California, San Diego, the National Center for Supercomputing Research in Illinois, The Technion in Israel, the Institute for Infocomm Research (I2R) in Singapore and the University of Warwick. Students are placed for a period of 8 weeks, allowing them to integrate into the research groups as team members. Students have a local mentor in Australia as well as one in the remote site, and often bridge international research projects. 
 
-To date, UC San Diego has hosted 30 MURPA students:
+To date, UC San Diego has hosted 30 MURPA students.  They are as follows:
 
 <p><strong>2016</strong></p>
 <ul>
