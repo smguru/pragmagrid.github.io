@@ -43,7 +43,7 @@ Project Title: PlayStation Move on Windows<br />
  <p>
 
 <ul>
-<strong>Luchina Togno</strong><br />
+<strong>Lucina Togno</strong><br />
 Mentor: Dr. Ilkay Altintas<br />  
 Project Title: Workflow task modelling and scheduling<br />
 </ul>
