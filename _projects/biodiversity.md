@@ -30,6 +30,8 @@ by scientists at multiple institutions and projects.  This solution:
   * enables scientists to perform Lifemapper-facilitated data processing on large,
   sensitive or restricted data.
   
+  <p>
+  
 
 <span class="strongword">Additional Goals:</span>
 
