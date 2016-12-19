@@ -1,7 +1,8 @@
 ---
-title: PRAGMA Testbed
+title: PRAGMA Testbed Information
 image_path: ""
 layout: page
+order: 3
 ---
 
 ### The Persistent PRAGMA Testbed Resources

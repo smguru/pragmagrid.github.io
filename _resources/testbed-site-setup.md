@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "PRAGMA testbed site setup"
-date: 2016-09-05
+title: "PRAGMA Testbed Site Setup"
+layout: page
+order: 3
 ---
 
 <div class="border">
