@@ -88,13 +88,13 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
      installation similar to what you did for the physical frontend. 
      Choose all the rolls you did for the physical frontend except "kvm".
      After the installation is complete you  will see the icon with the name
-	 of your virtual forntend and "Shutoff" status. 
-	 
-	 To start the virtual frontend after the install:
+     of your virtual forntend and "Shutoff" status. 
+     
+     To start the virtual frontend after the install:
 
-	     rocks start host vm HOSTNAME
-	 
-	 Once virtual frontend is jup and running and you can "ping" it,  ssh to your virtual frontend.
+         rocks start host vm HOSTNAME
+     
+     Once virtual frontend is jup and running and you can "ping" it,  ssh to your virtual frontend.
 -->
 
 <h4><span class="strongword">3. Install pragma_boot on the node </span></h4>
@@ -124,8 +124,8 @@ Scheduler. Possibly start a virtual cluster via cloud scheduler.
      **Add physical link connecting to the Open vSwitch**. Skip this section and
      the **Sync the config** sections and instead execute :
 
-	     rocks sync config 
-	     rocks sync host network YOUR-HOST
+         rocks sync config 
+         rocks sync host network YOUR-HOST
 
    * Setup GRE link on the physical frontend. 
 

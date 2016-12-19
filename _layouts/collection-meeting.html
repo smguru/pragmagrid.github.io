@@ -18,19 +18,19 @@ layout: default
           <td>
             {% if service.imagesrc %}
                <img src="/images/workshops/{{service.imagesrc}}" alt="" class=""/>
-	        {% endif %}
+            {% endif %}
           </td>
           <td>
             <span class="strongword">{{ service.title }} </span><br>
             {{ service.meeting_date }}<br>
             {% if service.presentations %}
                 <a href="{{ base }}" title="{{ service.title }}">presentations </a>
-	        {% else %}
+            {% else %}
                 <a href="{{ service.url }}" title="{{ service.title }}">presentations </a>
-	        {% endif %}
+            {% endif %}
             {% if service.meeting_url  != "" %}
                |  <a href="{{ service.meeting_url }}" title="{{ service.title }}">website</a> 
-	        {% endif %}
+            {% endif %}
           </td>
         </tr>
         {% endfor %}
