@@ -1,10 +1,10 @@
 ---
 layout: pragma32
-title: "PRAGMA 32 Program"
+title: "Registration"
 date: 2016-09-02
 workshop: pragma32
-short: program
+short: registration
 ---
 
-Program page  
+Registration page 
 
