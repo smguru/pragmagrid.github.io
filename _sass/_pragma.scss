@@ -51,6 +51,7 @@ div.clear   { clear:both; height:.01em; overflow:hidden; }
 
 /* pragma 32 styles */
 
+
 /* page with  menu left and content right */
 .wrapper-menu-left {
     border: 0px solid black; /*for debugging*/
@@ -60,13 +61,52 @@ div.clear   { clear:both; height:.01em; overflow:hidden; }
 }
 .menu-left {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-  border: 0px solid blue; width:13%; float:left; line-height:18px;
+  border: 0px solid blue; width:17%; float:left; line-height:18px;
   padding-top: 2px; overflow:hidden; min-height:400px;
   margin-left: -35px;
 }
 .content-right {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-  border: 0px solid green; width:87%; float:left; line-height:18px;
+  border: 0px solid green; width:83%; float:left; line-height:18px;
   padding-top: 2px;  margin: 0; overflow:hidden; min-height:200px;
 }
 .menu-left ul { list-style:none; }
+
+$green1: #11564A;
+$green2: darken($green1, 25%);
+$green3: #abeacb;
+$pink1: #cf1f46;
+$pink2: #ffc6d5;
+
+.pragma32nav {
+	width:100%;
+    background-color: $green3;
+    float: right;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 36px;
+    .menu-icon { display: none; }
+    .page-link {
+        color: $green1;
+        &:visited { color: $green2; }
+        &:hover { color: $pink1; }
+        line-height: $base-line-height;
+		margin-left: 40px; 
+    }
+    @include media-query($on-palm) {
+        position: absolute;
+        top: 9px;
+        right: 30px;
+        background-color: $background-color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: right;
+        .menu-icon { display: block; float: right; width: 36px;
+            height: 26px; line-height: 0; padding-top: 10px; text-align: center;
+            > svg { width: 18px; height: 15px; path { fill: $grey-color-dark; } }
+        }
+        .trigger { clear: both; display: none; }
+        &:hover .trigger { display: block; padding-bottom: 5px; }
+        .page-link { display: block; padding: 5px 10px; }
+    }
+}
