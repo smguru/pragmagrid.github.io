@@ -1,11 +1,9 @@
 ---
 layout: pragma32
 title: "Accommodations"
-date: 2017-01-25
+date: 2016-09-02
 workshop: pragma32
-short: accommodations
+short: Accommodations
 ---
 
-
-Text for accommodations 
-
+Accommodations page 
