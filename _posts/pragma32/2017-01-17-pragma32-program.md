@@ -6,5 +6,5 @@ workshop: pragma32
 short: program
 ---
 
-Program page  
+Program page  - slightly modified
 
