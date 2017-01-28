@@ -6,16 +6,23 @@ workshop: pragma32
 short: program
 ---
 
-Technical Program 
+# Technical Program 
+
+## CENTRA
+
 
 Monday, April 10th          |        
 ----------------------------|-------------------
 CENTRA-2 All-Hands meeting  | All day
 
 
+
 Tuesday, April 11th         |        
 ----------------------------|-------------------
 CENTRA-2 All-Hands meeting  | All day
+
+
+## Pre-PRAGMA Workshops
 
 
 Wednesday, April 12th       |        
@@ -25,6 +32,9 @@ SUNTOWNS Workshop           | All day
 Lake Modeling Workshop      | All day
 ----------------------------|-------------------
 Dinner                      | Evening, TBD
+
+
+## Main PRAGMA Workshop
 
 
 Thursday, April 13th        |
@@ -54,6 +64,7 @@ Demo Session I              | 16:00-17:00
 Dinner                      | Evening, TBD
 
 
+
 Friday, April 14th          |
 ----------------------------|-------------------
 Demo Session II             | 9:00-10:30
@@ -79,6 +90,7 @@ Wrap-up and Welcome to      |
 PRAGMA-33 Message           |
 ----------------------------|-------------------
 Dinner                      | Evening, TBD
+
 
 
 Saturday, April 15th        |
