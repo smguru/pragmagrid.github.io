@@ -9,9 +9,13 @@ short: program
 
 ## Monday, April 10th
 
+
 Activity                    | Time
 ----------------------------|-------------------
 CENTRA-2 All-Hands meeting  | All day
+
+
+---
 
 
 ## Tuesday, April 11th
@@ -22,7 +26,11 @@ Activity                    | Time
 CENTRA-2 All-Hands meeting  | All day
 
 
+---
+
+
 ## Wednesday, April 12th
+
 
 Activity                    | Time
 ----------------------------|-------------------
@@ -31,6 +39,9 @@ SUNTOWNS Workshop           | All day
 Lake Modeling Workshop      | All day
 ----------------------------|-------------------
 Dinner                      | Evening, TBD
+
+
+---
 
 
 ## Thursday, April 13th
@@ -62,7 +73,12 @@ Demo Session I              | 16:00-17:00
 ----------------------------|-------------------
 Dinner                      | Evening, TBD
 
+
+---
+
+
 ## Friday, April 14th
+
 
 Activity                    | Time
 ----------------------------|-------------------
@@ -90,7 +106,12 @@ PRAGMA-33 Message           |
 ----------------------------|-------------------
 Dinner                      | Evening, TBD
 
+
+---
+
+
 ## Saturday, April 15th
+
 
 Activity                    | Time
 ----------------------------|-------------------
