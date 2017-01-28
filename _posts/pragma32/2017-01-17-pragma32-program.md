@@ -7,38 +7,18 @@ short: program
 ---
 
 
-## Monday, April 10th
+## Pre-PRAGMA Activities 
  
  
 Activity                    | Time
 ----------------------------|-------------------
-CENTRA-2 All-Hands meeting  | All day
- 
- 
----
- 
- 
-## Tuesday, April 11th
- 
- 
-Activity                    | Time
+CENTRA-2 All-hands          | Apr 10-11th
 ----------------------------|-------------------
-CENTRA-2 All-Hands meeting  | All day
- 
- 
----
- 
- 
-## Wednesday, April 12th
- 
- 
-Activity                    | Time
+SUNTOWNS Workshop           | Apr 12th
 ----------------------------|-------------------
-SUNTOWNS Workshop           | All day
+Lake Modeling Workshop      | Apr 12th
 ----------------------------|-------------------
-Lake Modeling Workshop      | All day
-----------------------------|-------------------
-Dinner                      | Evening, TBD
+CENTRA/PRAGMA Dinner        | Apr 12th
  
  
 ---
