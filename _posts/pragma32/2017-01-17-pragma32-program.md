@@ -79,9 +79,9 @@ Working group updates       | 16:30-17:30
 ----------------------------|-------------------
 Best poster awards          | 17:30-17:45
 ----------------------------|-------------------
-Summary of SC meeting,      | 17:45-18:10
-wrap-up, and welcome to     |
-PRAGMA-33 message           |
+Summary of SC meeting,      | 
+wrap-up, and welcome to     | 17:45-18:10
+PRAGMA-33 message           | 
 ----------------------------|-------------------
 Dinner                      | Evening, TBD
  
