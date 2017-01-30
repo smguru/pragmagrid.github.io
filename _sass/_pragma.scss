@@ -77,6 +77,8 @@ $green2: darken($green1, 25%);
 $green3: #abeacb;
 $pink1: #cf1f46;
 $pink2: #ffc6d5;
+$paleblue1: #F5FAFF;
+$paleblue2: #E6F2FF;
 
 .pragma32nav {
 	width:100%;
@@ -110,3 +112,14 @@ $pink2: #ffc6d5;
         .page-link { display: block; padding: 5px 10px; }
     }
 }
+
+/* for program table */
+.program32  { padding: 2px; width: 60%; }
+.program32 th { font-weight: bold; color: $green2;  font-size: 12px; background: $green3;}
+.program32 tr { border: 2px solid white; }
+.program32 tr:hover { background-color: #f5f5f5 }
+.program32 tr:nth-child(odd) { background-color : $paleblue1; }
+.program32 tr:nth-child(even) { background-color : $paleblue2; }
+.program32 td { padding : 5px 2px 5px 10px; }
+.program32 tr td:nth-child(1) { font-weight : bold; }
+

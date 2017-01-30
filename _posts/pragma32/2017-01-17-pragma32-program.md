@@ -9,19 +9,28 @@ short: program
 
 ## Pre-PRAGMA Activities 
  
- 
-Activity                    | Time
-----------------------------|-------------------
-CENTRA-2 All-hands          | Apr 10-11th
-----------------------------|-------------------
-SUNTOWNS Workshop           | Apr 12th
-----------------------------|-------------------
-Lake Modeling Workshop      | Apr 12th
-----------------------------|-------------------
-CENTRA/PRAGMA Dinner        | Apr 12th
- 
- 
----
+<table class="program32">
+  <tr>
+    <th>Activity</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>CENTRA-2 All-hands</td>
+    <td>Apr 10-11th</td>
+  </tr>
+  <tr>
+    <td>SUNTOWNS Workshop</td>
+    <td>Apr 12th</td>
+  </tr>
+  <tr> 
+    <td>Lake Modeling Workshop</td>
+    <td>Apr 12th</td>
+  </tr>
+  <tr>
+    <td>CENTRA/PRAGMA Dinner</td>
+    <td>Apr 12th</td>
+  </tr>
+</table>
  
  
 ## Thursday, April 13th
