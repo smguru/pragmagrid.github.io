@@ -44,7 +44,7 @@ short: program
 | Group photo, break, posters | 11:15-12:00 |
 | Working group updates       | 12:00-13:00 |
 | Lunch                       | 13:00-14:00 |
-| Working group and | expedition breakouts | 14:00-15:30 |
+| Working group and expedition breakouts | 14:00-15:30 |
 | Coffee break / posters      | 15:30-16:00 |
 | Demo session I              | 16:00-17:00 |
 | Dinner                      | Evening, TBD |
