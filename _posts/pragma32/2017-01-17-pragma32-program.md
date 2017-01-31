@@ -35,32 +35,20 @@ short: program
  
 ## Thursday, April 13th
  
- 
-Activity                    | Time
-----------------------------|-------------------
-Welcome statements          | 9:00-9:20
-----------------------------|-------------------
-Updates since PRAGMA-32     | 9:20-9:50
-----------------------------|-------------------
-Keynote                     | 9:50-10:30
-----------------------------|-------------------
-Student lightining talks    | 10:30-11:15
-----------------------------|-------------------
-Group photo, break, posters | 11:15-12:00
-----------------------------|-------------------
-Working group updates       | 12:00-13:00
-----------------------------|-------------------
-Lunch                       | 13:00-14:00
-----------------------------|-------------------
-Working group and           | 14:00-15:30
-expedition breakouts        |
-----------------------------|-------------------
-Coffee break / posters      | 15:30-16:00
-----------------------------|-------------------
-Demo session I              | 16:00-17:00
-----------------------------|-------------------
-Dinner                      | Evening, TBD
- 
+| Activity                    | Time |
+| ----------------------------|------------------- |
+| Welcome statements          | 9:00-9:20 |
+| Updates since PRAGMA-32     | 9:20-9:50 |
+| Keynote                     | 9:50-10:30 |
+| Student lightining talks    | 10:30-11:15 |
+| Group photo, break, posters | 11:15-12:00 |
+| Working group updates       | 12:00-13:00 |
+| Lunch                       | 13:00-14:00 |
+| Working group and           | 14:00-15:30 |
+| expedition breakouts        | |
+| Coffee break / posters      | 15:30-16:00 |
+| Demo session I              | 16:00-17:00 |
+| Dinner                      | Evening, TBD |
  
 ---
  
