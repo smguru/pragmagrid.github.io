@@ -31,6 +31,9 @@ short: program
     <td>Apr 12th</td>
   </tr>
 </table>
+
+
+---
  
  
 ## Thursday, April 13th
@@ -86,6 +89,10 @@ short: program
   </tr>
 </table> 
 
+
+---
+
+
 ## Friday, April 14th
  
 <table class="program32">
@@ -131,6 +138,9 @@ short: program
   </tr>
 </table>
  
+
+---
+
  
 ## Saturday, April 15th
 
