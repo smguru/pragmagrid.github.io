@@ -1,16 +1,46 @@
 /* pragma 32 styles */
 
+$pragma32-large: 1200px;
+$pragma32-medium: 992px;
+$pragma32-small: 768px;
+
 /* Base class for layout */
 body.pragma32 {
     
+}
+
+body.pragma32 header img {
+    width: 100%
 }
 
 /* page with  menu left and content right */
 body.pragma32 .wrapper-menu-left {
     border: 0px solid black; /*for debugging*/
     position: relative;
-    width:90%;
     margin: 0 auto;
+    @include media-query($pragma32-large) {
+        width: 1170px;
+    }
+    @include media-query($pragma32-medium) {
+        width: 970px;
+    }
+    @include media-query($pragma32-small) {
+        width: 750px;
+        position: absolute;
+        top: 9px;
+        right: 30px;
+        background-color: $background-color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: right;
+        .menu-icon { display: block; float: right; width: 36px;
+            height: 26px; line-height: 0; padding-top: 10px; text-align: center;
+            > svg { width: 18px; height: 15px; path { fill: $grey-color-dark; } }
+        }
+        .trigger { clear: both; display: none; }
+        &:hover .trigger { display: block; padding-bottom: 5px; }
+        .page-link { display: block; padding: 5px 10px; }
+    }
 }
 body.pragma32 .menu-left {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
