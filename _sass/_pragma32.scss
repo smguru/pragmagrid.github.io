@@ -24,14 +24,16 @@ body.pragma32 .wrapper-menu-left {
     border: 0px solid black; /*for debugging*/
     position: relative;
     margin: 0 auto;
-    @include pragma32-media-query($pragma32-large) {
-        width: 1170px;
+    @include pragma32-media-query($pragma32-small) {
+        width: 750px;
     }
     @include pragma32-media-query($pragma32-medium) {
         width: 970px;
     }
-    @include pragma32-media-query($pragma32-small) {
-        width: 750px;
+    @include pragma32-media-query($pragma32-large) {
+        width: 1170px;
+    }
+    @include media-query($on-palm) {
         position: absolute;
         top: 9px;
         right: 30px;
