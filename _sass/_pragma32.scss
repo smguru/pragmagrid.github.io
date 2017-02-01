@@ -1,5 +1,11 @@
 /* pragma 32 styles */
 
+@mixin ($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
 $pragma32-large: 1200px;
 $pragma32-medium: 992px;
 $pragma32-small: 768px;
@@ -18,13 +24,13 @@ body.pragma32 .wrapper-menu-left {
     border: 0px solid black; /*for debugging*/
     position: relative;
     margin: 0 auto;
-    @include media-query($pragma32-large) {
+    @include pragma32-media-query($pragma32-large) {
         width: 1170px;
     }
-    @include media-query($pragma32-medium) {
+    @include pragma32-media-query($pragma32-medium) {
         width: 970px;
     }
-    @include media-query($pragma32-small) {
+    @include pragma32-media-query($pragma32-small) {
         width: 750px;
         position: absolute;
         top: 9px;
