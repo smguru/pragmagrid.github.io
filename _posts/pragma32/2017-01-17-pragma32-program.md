@@ -41,48 +41,48 @@ short: program
     <th>Time</th>
   </tr>
   <tr>
-    <th>Welcome statements</th>
-    <th>9:00-9:20</th>
+    <td>Welcome statements</td>
+    <td>9:00-9:20</td>
   </tr>
   <tr>
-    <th>Updates since PRAGMA-31</th>
-    <th>9:20-9:50</th>
+    <td>Updates since PRAGMA-31</td>
+    <td>9:20-9:50</td>
   </tr>
   <tr>
-    <th>Keynote</th>
-    <th>9:50-10:30</th>
+    <td>Keynote</td>
+    <td>9:50-10:30</td>
   </tr>
   <tr>
-    <th>Student/poster lightining talks</th>
-    <th>10:30-11:15</th>
+    <td>Student/poster lightining talks</td>
+    <td>10:30-11:15</td>
   </tr>
   <tr>
-    <th>Group photo, break, posters</th>
-    <th>11:15-12:00</th>
+    <td>Group photo, break, posters</td>
+    <td>11:15-12:00</td>
   </tr>
   <tr>
-    <th>Working group updates</th>
-    <th>12:00-13:00</th>
+    <td>Working group updates</td>
+    <td>12:00-13:00</td>
   </tr>
   <tr>
-    <th>Lunch</th>
-    <th>13:00-14:00</th>
+    <td>Lunch</td>
+    <td>13:00-14:00</td>
   </tr>
   <tr>
-    <th>Working group and expedition breakouts</th>
-    <th>14:00-15:30</th>
+    <td>Working group and expedition breakouts</td>
+    <td>14:00-15:30</td>
   </tr>
   <tr>
-    <th>Coffee break / posters</th>
-    <th>15:30-16:00</th>
+    <td>Coffee break / posters</td>
+    <td>15:30-16:00</td>
   </tr>
   <tr>
-    <th>Demo session I</th>
-    <th>16:00-17:00</th>
+    <td>Demo session I</td>
+    <td>16:00-17:00</td>
   </tr>
   <tr>
-    <th>Dinner</th>
-    <th>Evening</th>
+    <td>Dinner</td>
+    <td>Evening</td>
   </tr>
 </table> 
 
@@ -94,40 +94,40 @@ short: program
     <th>Time</th>
   </tr>
   <tr>
-    <th>Demo session II</th>
-    <th>9:00-10:30</th>
+    <td>Demo session II</td>
+    <td>9:00-10:30</td>
   </tr>
   <tr>
-    <th>Coffee break / posters</th>
-    <th>10:30-11:00</th>
+    <td>Coffee break / posters</td>
+    <td>10:30-11:00</td>
   </tr>
   <tr>
-    <th>Presentations</th>
-    <th>11:00-12:00</th>
+    <td>Presentations</td>
+    <td>11:00-12:00</td>
   </tr>
   <tr>
-    <th>Lunch and PRAGMA SC meeting</th>
-    <th>12:00-14:00</th>
+    <td>Lunch and PRAGMA SC meeting</td>
+    <td>12:00-14:00</td>
   </tr>
   <tr>
-    <th>Working group and expedition breakouts II</th>
-    <th>14:00-16:00</th>
+    <td>Working group and expedition breakouts II</td>
+    <td>14:00-16:00</td>
   </tr>
   <tr>
-    <th>Coffee break / posters</th>
-    <th>16:00-16:30</th>
+    <td>Coffee break / posters</td>
+    <td>16:00-16:30</td>
   </tr>
   <tr>
-    <th>Working group updates</th>
-    <th>16:30-17:30</th>
+    <td>Working group updates</td>
+    <td>16:30-17:30</td>
   </tr>
   <tr>
-    <th>Best poster awards</th>
-    <th>17:30-17:45</th>
+    <td>Best poster awards</td>
+    <td>17:30-17:45</td>
   </tr>
   <tr>
-    <th>SC summary, wrap-up, welcome to PRAGMA-33</th>
-    <th>17:45-18:10</th>
+    <td>SC summary, wrap-up, welcome to PRAGMA-33</td>
+    <td>17:45-18:10</td>
   </tr>
 </table>
  
@@ -140,8 +140,8 @@ short: program
     <th>Time</th>
   </tr>
   <tr>
-    <th>Cultural learning</th>
-    <th>TBD</th>
+    <td>Cultural learning</td>
+    <td>TBD</td>
   </tr>
 </table> 
  
