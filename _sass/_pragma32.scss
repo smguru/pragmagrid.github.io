@@ -1,24 +1,29 @@
 /* pragma 32 styles */
 
+/* Base class for layout */
+body.pragma32 {
+    
+}
+
 /* page with  menu left and content right */
-.wrapper-menu-left {
+body.pragma32 .wrapper-menu-left {
     border: 0px solid black; /*for debugging*/
     position: relative;
     width:90%;
     margin: 0 auto;
 }
-.menu-left {
+body.pragma32 .menu-left {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
   border: 0px solid blue; width:17%; float:left; line-height:18px;
   padding-top: 2px; overflow:hidden; min-height:400px;
   margin-left: -35px;
 }
-.content-right {
+body.pragma32 .content-right {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
   border: 0px solid green; width:83%; float:left; line-height:18px;
   padding-top: 2px;  margin: 0; overflow:hidden; min-height:200px;
 }
-.menu-left ul { list-style:none; }
+body.pragma32 .menu-left ul { list-style:none; }
 
 $green1: #11564A;
 $green2: darken($green1, 25%);
@@ -28,7 +33,7 @@ $pink2: #ffc6d5;
 $paleblue1: #F5FAFF;
 $paleblue2: #E6F2FF;
 
-.pragma32nav {
+body.pragma32 nav {
 	width:100%;
     background-color: $green3;
     float: right;
@@ -62,12 +67,12 @@ $paleblue2: #E6F2FF;
 }
 
 /* for program table */
-.program32  { padding: 2px; width: 60%; }
-.program32 th { font-weight: bold; color: $green2;  font-size: 12px; background: $green3;}
-.program32 tr { border: 2px solid white; }
-.program32 tr:hover { background-color: #f5f5f5 }
-.program32 tr:nth-child(odd) { background-color : $paleblue1; }
-.program32 tr:nth-child(even) { background-color : $paleblue2; }
-.program32 td { padding : 5px 2px 5px 10px; }
-.program32 tr td:nth-child(1) { font-weight : bold; }
+body.pragma32 .program32  { padding: 2px; width: 60%; }
+body.pragma32 .program32 th { font-weight: bold; color: $green2;  font-size: 12px; background: $green3;}
+body.pragma32 .program32 tr { border: 2px solid white; }
+body.pragma32 .program32 tr:hover { background-color: #f5f5f5 }
+body.pragma32 .program32 tr:nth-child(odd) { background-color : $paleblue1; }
+body.pragma32 .program32 tr:nth-child(even) { background-color : $paleblue2; }
+body.pragma32 .program32 td { padding : 5px 2px 5px 10px; }
+body.pragma32 .program32 tr td:nth-child(1) { font-weight : bold; }
 
