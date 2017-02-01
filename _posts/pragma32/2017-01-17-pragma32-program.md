@@ -34,62 +34,116 @@ short: program
  
  
 ## Thursday, April 13th
- 
-| Activity                    | Time |
-| ----------------------------|------------------- |
-| Welcome statements          | 9:00-9:20 |
-| Updates since PRAGMA-32     | 9:20-9:50 |
-| Keynote                     | 9:50-10:30 |
-| Student lightining talks    | 10:30-11:15 |
-| Group photo, break, posters | 11:15-12:00 |
-| Working group updates       | 12:00-13:00 |
-| Lunch                       | 13:00-14:00 |
-| Working group and expedition breakouts | 14:00-15:30 |
-| Coffee break / posters      | 15:30-16:00 |
-| Demo session I              | 16:00-17:00 |
-| Dinner                      | Evening, TBD |
- 
----
- 
- 
+
+<table class="program32">
+  <tr>
+    <th>Activity</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <th>Welcome statements</th>
+    <th>9:00-9:20</th>
+  </tr>
+  <tr>
+    <th>Updates since PRAGMA-31</th>
+    <th>9:20-9:50</th>
+  </tr>
+  <tr>
+    <th>Keynote</th>
+    <th>9:50-10:30</th>
+  </tr>
+  <tr>
+    <th>Student/poster lightining talks</th>
+    <th>10:30-11:15</th>
+  </tr>
+  <tr>
+    <th>Group photo, break, posters</th>
+    <th>11:15-12:00</th>
+  </tr>
+  <tr>
+    <th>Working group updates</th>
+    <th>12:00-13:00</th>
+  </tr>
+  <tr>
+    <th>Lunch</th>
+    <th>13:00-14:00</th>
+  </tr>
+  <tr>
+    <th>Working group and expedition breakouts</th>
+    <th>14:00-15:30</th>
+  </tr>
+  <tr>
+    <th>Coffee break / posters</th>
+    <th>15:30-16:00</th>
+  </tr>
+  <tr>
+    <th>Demo session I</th>
+    <th>16:00-17:00</th>
+  </tr>
+  <tr>
+    <th>Dinner</th>
+    <th>Evening</th>
+  </tr>
+</table> 
+
 ## Friday, April 14th
  
- 
-Activity                    | Time
-----------------------------|-------------------
-Demo session II             | 9:00-10:30
-----------------------------|-------------------
-Coffee break / posters      | 10:30-11:00
-----------------------------|-------------------
-Presentations               | 11:00-12:00
-----------------------------|-------------------
-Lunch, poster session, and  | 12:00-14:00
-steering committee meeting  |
-----------------------------|-------------------
-Working group and           | 14:00-16:00
-expedition breakouts II     |
-----------------------------|-------------------
-Coffee break + posters      | 16:00-16:30
-----------------------------|-------------------
-Working group updates       | 16:30-17:30
-----------------------------|-------------------
-Best poster awards          | 17:30-17:45
-----------------------------|-------------------
-Summary of SC meeting,      | 
-wrap-up, and welcome to     | 17:45-18:10
-PRAGMA-33 message           | 
-----------------------------|-------------------
-Dinner                      | Evening, TBD
- 
- 
----
+<table class="program32">
+  <tr>
+    <th>Activity</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <th>Demo session II</th>
+    <th>9:00-10:30</th>
+  </tr>
+  <tr>
+    <th>Coffee break / posters</th>
+    <th>10:30-11:00</th>
+  </tr>
+  <tr>
+    <th>Presentations</th>
+    <th>11:00-12:00</th>
+  </tr>
+  <tr>
+    <th>Lunch and PRAGMA SC meeting</th>
+    <th>12:00-14:00</th>
+  </tr>
+  <tr>
+    <th>Working group and expedition breakouts II</th>
+    <th>14:00-16:00</th>
+  </tr>
+  <tr>
+    <th>Coffee break / posters</th>
+    <th>16:00-16:30</th>
+  </tr>
+  <tr>
+    <th>Working group updates</th>
+    <th>16:30-17:30</th>
+  </tr>
+  <tr>
+    <th>Best poster awards</th>
+    <th>17:30-17:45</th>
+  </tr>
+  <tr>
+    <th>SC summary, wrap-up, welcome to PRAGMA-33</th>
+    <th>17:45-18:10</th>
+  </tr>
+</table>
  
  
 ## Saturday, April 15th
+
+<table class="program32">
+  <tr>
+    <th>Activity</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <th>Cultural learning</th>
+    <th>TBD</th>
+  </tr>
+</table> 
  
- 
-Activity                    | Time
-----------------------------|-------------------
-Cultural Learning           | TBD
 
 
