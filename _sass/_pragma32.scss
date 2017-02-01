@@ -1,6 +1,6 @@
 /* pragma 32 styles */
 
-@mixin ($device) {
+@mixin pragma32-media-query($device) {
     @media screen and (min-width: $device) {
         @content;
     }
