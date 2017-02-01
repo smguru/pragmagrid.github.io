@@ -34,32 +34,35 @@ body.pragma32 .wrapper-menu-left {
         width: 1170px;
     }
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-        .menu-icon { display: block; float: right; width: 36px;
-            height: 26px; line-height: 0; padding-top: 10px; text-align: center;
-            > svg { width: 18px; height: 15px; path { fill: $grey-color-dark; } }
-        }
-        .trigger { clear: both; display: none; }
-        &:hover .trigger { display: block; padding-bottom: 5px; }
-        .page-link { display: block; padding: 5px 10px; }
+
     }
 }
 body.pragma32 .menu-left {
-  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-  border: 0px solid blue; width:17%; float:left; line-height:18px;
-  padding-top: 2px; overflow:hidden; min-height:400px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0px solid blue;
+  float:left;
+  line-height:18px;
+  padding-top: 2px;
+  overflow:hidden;
+  min-height: 400px;
+  min-width: 150px;
   margin-left: -35px;
 }
 body.pragma32 .content-right {
-  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-  border: 0px solid green; width:83%; float:left; line-height:18px;
-  padding-top: 2px;  margin: 0; overflow:hidden; min-height:200px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0px solid green;
+  min-width:200px;
+  float:left;
+  line-height:18px;
+  padding-top: 2px;
+  padding-left 10px;
+  margin: 0;
+  overflow:hidden;
+  min-height:200px;
 }
 body.pragma32 .menu-left ul { list-style:none; }
 
@@ -87,20 +90,7 @@ body.pragma32 nav {
 		margin-left: 40px; 
     }
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-        .menu-icon { display: block; float: right; width: 36px;
-            height: 26px; line-height: 0; padding-top: 10px; text-align: center;
-            > svg { width: 18px; height: 15px; path { fill: $grey-color-dark; } }
-        }
-        .trigger { clear: both; display: none; }
-        &:hover .trigger { display: block; padding-bottom: 5px; }
-        .page-link { display: block; padding: 5px 10px; }
+        min-width: 150px;
     }
 }
 
