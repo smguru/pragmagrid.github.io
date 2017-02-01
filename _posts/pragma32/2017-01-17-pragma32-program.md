@@ -33,7 +33,7 @@ short: program
 </table>
 
 
-<br></br>
+<br>
  
  
 ## Thursday, April 13th
@@ -90,7 +90,7 @@ short: program
 </table> 
 
 
-<br></br>
+<br>
 
 
 ## Friday, April 14th
@@ -139,7 +139,7 @@ short: program
 </table>
  
 
-<br></br>
+<br>
 
  
 ## Saturday, April 15th
