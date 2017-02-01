@@ -6,5 +6,17 @@ workshop: pragma32
 short: Welcome
 ---
 
-PRAGMA 32 meeeting site is under construction. More information will be available in early February, 2017. Thank you, and see you soon! :-)
+Welcome to PRAGMA-32!
+
+The Advanced Computing and Information Systems Lab <a href="https://www.acis.ufl.edu/" target="_blank">(ACIS)</a> is honored to host PRAGMA-32 in Gainesville, Florida. We have an exciting week, with a program that includes not only the PRAGMA-32 main workshop, but also the <a href="www.globalcentra.org/centra2" target="_blank">second CENTRA All-Hands Meeting</a>, the first SUNTOWNS (Smart University TOWNS) Workshop, and a <a href="http://www.pragma-grid.net/pragma32-lake-workshop/" target="_blank">Lake Modeling Workshop</a> as part of PRAGMA’s lake expedition. We hope you will consider arriving early and participating in these additional events.
+
+The theme for the PRAGMA-32 workshop is <i>“Internet of People and Things”</i>. It highlights the several ongoing and planned activities in PRAGMA on middleware that seamlessly brings together IoT devices (at the edge of the network) and cloud computing infrastructures (at the core of the network) to support emerging applications poised to have impact on how people interact with their surrounding environment and community.
+
+This is the first time PRAGMA is being hosted in Florida, the <i>“Sunshine State”</i> in the USA. Gainesville is the home of the University of Florida, a flagship state university in the state. It is also located within driving distance of beautiful natural resources, and world-class attractions. 
+
+This also marks the 15th anniversary of PRAGMA. We hope you will join us in April to help make this a successful workshop, and to celebrate this milestone!
+
+On behalf of the PRAGMA-32 organizing team, and with warm regards,
+
+Renato Figueiredo
 
