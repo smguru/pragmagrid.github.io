@@ -38,3 +38,7 @@ Quan (Gabriel) Zhou - Indiana University, USA <br />
 Chawanat Nakasan - NARA Institute of Science and Technology (NAIST), Japan <br />
 Pongsakorn U-chupala - NARA Institute of Science and Technology (NAIST), Japan <br />
 
+
+## Local Organizing Committee
+
+<a href="https://www.acis.ufl.edu/people" target="_blank">Members of ACIS Lab</a>, University of Florida
