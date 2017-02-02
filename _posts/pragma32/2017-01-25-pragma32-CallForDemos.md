@@ -17,11 +17,13 @@ The abstract should be between 300 and 450 words and include the following infor
 3. A brief abstract describing the demo 
 4. Requirements for the demo (e.g. time, network, etc.) 
 
+<br>
 ## Important Dates:
 
 Submission deadline: March 15th, 2017 
 Author notification: March 25th, 2017 
 
+<br>
 ## Submission instructions
 
 Detailed instructions on how to submit your demo abstract will be posted here soon.
@@ -32,7 +34,9 @@ We are looking forward to your submissions. If you have any questions regarding 
 2. Kohei Ichikawa : ichikawa (at) is (dot) naist (dot) jp
 3. Wanida Putthividhya : wputthividhya (at) gmail (dot) com
 
-
-For technical questions, please contact Renato Figueiredo, renato (at) acis (dot) ufl (dot) edu
+<br>
+For technical questions, please contact :
+<br>
+Renato Figueiredo, renato (at) acis (dot) ufl (dot) edu
 
 
