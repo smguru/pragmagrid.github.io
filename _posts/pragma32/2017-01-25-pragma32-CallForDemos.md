@@ -18,12 +18,14 @@ The abstract should be between 300 and 450 words and include the following infor
 4. Requirements for the demo (e.g. time, network, etc.) 
 
 <br>
+
 ## Important Dates:
 
 Submission deadline: March 15th, 2017 
 Author notification: March 25th, 2017 
 
 <br>
+
 ## Submission instructions
 
 Detailed instructions on how to submit your demo abstract will be posted here soon.
