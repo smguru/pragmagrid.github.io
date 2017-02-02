@@ -32,5 +32,7 @@ We are looking forward to your submissions. If you have any questions regarding 
 2. Kohei Ichikawa : ichikawa (at) is (dot) naist (dot) jp
 3. Wanida Putthividhya : wputthividhya (at) gmail (dot) com
 
-For technical questions, please contact <link here>
+
+For technical questions, please contact Renato Figueiredo, renato (at) acis (dot) ufl (dot) edu
+
 
