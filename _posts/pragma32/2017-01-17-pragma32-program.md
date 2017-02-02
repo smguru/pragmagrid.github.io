@@ -11,24 +11,24 @@ short: program
  
 <table class="program32">
   <tr>
-    <th>Activity</th>
     <th>Time</th>
+    <th>Activity</th>
   </tr>
   <tr>
-    <td>CENTRA-2 All-hands</td>
     <td>Apr 10-11th</td>
+    <td>CENTRA-2 All-hands</td>
   </tr>
   <tr>
-    <td>SUNTOWNS Workshop</td>
     <td>Apr 12th</td>
+    <td>SUNTOWNS Workshop</td>
   </tr>
   <tr> 
-    <td>Lake Modeling Workshop</td>
     <td>Apr 12th</td>
+    <td>Lake Modeling Workshop</td>
   </tr>
   <tr>
-    <td>CENTRA/PRAGMA Dinner</td>
     <td>Apr 12th</td>
+    <td>CENTRA/PRAGMA Dinner</td>
   </tr>
 </table>
 
@@ -40,52 +40,52 @@ short: program
 
 <table class="program32">
   <tr>
-    <th>Activity</th>
     <th>Time</th>
+    <th>Activity</th>
   </tr>
   <tr>
-    <td>Welcome statements</td>
     <td>9:00-9:20</td>
+    <td>Welcome statements</td>
   </tr>
   <tr>
-    <td>Updates since PRAGMA-31</td>
     <td>9:20-9:50</td>
+    <td>Updates since PRAGMA-31</td>
   </tr>
   <tr>
-    <td>Keynote</td>
     <td>9:50-10:30</td>
+    <td>Keynote</td>
   </tr>
   <tr>
-    <td>Student/poster lightining talks</td>
     <td>10:30-11:15</td>
+    <td>Student/poster lightining talks</td>
   </tr>
   <tr>
-    <td>Group photo, break, posters</td>
     <td>11:15-12:00</td>
+    <td>Group photo, break, posters</td>
   </tr>
   <tr>
-    <td>Working group updates</td>
     <td>12:00-13:00</td>
+    <td>Working group updates</td>
   </tr>
   <tr>
-    <td>Lunch</td>
     <td>13:00-14:00</td>
+    <td>Lunch</td>
   </tr>
   <tr>
-    <td>Working group and expedition breakouts</td>
     <td>14:00-15:30</td>
+    <td>Working group and expedition breakouts</td>
   </tr>
   <tr>
-    <td>Coffee break / posters</td>
     <td>15:30-16:00</td>
+    <td>Coffee break / posters</td>
   </tr>
   <tr>
-    <td>Demo session I</td>
     <td>16:00-17:00</td>
+    <td>Demo session I</td>
   </tr>
   <tr>
-    <td>Dinner</td>
     <td>Evening</td>
+    <td>Dinner</td>
   </tr>
 </table> 
 
@@ -97,44 +97,44 @@ short: program
  
 <table class="program32">
   <tr>
-    <th>Activity</th>
     <th>Time</th>
+    <th>Activity</th>
   </tr>
   <tr>
-    <td>Demo session II</td>
     <td>9:00-10:30</td>
+    <td>Demo session II</td>
   </tr>
   <tr>
-    <td>Coffee break / posters</td>
     <td>10:30-11:00</td>
-  </tr>
-  <tr>
-    <td>Presentations</td>
-    <td>11:00-12:00</td>
-  </tr>
-  <tr>
-    <td>Lunch and PRAGMA SC meeting</td>
-    <td>12:00-14:00</td>
-  </tr>
-  <tr>
-    <td>Working group and expedition breakouts II</td>
-    <td>14:00-16:00</td>
-  </tr>
-  <tr>
     <td>Coffee break / posters</td>
+  </tr>
+  <tr>
+    <td>11:00-12:00</td>
+    <td>Presentations</td>
+  </tr>
+  <tr>
+    <td>12:00-14:00</td>
+    <td>Lunch and PRAGMA SC meeting</td>
+  </tr>
+  <tr>
+    <td>14:00-16:00</td>
+    <td>Working group and expedition breakouts II</td>
+  </tr>
+  <tr>
     <td>16:00-16:30</td>
+    <td>Coffee break / posters</td>
   </tr>
   <tr>
-    <td>Working group updates</td>
     <td>16:30-17:30</td>
+    <td>Working group updates</td>
   </tr>
   <tr>
-    <td>Best poster awards</td>
     <td>17:30-17:45</td>
+    <td>Best poster awards</td>
   </tr>
   <tr>
-    <td>SC summary, wrap-up, welcome to PRAGMA-33</td>
     <td>17:45-18:10</td>
+    <td>SC summary, wrap-up, welcome to PRAGMA-33</td>
   </tr>
 </table>
  
@@ -146,12 +146,12 @@ short: program
 
 <table class="program32">
   <tr>
-    <th>Activity</th>
     <th>Time</th>
+    <th>Activity</th>
   </tr>
   <tr>
-    <td>Cultural learning</td>
     <td>TBD</td>
+    <td>Cultural learning</td>
   </tr>
 </table> 
  

@@ -19,7 +19,7 @@ Authors are expected to both present their poster during poster sessions, and to
 All poster must use the **A1** format (594 x 841 mm/23.4 x 33.1 in)
 All submissions will be reviewed by PRAGMA Students Steering Committee and decisions will be made available via email. Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.
 
-[Registration](http://www.pragma-grid.net/pragma32-registration/) for the main PRAMGA 32 event is required prior to abstract submission. 
+[Registration](http://www.pragma-grid.net/pragma32-registration/) for the main PRAGMA 32 event is required prior to abstract submission. 
 
 ## On-site Printing
 PRAGMA 32 organizers will print timely submitted posters on site. 
@@ -31,4 +31,4 @@ Posters that are revised to meet reviewer’s comments and resubmitted by March 
 The lightning talks will be held on April 13, 2017 and the poster session on April 13, 2017.  
 
 ## Submission instructions
-Please submit your poster via email to Kensworth Subratie, kcratie (at) ufl (dot) edu
+Instructions for submissions will be posted here soon. If you have any questions, please email Kensworth Subratie, kcratie (at) ufl (dot) edu
