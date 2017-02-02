@@ -12,10 +12,10 @@ On behalf of the PRAGMA32 Program Committee, we are soliciting demos for the PRA
  
 The abstract should be between 300 and 450 words and include the following information: 
 
-1) Title of the demo 
-2) Names and institutions 
-3) A brief abstract describing the demo 
-4) Requirements for the demo (e.g. time, network, etc.) 
+1. Title of the demo 
+2. Names and institutions 
+3. A brief abstract describing the demo 
+4. Requirements for the demo (e.g. time, network, etc.) 
 
 ## Important Dates:
 
@@ -28,9 +28,9 @@ Detailed instructions on how to submit your demo abstract will be posted here so
 
 We are looking forward to your submissions. If you have any questions regarding the demo abstract submission, please contact our demo chairs:
 
-Jason Haga : jh.haga (at) aist (dot) go (dot) jp
-Kohei Ichikawa : ichikawa (at) is (dot) naist (dot) jp
-Wanida Putthividhya : wputthividhya (at) gmail (dot) com
+1. Jason Haga : jh.haga (at) aist (dot) go (dot) jp
+2. Kohei Ichikawa : ichikawa (at) is (dot) naist (dot) jp
+3. Wanida Putthividhya : wputthividhya (at) gmail (dot) com
 
 For technical questions, please contact <link here>
 
