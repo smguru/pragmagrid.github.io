@@ -23,8 +23,6 @@ The abstract should be between 300 and 450 words and include the following infor
 
 Submission deadline: March 15th, 2017 
 
-<br>
-
 Author notification: March 25th, 2017 
 
 <br>
