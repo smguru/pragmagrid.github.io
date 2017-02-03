@@ -1,12 +1,12 @@
 ---
 layout: pragma32
-title: "Venue"
+title: "Venue and Lodging"
 date: 2016-09-02
 workshop: pragma32
 short: Venue
 ---
 
-### PRAGMA32 Meeting Venue and Lodging-1
+### Workshop Venue and Lodging-1
 
 <strong><i> Hilton University of Florida Conference Center Gainesville</i></strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">Hilton UF</a>) <br />
 
@@ -16,7 +16,7 @@ All sessions of CENTRA2, SUNTOWNS and **PRAGMA32** Workshops will be hosted at H
 
 <strong> CENTRA/PRAGMA room rate</strong>: US$144 plus taxes (11.5%) per room per night. Majority of the rooms are for double occupancy (two beds in room) and some are for single occupancy (one bed). The room rate is the same with either 1 or 2 guests staying in the room. 
 
-<strong>Reservation</strong>: a dedicated online reservation for Hilton UF will be available soon
+<strong>Reservation</strong>: a dedicated online reservation for Hilton UF will be available soon <br />
 
 ### Lodging-2
 
