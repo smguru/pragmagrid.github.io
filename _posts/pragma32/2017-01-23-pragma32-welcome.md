@@ -15,10 +15,10 @@ The theme for the PRAGMA-32 workshop is <i>“Internet of People and Things”</
 This is the first time PRAGMA is being hosted in Florida, the <i>“Sunshine State”</i> in the USA. Gainesville is the home of the University of Florida, a flagship state university in the state. It is also located within driving distance of beautiful natural resources, and world-class attractions. 
 
 This also marks the 15th anniversary of PRAGMA. We hope you will join us in April to help make this a successful workshop, and to celebrate this milestone!<br />
-
+<br />
 
 On behalf of the PRAGMA-32 organizing team, and with warm regards,
 
-Renato Figueiredo
+Renato Figueiredo <br/>
 General Chair of PRAGMA-32
 
