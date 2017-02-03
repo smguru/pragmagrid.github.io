@@ -18,7 +18,7 @@ short: registration
  <li>April 15: (optional) cultural day</li>
 </ul>
 <p> </p>
-
-<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>:
+<br/>
+<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>:<br />
 
 <a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a> 
