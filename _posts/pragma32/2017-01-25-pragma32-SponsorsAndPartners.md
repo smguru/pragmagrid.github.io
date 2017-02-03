@@ -10,10 +10,12 @@ short: Sponsors and partners
 <br />
 <i>*We are still adding names and logos to the list of sponsors as the program develops.</i> <br />
 
-National Science Foundation
+National Science Foundation <br />
 
-[Advanced Computing and Information Systems Laboratory] (https://www.acis.ufl.edu)  
+Advanced Computing and Information Systems Laboratory (<a href="https://www.acis.ufl.edu" target="_blank">ACIS Lab</a>) <br />
 
-[Department of Electrical and Computer Engineering] (https://www.ece.ufl.edu"), University of Florida 
+Department of Electrical and Computer Engineering, University of Florida (<a href="https://www.ece.ufl.edu" target="_blank">UF ECE</a>) <br />
+
+PRAGMA Community <br/>
 
 
