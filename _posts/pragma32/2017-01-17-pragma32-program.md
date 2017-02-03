@@ -16,15 +16,15 @@ short: program
   </tr>
   <tr>
     <td>Apr 10-11th</td>
-    <td>CENTRA-2 All-hands</td>
+    <td><a href="http://www.globalcentra.org/centra2">CENTRA-2 All-hands</a></td>
   </tr>
   <tr>
     <td>Apr 12th</td>
-    <td>SUNTOWNS Workshop</td>
+    <td><a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS Workshop</a></td>
   </tr>
   <tr> 
     <td>Apr 12th</td>
-    <td>Lake Modeling Workshop</td>
+    <td><a href="http://www.pragma-grid.net/pragma32-lake-workshop/">Lake Modeling Workshop</a></td>
   </tr>
   <tr>
     <td>Apr 12th</td>
