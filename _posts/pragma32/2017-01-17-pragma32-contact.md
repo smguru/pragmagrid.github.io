@@ -26,5 +26,5 @@ short: Contact
 
 ### Logistics (travel, accommodation, invitation letter) and CENTRA Student Hackathon
 
-* Grace Hong, acis (at) acis (dot) ufl (dot) edu
+* Grace Hong, gshong (at) acis (dot) ufl (dot) edu
 * [CENTRA-SUNTOWNS Student Hackathon](http://www.globalcentra.org/hackathon2017/) (April 1-2, 2017 Gainesville, FL)
