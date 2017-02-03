@@ -6,6 +6,9 @@ workshop: pragma32
 short: registration
 ---
 
+### Please complete the registration by March 9th, 2017 (by 12pm noon US EST/ GMT-5): <a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a>
+
+
 ### Before you fill out the <a href="https://goo.gl/Brcw5K" target="_blank">registration online</a>, you will need:
 
 * A profile picture ready for upload (for PRAGMA32 e-program book) 
@@ -18,9 +21,4 @@ short: registration
  <li>April 15: (optional) cultural day</li>
 </ul>
 <p> </p>
-<br/>
-
-### Please complete the registration <i>by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)</i>:
-
-<a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a> <strong>
 
