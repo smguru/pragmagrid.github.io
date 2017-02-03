@@ -20,3 +20,5 @@ On behalf of the PRAGMA-32 organizing team, and with warm regards,
 
 Renato Figueiredo
 
+General Chair of PRAGMA-32
+
