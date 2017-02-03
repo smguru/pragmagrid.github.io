@@ -9,13 +9,11 @@ short: Sponsors and partners
 ## CENTRA 2017 Sponsors and Partnerships
 <br />
 <i>*We are still adding names and logos to the list of sponsors as the program develops.</i> <br />
-<p>
 
-* National Science Foundation
+National Science Foundation
 
-* [Advanced Computing and Information Systems Laboratory] (https://www.acis.ufl.edu)   
+[Advanced Computing and Information Systems Laboratory] (https://www.acis.ufl.edu)  
 
-* [Department of Electrical and Computer Engineering] (https://www.ece.ufl.edu"), University of Florida 
+[Department of Electrical and Computer Engineering] (https://www.ece.ufl.edu"), University of Florida 
 
-*  
 
