@@ -6,7 +6,7 @@ workshop: pragma32
 short: Venue
 ---
 
-### Workshop Venue and Lodging-1
+## Workshop Venue and Lodging-1
 
 <strong><i> Hilton University of Florida Conference Center Gainesville</i></strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">Hilton UF</a>) <br />
 
@@ -18,7 +18,7 @@ All sessions of CENTRA2, SUNTOWNS and **PRAGMA32** Workshops will be hosted at H
 
 <strong>Reservation</strong>: a dedicated online reservation for Hilton UF will be available soon <br />
 
-### Lodging-2
+## Lodging-2
 
 <strong><i> Reitz Union Hotel</i></strong> (<a href="https://www.union.ufl.edu/UnionHotel" target="_blank">website</a>)
 
