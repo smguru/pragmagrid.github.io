@@ -6,7 +6,7 @@ workshop: pragma32
 short: registration
 ---
 
-**Before you fill out the registration form, you will need**:
+**Before you fill out the <a href="https://goo.gl/Brcw5K" target="_blank">registration online</a>, you will need**:
 
 * A profile picture ready for upload (for PRAGMA32 e-program book) 
 
@@ -19,6 +19,6 @@ short: registration
 </ul>
 <p> </p>
 <br/>
-<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>:<br />
+<strong>Please complete the registration <i>by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)</i>:<br />
 
-<a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a> 
+<a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a> <strong>
