@@ -16,7 +16,7 @@ short: registration
 * Overview of the week of April 10~15 meetings:
 <ul type="circle">
  <li>April 10-11: <a href="http://www.globalcentra.org/centra2/" target="_blank">CENTRA 2 All-Hands Meeting</a></li>
- <li>April 12: <a href="http://www.globalcentra.org/suntowns2017/" target="_blank">SUNTOWNS (Smart UNIVersity TOWNS) Workshop</a></li>
+ <li>April 12: <a href="http://www.globalcentra.org/suntowns2017/" target="_blank">SUNTOWNS (Smart UNiversity TOWNS) Workshop</a></li>
  <li>April 12-14: PRAGMA 32 & Lake Modeling Workshops</li>
  <li>April 15: (optional) cultural learning day (<a href="https://en.wikipedia.org/wiki/St._Augustine,_Florida" target="_blank">St. Augustine)</a></li>
 </ul>
