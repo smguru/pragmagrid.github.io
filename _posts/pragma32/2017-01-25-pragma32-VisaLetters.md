@@ -9,7 +9,7 @@ short: Visa Letters
 ## Visa Information
 
 <p>
-Please consult with the U.S. Consulate in your country/region whether you need a <a href="https://travel.state.gov/content/visas/en.html" target="_blank">visa</a> or are eligible for the <a href="https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html" target="_blank">visa-exempt program (then must have a valid ESTA approval prior)</a> to enter the United States.
+Please consult with the U.S. Consulate in your country/region whether a <a href="https://travel.state.gov/content/visas/en.html" target="_blank">visa</a> is required <strong>*or*</strong> if you are eligible for the <a href="https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html" target="_blank">visa-exempt program (VWP)</a>. For those qualitified for VWP, please note that travelers must have a valid Electronic System for Travel Authorization (ESTA) approval prior to travel. 
 </p>
 
 ## Invitation Letter
@@ -27,5 +27,5 @@ Please contact Renato Figueiredo (renato (at) acis(dot)ufl(dot)edu) if you need 
 </p>
 
 <p>
-The letter of invitation does not financially obligate the hosting organization. Travel expenses incurred to your PRAGMA32 and related meetings during the week of April 10~15, 2017 are the responsibility of the participant. Please work with your funding source for financial support documentation should it be required for your U.S. visa application. 
+The letter of invitation does not financially obligate the hosting organization. Travel expenses incurred to your PRAGMA 32 and related meetings during the week of April 10~15, 2017 are the responsibility of the participant. Please work with your funding source for financial support documentation should it be required for your U.S. visa application. 
 </p>
