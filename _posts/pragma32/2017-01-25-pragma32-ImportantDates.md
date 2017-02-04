@@ -6,6 +6,8 @@ workshop: pragma32
 short: dates
 ---
 
+#### February 8, 2017: contact [Lake Modeling Workshop](http://www.pragma-grid.net/pragma32-lake-workshop/) organizers if you are interested in becoming an active contributor towards a paper.
+
 #### March 9, 2017: last day for Registration and group-rate-guaranteed reservation at Hilton UF and Reitz Union Hotel
 
 #### March 15, 2017: Demo Abstract Submission deadline
