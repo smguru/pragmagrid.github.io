@@ -6,19 +6,19 @@ workshop: pragma32
 short: registration
 ---
 
-### Please complete the registration by March 9th, 2017 (by 12pm noon US EST/ GMT-5): <a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a>
+### Please complete the registration by March 9th, 2017 (by 12pm noon US EST/ GMT-5): <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a>
 
 
 ### Before you fill out the <a href="https://goo.gl/Brcw5K" target="_blank">registration online</a>, you will need:
 
-* A profile picture ready for upload (for PRAGMA32 e-program book) 
+* A profile picture ready for upload (for CENTRA 2 and SUNTOWNS e-program book if you are attending those meetings) 
 
 * Overview of the week of April 10~15 meetings:
 <ul type="circle">
- <li>April 10-11: <a href="http://www.globalcentra.org/centra2/" target="_blank">CENTRA 2 All-Hands</a></li>
- <li>April 12: <a href="http://www.globalcentra.org/suntowns2017/" target="_blank">SUNTOWNS Workshop</a></li>
- <li>April 12-14: PRAGMA32 & Lake Modeling Workshops</li>
- <li>April 15: (optional) cultural day</li>
+ <li>April 10-11: <a href="http://www.globalcentra.org/centra2/" target="_blank">CENTRA 2 All-Hands Meeting</a></li>
+ <li>April 12: <a href="http://www.globalcentra.org/suntowns2017/" target="_blank">SUNTOWNS (Smart UNIVersity TOWNS) Workshop</a></li>
+ <li>April 12-14: PRAGMA 32 & Lake Modeling Workshops</li>
+ <li>April 15: (optional) cultural learning day (<a href="https://en.wikipedia.org/wiki/St._Augustine,_Florida" target="_blank">St. Augustine)</a></li>
 </ul>
 <p> </p>
 
