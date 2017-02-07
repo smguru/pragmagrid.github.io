@@ -14,6 +14,8 @@ short: program
     <th>Time</th>
     <th>Activity</th>
   </tr>
+     <td>Apr 1st-2nd</td>
+     <td><a href="http://www.globalcentra.org/hackathon2017/">CENTRA Smart Cities Student Hackathon</a></td>
   <tr>
     <td>Apr 10-11th</td>
     <td><a href="http://www.globalcentra.org/centra2">CENTRA-2 All-hands</a></td>
