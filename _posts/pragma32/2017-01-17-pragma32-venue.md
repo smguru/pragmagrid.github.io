@@ -32,7 +32,11 @@ All sessions of CENTRA2, SUNTOWNS and **PRAGMA32** Workshops will be hosted at t
 -- Business Suite 2 double beds + 1 sleep sofa (2 suites): $109<br />
 -- Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119
 
-<i>Reservation</i>: link with CENTRA/PRAGMA group rate code will be available soon 
+<i><a href="https://www.union.ufl.edu/UnionHotel/OnlineReservationsandAvailability" target="_blank">Reservation</a></i>: Please enter your planned arrival and departure dates and group code "CENTRA17" before clicking on "Check availability" to make reservation. You will be asked to register/create an account. This allows you to modify and cacnel your room reservation online when needed. Credit card information is required to secure the reservation but your card will **not** be charged until you check out the hotel. If you wish to pay with a different card or in cash upon check-out, please let the reception know directly upon both check-in and check-out of Reitz Union Hotel.
+
+<i>Tips</i>: If you wish to check in on April 8th or earlier, or check on on April 17th or later, the online reservation may not work for you. Please call Reitz Union Hotel at +1-352-392-2151 (24 hrs/day, 7 days/week) directly and mention the group code "CENTRA17" to complete your room reservation by phone.
+
+<i>Inquiry</i>: Grace Hong (gshong (at) acis (dot) ufl (dot) (edu))
 
 <a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
 <iframe src="https://www.google.com/maps/d/embed?mid=1y8tewMB7Ku4CbS0yLdHUf7iQ4JU" width="640" height="480"></iframe>
