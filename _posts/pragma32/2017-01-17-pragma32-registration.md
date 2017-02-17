@@ -20,8 +20,8 @@ short: registration
  <li>April 12-14: PRAGMA 32 & Lake Modeling Workshops</li>
  <li>April 15: (optional) cultural learning day (<a href="https://en.wikipedia.org/wiki/St._Augustine,_Florida" target="_blank">St. Augustine)</a></li>
 </ul>
-<br />
-* You are also invited to participate in CENTRA Smart Cities Student Hackathon:
+
+### You are also invited to participate in CENTRA Smart Cities Student Hackathon:
 <ul type="circle">
   <li>April 1-2: <a href="http://www.globalcentra.org/hackathon2017/" target="_blank">CENTRA Smart Cities Student Hackathon</a>. Please sign up by March 15, 2017!</li>
 </ul> 
