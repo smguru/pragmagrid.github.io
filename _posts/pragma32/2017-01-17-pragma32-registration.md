@@ -22,3 +22,4 @@ short: registration
 </ul>
 <p> </p>
 
+<img src="/images/pragma32/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
