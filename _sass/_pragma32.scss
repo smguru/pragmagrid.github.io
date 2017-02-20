@@ -104,3 +104,8 @@ body.pragma32 .program32 tr:nth-child(even) { background-color : $paleblue2; }
 body.pragma32 .program32 td { padding : 5px 2px 5px 10px; }
 body.pragma32 .program32 tr td:nth-child(1) { font-weight : bold; }
 
+body.pragma32 #sponsors img {
+  display: inline-block;
+  height: 75px;
+  padding: 5px;
+}
