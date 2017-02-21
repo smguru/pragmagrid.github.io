@@ -21,6 +21,9 @@ The abstract should be between 250 and 400 words and include the following infor
 
 ## Submission Instructions
 
+[Registration](http://www.pragma-grid.net/pragma32-registration/) for the main PRAGMA 32 event **by March 9th, 2017** is required prior to Demo Request submission. 
+<br />
+
 Please provide the information above (items 1 to 4) here: **[PRAGMA 32 Demo Request](https://goo.gl/AprdNX)**   
 
 We are looking forward to your submissions. If you have any questions regarding the demo abstract submission, please contact our demo chairs:
