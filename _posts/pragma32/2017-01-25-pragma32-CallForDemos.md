@@ -12,16 +12,16 @@ On behalf of the PRAGMA 32 Program Committee, we are soliciting demos for the PR
  
 The abstract should be between 250 and 400 words and include the following information: 
 
-1. Title of the demo 
-2. Names and institutions 
-3. A brief abstract describing the demo 
-4. Requirements for the demo (e.g. time, network, etc.) 
+1. **Title of the demo** 
+2. **Names and institutions** 
+3. **A brief abstract describing the demo** 
+4. **Requirements for the demo (e.g. time, network, etc.)**
 
 <br>
 
 ## Submission Instructions
 
-Please provide the information above (items 1 to 4) here: [PRAGMA 32 Demo Request] (https://goo.gl/AprdNX)  
+Please provide the information above (items 1 to 4) here: **[PRAGMA 32 Demo Request](https://goo.gl/AprdNX)**   
 
 We are looking forward to your submissions. If you have any questions regarding the demo abstract submission, please contact our demo chairs:
 
@@ -32,7 +32,7 @@ We are looking forward to your submissions. If you have any questions regarding 
 <br>
 ## Important Dates:
 
-Submission deadline: March 15th, 2017 
+**Submission deadline: March 15th, 2017** 
 
 Author notification: March 25th, 2017 
 
