@@ -10,7 +10,7 @@ Dear PRAGMA friends,
 
 On behalf of the PRAGMA 32 Program Committee, we are soliciting demos for the PRAGMA 32 workshop in Gainesville, Florida, hosted by University of Florida. All PRAGMA 32 attendees are encouraged to submit abstracts to the demo session.
  
-The abstract should be between 300 and 450 words and include the following information: 
+The abstract should be between 250 and 400 words and include the following information: 
 
 1. Title of the demo 
 2. Names and institutions 
@@ -19,17 +19,9 @@ The abstract should be between 300 and 450 words and include the following infor
 
 <br>
 
-## Important Dates:
-
-Submission deadline: March 15th, 2017 
-
-Author notification: March 25th, 2017 
-
-<br>
-
 ## Submission Instructions
 
-Detailed instructions on how to submit your demo abstract will be posted here soon.
+Please provide the information above (items 1 to 4) here: https://goo.gl/AprdNX 
 
 We are looking forward to your submissions. If you have any questions regarding the demo abstract submission, please contact our demo chairs:
 
@@ -37,6 +29,14 @@ We are looking forward to your submissions. If you have any questions regarding 
 2. Kohei Ichikawa, ichikawa (at) is (dot) naist (dot) jp
 3. Wanida Putthividhya, wputthividhya (at) gmail (dot) com
 
+<br>
+## Important Dates:
+
+Submission deadline: March 15th, 2017 
+
+Author notification: March 25th, 2017 
+
+<br>
 <br>
 For technical questions, please contact:
 <br>
