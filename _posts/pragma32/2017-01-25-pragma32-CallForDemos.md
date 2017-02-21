@@ -21,7 +21,7 @@ The abstract should be between 250 and 400 words and include the following infor
 
 ## Submission Instructions
 
-Please provide the information above (items 1 to 4) here: https://goo.gl/AprdNX 
+Please provide the information above (items 1 to 4) here: [PRAGMA 32 Demo Request] (https://goo.gl/AprdNX)  
 
 We are looking forward to your submissions. If you have any questions regarding the demo abstract submission, please contact our demo chairs:
 
@@ -36,7 +36,6 @@ Submission deadline: March 15th, 2017
 
 Author notification: March 25th, 2017 
 
-<br>
 <br>
 For technical questions, please contact:
 <br>
