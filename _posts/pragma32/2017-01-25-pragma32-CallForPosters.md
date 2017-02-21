@@ -26,10 +26,12 @@ All submissions will be reviewed by PRAGMA Students Steering Committee and decis
 PRAGMA 32 organizers will print timely submitted posters on site. 
 
 ## Important Dates
-Submission deadline to be considered for participation is March 19, 2017.  
+Submission deadline to be considered for participation is **March 19, 2017**.  
 Review feedback and acceptance notice will be provided by March 24, 2017.  
 Posters that are revised to meet reviewers' comments and resubmitted by March 31, 2017 will qualify for on-site printing.  
 The lightning talks will be held on April 13, 2017 and the poster session on April 13, 2017.  
 
-## Submission Instructions
-Instructions for submissions will be posted here soon. If you have any questions, please email Kensworth Subratie, kcratie (at) ufl (dot) edu
+## Submission Online
+**[PRAGMA 32 Poster / Lightning Talks Submission](https://goo.gl/85YK3d)**
+
+If you have any questions, please email Kensworth Subratie, kcratie (at) ufl (dot) edu
