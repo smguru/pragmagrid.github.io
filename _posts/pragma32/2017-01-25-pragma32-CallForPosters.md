@@ -20,7 +20,7 @@ Authors are expected to both present their poster during poster sessions and to 
 All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in)
 All submissions will be reviewed by PRAGMA Students Steering Committee and decisions will be made available via email. Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.
 
-[Registration](http://www.pragma-grid.net/pragma32-registration/) for the main PRAGMA 32 event is required prior to abstract submission. 
+[Registration](http://www.pragma-grid.net/pragma32-registration/) for the main PRAGMA 32 event **by March 9, 2017** is required prior to abstract submission. 
 <br />
 
 **[PRAGMA 32 Poster / Lightning Talks Submission](https://goo.gl/85YK3d)**
