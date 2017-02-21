@@ -12,16 +12,18 @@ short: Sponsors and partners
 
 National Science Foundation (<a href="https://www.nsf.gov/" target="_blank">NSF</a>) <br />
 
+AT&T Foundation <br />
+
 Advanced Computing and Information Systems Laboratory (<a href="https://www.acis.ufl.edu" target="_blank">ACIS Lab</a>) <br />
 
 Department of Electrical and Computer Engineering, University of Florida (<a href="https://www.ece.ufl.edu" target="_blank">UF ECE</a>) <br />
 
-<a href="http://www.pragma-grid.net/people/">PRAGMA Community</a> <br/>
+
+<a href="http://www.pragma-grid.net/people/">The PRAGMA Community</a> <br/>
 
 <div id="sponsors">
     <img src="http://www.globalcentra.org/img/acis_signature_blue02.jpg" />
     <img src="http://www.globalcentra.org/img/A_T_T.png" />
-    <img src="http://www.globalcentra.org/img/CECEA_LOGO_v.jpg" />
     <img src="http://www.globalcentra.org/img/ece.jpg" />
     <img src="http://www.globalcentra.org/img/2_logo-nict-en.png" />
     <img src="http://www.globalcentra.org/img/nsf1_for_web.jpg" />
