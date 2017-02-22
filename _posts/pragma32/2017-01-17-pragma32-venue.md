@@ -10,19 +10,25 @@ short: Venue
 All sessions of CENTRA2, SUNTOWNS and **PRAGMA32** Workshops will be hosted at the Hilton University of Florida Conference Center Gainesville (Hilton UF)
 
 
-LODGING 1:<strong> Hilton University of Florida Conference Center Gainesville</strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">Hilton UF</a>) <br />
+LODGING A:<strong> Hilton University of Florida Conference Center Gainesville</strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">Hilton UF</a>) <br />
 
 <i>Address</i>: 1714 SW 34TH Street, Gainesville, Florida 32607, USA. <i>Phone</i>: +1-352-371-3600
 
 <i>CENTRA/PRAGMA room rate</i>: US$144 plus taxes (11.5%) per room per night. Majority of the rooms are for double occupancy (two beds in room) and some are for single occupancy (one bed). The room rate is the same with either 1 or 2 guests staying in the room. 
 
-**<i><a href=" http://www.hilton.com/en/hi/groups/personalized/G/GVNCCHF-PRA417-20170409/index.jhtml?WT.mc_id=POG" target="_blank">Reservation by March 9th, 2017</a></i>**: The website may take a while to load and you will see "PRAGMA-CENTRA All Hands 2017" as our group events name on the landing page. After you click on "Book a Room", it takes you to Step 1 of 5 in the online reservation and you should see the <i>Group Code</i> <strong>PRA417</strong> already applied in the form. A credit card number is required to complete the room booking in Step 4 of 5 but the card will *not* be charged. You will pay the room bill when you check out Hilton UF. The "PRAGMA-CENTRA All Hands 2017" group rate and rooms block are guaranteed only until March 10th, 2017.  <br />
+**<i><a href=" http://www.hilton.com/en/hi/groups/personalized/G/GVNCCHF-PRA417-20170409/index.jhtml?WT.mc_id=POG" target="_blank">Reservation by March 9th, 2017</a></i>**: The website may take a while to load and you will see "PRAGMA-CENTRA All Hands 2017" as our group events name on the landing page. After you click on "Book a Room", it takes you to Step 1 of 5 in the online reservation and you should see the <i>Group Code</i> <strong>PRA417</strong> already applied in the form. A credit card number is required to complete the room booking in Step 4 of 5 but the card will *not* be charged. You will pay the room bill when you check out Hilton UF. The "PRAGMA-CENTRA All Hands 2017" group rate and rooms block are guaranteed only until March 9th, 2017.  <br />
 <br />
-<i>Important Note</i>: If you wish to check in on April 8th or earlier, or check out on April 19th or later, the online reservation may not work for you. Please call Hilton University of Florida Conference Center at +1-352-371-3600 directly and mention the group code "PRAGMA-CENTRA All Hands 2017" to complete your room reservation by phone. If any issues please contact gshong (at) acis (dot) ufl (dot) edu as soon as possible.
+<i>Important Notes</i>: 
+
+1. You should receive an automated confirmation email from hiltonnet@hiltonres.com in a few minutes after completing the reservation online. 
+
+2. If you need to modify or cancel your Hilton UF reservation, please follow the link in the Confirmation e-mail. It is embeded toward the end of the confirmation message in the dark text box *below* RATE RULES AND CANCELLATION POLICY. [Click here](http://www.globalcentra.org/img/Hilton_modify_cancel.png) to view an example screenshot of the link location to modify or cancel your booking directly online.
+
+3. If you wish to check in on April 8th or earlier, or check out on April 19th or later, the online reservation may not work for you. Please call Hilton University of Florida Conference Center at +1-352-371-3600 directly and mention the group code "PRAGMA-CENTRA All Hands 2017" to complete your room reservation by phone. If any issues please contact gshong (at) acis (dot) ufl (dot) edu as soon as possible.
 <br /> 
 <br />
 <br />
-LODGING 2: <strong>Reitz Union Hotel</strong> (<a href="https://www.union.ufl.edu/UnionHotel" target="_blank">website</a>)
+LODGING B: <strong>Reitz Union Hotel</strong> (<a href="https://www.union.ufl.edu/UnionHotel" target="_blank">website</a>)
 
 <i>Address</i>: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611. <i>Phone</i>: +1-352-392-2151 
 
@@ -34,7 +40,7 @@ LODGING 2: <strong>Reitz Union Hotel</strong> (<a href="https://www.union.ufl.ed
 -- Business Suite 2 double beds + 1 sleep sofa (2 suites): $109<br />
 -- Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119
 
-<i><strong><a href="https://www.union.ufl.edu/UnionHotel/OnlineReservationsandAvailability" target="_blank">Reservation by March 9th, 2017</a></strong></i>: Please enter your planned arrival and departure dates and <i>Group Code</i> <strong>CENTRA17</strong> before clicking on "Check availability" to make reservation. You will be asked to register/create an account. This allows you to modify and cacnel your room reservation online when needed. Credit card information is required to secure the reservation but your card will **not** be charged until you check out the hotel. If you wish to pay with a different card or in cash upon check-out, please let the reception know directly upon both check-in and check-out of Reitz Union Hotel.
+<i><strong><a href="https://www.union.ufl.edu/UnionHotel/OnlineReservationsandAvailability" target="_blank">Reservation by March 9th, 2017</a></strong></i>: Please enter your planned arrival and departure dates and <i>Group Code</i> <strong>CENTRA17</strong> before clicking on "Check availability" to make reservation. You will be asked to register/create an account. This allows you to modify and cancel your room reservation online when needed. Credit card information is required to secure the reservation but your card will **not** be charged until you check out the hotel. If you wish to pay with a different card or in cash upon check-out, please let the reception know directly upon both check-in and check-out of Reitz Union Hotel.
 
 <i>Tips</i>: If you wish to check in on April 8th or earlier, or check out on April 17th or later, the online reservation may not work for you. Please call Reitz Union Hotel at +1-352-392-2151 (24 hrs/day, 7 days/week) directly and mention the group code "CENTRA17" to complete your room reservation by phone.
 
