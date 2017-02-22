@@ -25,9 +25,8 @@ LODGING A:<strong> Hilton University of Florida Conference Center Gainesville</s
 2. If you need to modify or cancel your Hilton UF reservation, please follow the link in the Confirmation e-mail. It is embeded toward the end of the confirmation message in the dark text box *below* RATE RULES AND CANCELLATION POLICY. [Click here](http://www.globalcentra.org/img/Hilton_modify_cancel.png) to view an example screenshot of the link location to modify or cancel your booking directly online.
 
 3. If you wish to check in on April 8th or earlier, or check out on April 19th or later, the online reservation may not work for you. Please call Hilton University of Florida Conference Center at +1-352-371-3600 directly and mention the group code "PRAGMA-CENTRA All Hands 2017" to complete your room reservation by phone. If any issues please contact gshong (at) acis (dot) ufl (dot) edu as soon as possible.
-<br /> 
-<br />
-<br />
+<p></p>
+
 LODGING B: <strong>Reitz Union Hotel</strong> (<a href="https://www.union.ufl.edu/UnionHotel" target="_blank">website</a>)
 
 <i>Address</i>: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611. <i>Phone</i>: +1-352-392-2151 
