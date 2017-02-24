@@ -12,7 +12,7 @@ short: dates
 
 #### March 15, 2017: Demo Abstract Submission deadline
 
-#### March 19, 2017: Poster/Lighning Talks Submission deadline
+#### March 19, 2017: Poster/Lightning Talks Submission deadline
 
 #### March 22, 2017: [CENTRA Smart Cities Student Hackathon](http://www.globalcentra.org/hackathon2017) registration deadline
 
