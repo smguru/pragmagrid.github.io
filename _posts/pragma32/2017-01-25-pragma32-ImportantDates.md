@@ -10,9 +10,11 @@ short: dates
 
 #### *March 9, 2017: last day for Registration and group-rate-guaranteed reservation at both Hilton UF and Reitz Union Hotel*
 
-#### March 15, 2017: Demo Abstract Submission deadline AND [CENTRA Smart Cities Student Hackathon](http://www.globalcentra.org/hackathon2017) registration deadline
+#### March 15, 2017: Demo Abstract Submission deadline
 
 #### March 19, 2017: Poster/Lighning Talks Submission deadline
+
+#### March 22, 2017: [CENTRA Smart Cities Student Hackathon](http://www.globalcentra.org/hackathon2017) registration deadline
 
 #### March 24, 2017: Poster Review Feedback and Acceptance Notification
 
