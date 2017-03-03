@@ -15,22 +15,22 @@ short: program
     <th>Activity</th>
   </tr>
      <td>Apr 1st-2nd</td>
-     <td><a href="http://www.globalcentra.org/hackathon2017/">CENTRA Smart Cities Student Hackathon</a></td>
+     <td><a href="http://www.globalcentra.org/hackathon2017/">CENTRA Smart Cities Student Hackathon</a>, 335 Benton Hall, UF Campus</td>
   <tr>
     <td>Apr 10-11th</td>
-    <td><a href="http://www.globalcentra.org/centra2">CENTRA-2 All-hands</a></td>
+    <td><a href="http://www.globalcentra.org/centra2">CENTRA-2 All-hands</a>, Hilton UF</td>
   </tr>
   <tr>
     <td>Apr 12th</td>
-    <td><a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS Workshop</a></td>
+    <td><a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS Workshop, Hilton UF</a></td>
   </tr>
   <tr> 
     <td>Apr 12th</td>
-    <td><a href="http://www.pragma-grid.net/pragma32-lake-workshop/">Lake Modeling Workshop</a></td>
+    <td><a href="http://www.pragma-grid.net/pragma32-lake-workshop/">Lake Modeling Workshop, 335 Benton Hall, UF Campus</a></td>
   </tr>
   <tr>
     <td>Apr 12th</td>
-    <td>CENTRA/PRAGMA Dinner</td>
+    <td>CENTRA/PRAGMA Dinner, Thomas Center</td>
   </tr>
 </table>
 
@@ -38,7 +38,7 @@ short: program
 <br>
  
  
-## Thursday, April 13th
+## Thursday, April 13th, Hilton UF
 
 <table class="program32">
   <tr>
@@ -95,7 +95,7 @@ short: program
 <br>
 
 
-## Friday, April 14th
+## Friday, April 14th, Hilton UF
  
 <table class="program32">
   <tr>
