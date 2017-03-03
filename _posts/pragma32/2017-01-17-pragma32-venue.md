@@ -7,7 +7,7 @@ short: Venue
 ---
 
 
-All sessions of CENTRA2, SUNTOWNS and **PRAGMA32** Workshops will be hosted at the Hilton University of Florida Conference Center Gainesville (Hilton UF)
+CENTRA2, SUNTOWNS and **PRAGMA32** Workshops will be hosted at the **Hilton** University of Florida Conference Center Gainesville (Hilton UF, right next to main campus). **Lake Modeling Workshop (4/12)** will be held at 335 Benton Hall, University of Florida campus.
 
 
 LODGING A:<strong> Hilton University of Florida Conference Center Gainesville</strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/maps-directions/index.html" target="_blank">Hilton UF Maps and Directions</a>) <br />
