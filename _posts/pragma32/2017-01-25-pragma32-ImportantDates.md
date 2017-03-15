@@ -8,11 +8,12 @@ short: dates
 
 #### February 8, 2017: contact [Lake Modeling Workshop](http://www.pragma-grid.net/pragma32-lake-workshop/) organizers if you are interested in becoming an active contributor towards a paper.
 
-#### *March 14, 2017: last day for Registration and group-rate-guaranteed reservation at both Hilton UF and Reitz Union Hotel*
 
 #### March 15, 2017: Demo Abstract Submission deadline
 
 #### March 19, 2017: Poster/Lightning Talks Submission deadline
+
+#### *March 21, 2017: last day for Registration and group-rate-guaranteed reservation at both Hilton UF and Reitz Union Hotel*
 
 #### March 22, 2017: [CENTRA Smart Cities Student Hackathon](http://www.globalcentra.org/hackathon2017) registration deadline
 
