@@ -20,7 +20,7 @@ Authors are expected to both present their poster during poster sessions and to 
 All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in)
 All submissions will be reviewed by PRAGMA Students Steering Committee and decisions will be made available via email. Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.
 
-[Registration](http://www.pragma-grid.net/pragma32-registration/) for the main PRAGMA 32 event **by March 9, 2017** is required prior to abstract submission. 
+[Registration](http://www.pragma-grid.net/pragma32-registration/) for the main PRAGMA 32 event **by March 15, 2017** is required prior to abstract submission. 
 <br />
 
 **[PRAGMA 32 Poster / Lightning Talks Submission](https://goo.gl/85YK3d)**
@@ -29,10 +29,17 @@ All submissions will be reviewed by PRAGMA Students Steering Committee and decis
 PRAGMA 32 organizers will print **timely submitted** posters on site. 
 
 ## Important Dates
-Submission deadline to be considered for participation is **March 19, 2017**.  
-Review feedback and acceptance notice will be provided by March 24, 2017.  
-Posters that are revised to meet reviewers' comments and resubmitted *by March 31, 2017* will qualify for on-site printing.  
-The lightning talks will be held on April 13, 2017 and the poster session on April 13, 2017.  
+Submission deadline to be considered for participation is March 19, 2017.  
+Review feedback and acceptance notice will be provided by **March 24, 2017**.  
+Posters that are revised to meet reviewers' comments and resubmitted *by **March 31, 2017*** will qualify for on-site printing.  
+Both the lightning talks and poster session will be held on April 13, 2017. The posters will remain on display through April 14th, 2017 afternoon.  
 <br />
 
-If you have any questions, please email Kensworth Subratie, kcratie (at) ufl (dot) edu
+If you have any questions, please do not hesitate to contact the Poster/Lightning Talks Committee:
+
+Chair: Kensworth Subratie, kcratie (at) ufl (dot) edu <br />
+Chawanat Nakasan, chawanat (dot) nakasan (dot) cb5 (at) is (dot) naist (dot) jp <br />
+Pongsakorn U-chupala, pongsakorn (dot) uchupala (dot) pm7 (at) is (dot) naist (dot) jp <br />
+Gabriel Zhou, quzhou (at) umail (dot) iu (dot) edu <br />
+
+
