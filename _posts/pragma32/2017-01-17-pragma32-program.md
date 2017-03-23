@@ -153,7 +153,7 @@ short: program
   </tr>
   <tr>
     <td>TBD</td>
-    <td>Cultural learning</td>
+    <td>Wrap-up / Cross working group discussions / Cultural learning</td>
   </tr>
 </table> 
  
