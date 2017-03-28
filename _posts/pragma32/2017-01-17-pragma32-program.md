@@ -51,24 +51,34 @@ short: program
   </tr>
   <tr>
     <td>8:30-8:50</td>
-    <td>Welcome statements</td>
+    <td>Welcome statements
+        <br>Dr. Renato Figueiredo, PRAGMA-32 General Chair
+        <br>Dr. John Harris, ECE Department Chair, University of Florida</td>
   </tr>
   <tr>
     <td>8:50-9:30</td>
     <td>Keynote
-        <br> Dr. Peter Arzberger</td>
+        <br>Dr. Peter Arzberger, PRAGMA Steering Committee Chair
+        <br>"PRAGMA 2024: Building on Fifteen Years of Experience in Preparing for the Future"</td>
   </tr>
   <tr>
     <td>9:30-10:30</td>
-    <td>Student/poster lightning talks</td>
+    <td>Student/poster lightning talks
+        <br>Session chair: Kensworth Subratie, University of Florida</td>
   </tr>
   <tr>
     <td>10:30-11:40</td>
-    <td>Group photo/break, followed by poster session</td>
+    <td>Group photo
+        <br>Break, with poster session</td>
   </tr>
   <tr>
     <td>11:40-12:30</td>
-    <td>Demo session I</td>
+    <td>Demo session I
+        <br>Session chair: Dr. Jason Haga, AIST, Japan
+        <br>"Virtual cluster image sharing on the PRAGMA cloud testbed", 
+        <br>Shava Smallen, UCSD, USA
+        <br>"Towards Enhancing Usability and Modularity of the PRAGMA Cloud Scheduler",
+        <br>Nannapas Banluesombatkul, Thammasat University, Thailand</td>
   </tr>
   <tr>
     <td>12:30-14:00</td>
@@ -92,7 +102,8 @@ short: program
   </tr>
   <tr>
     <td>18:20-21:00</td>
-    <td>Dinner and special evening program</td>
+    <td>Dinner and special evening program
+        <br>Florida Museum of Natural History</td>
   </tr>
 </table> 
 
