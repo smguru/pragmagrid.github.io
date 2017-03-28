@@ -21,4 +21,6 @@ short: dates
 
 #### March 25, 2017: Demo Author Notification
 
+### March 29, 2017: [CENTRA Smart Cities Student Hackathon](http://www.globalcentra.org/hackathon2017): detailed participation instructions, github organization, sample datasets, and Slack team are coming on Wednesday, March 29. Watch your emails!
+
 #### March 31, 2017: Last day to qualify for on-site printing of posters received that have met reviewers' comments
