@@ -46,48 +46,53 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>9:00-9:20</td>
+    <td>7:30-8:30</td>
+    <td>Breakfast</td>
+  </tr>
+  <tr>
+    <td>8:30-8:50</td>
     <td>Welcome statements</td>
   </tr>
   <tr>
-    <td>9:20-9:50</td>
-    <td>Updates since PRAGMA-31</td>
+    <td>8:50-9:30</td>
+    <td>Keynote
+        <br> Dr. Peter Arzberger</td>
   </tr>
   <tr>
-    <td>9:50-10:30</td>
-    <td>Keynote</td>
+    <td>9:30-10:30</td>
+    <td>Student/poster lightning talks</td>
   </tr>
   <tr>
-    <td>10:30-11:15</td>
-    <td>Student/poster lightining talks</td>
+    <td>10:30-11:40</td>
+    <td>Group photo/break, followed by poster session</td>
   </tr>
   <tr>
-    <td>11:15-12:00</td>
-    <td>Group photo, break, posters</td>
-  </tr>
-  <tr>
-    <td>12:00-13:00</td>
-    <td>Working group updates</td>
-  </tr>
-  <tr>
-    <td>13:00-14:00</td>
-    <td>Lunch</td>
-  </tr>
-  <tr>
-    <td>14:00-15:30</td>
-    <td>Working group and expedition breakouts</td>
-  </tr>
-  <tr>
-    <td>15:30-16:00</td>
-    <td>Coffee break / posters</td>
-  </tr>
-  <tr>
-    <td>16:00-17:00</td>
+    <td>11:40-12:30</td>
     <td>Demo session I</td>
   </tr>
   <tr>
-    <td>Evening</td>
-    <td>Dinner</td>
+    <td>12:30-14:00</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>14:00-14:45</td>
+    <td>Working group and expedition updates</td>
+  </tr>
+  <tr>
+    <td>14:45-15:15</td>
+    <td>Coffee break</td>
+  </tr>
+  <tr>
+    <td>15:15-17:00</td>
+    <td>Working group and expedition breakouts</td>
+  </tr>
+  <tr>
+    <td>17:00</td>
+    <td>Adjourn</td>
+  </tr>
+  <tr>
+    <td>18:20-21:00</td>
+    <td>Dinner and special evening program</td>
   </tr>
 </table> 
 
