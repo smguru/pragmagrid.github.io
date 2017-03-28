@@ -90,7 +90,8 @@ short: program
   </tr>
   <tr>
     <td>14:45-15:15</td>
-    <td>Coffee break</td>
+    <td>Coffee break
+        <br>Posters will be available</td>
   </tr>
   <tr>
     <td>15:15-17:00</td>
@@ -119,40 +120,70 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>9:00-10:30</td>
-    <td>Demo session II</td>
+    <td>7:30-8:30</td>
+    <td>Breakfast</td>
   </tr>
   <tr>
-    <td>10:30-11:00</td>
-    <td>Coffee break / posters</td>
+    <td>8:30-10:00</td>
+    <td>Demo session II
+        <br>Session chair: Dr. Kohei Ichikawa, NAIST, Japan
+        <br>"River Disaster Management Application for Collaborative Visualization",
+        <br>Jason Haga, AIST, Japan
+        <br>"Demonstration of IPoP Overlay VPN Application in Distributed Processing of Video Streams",
+        <br>Vahid Daneshmand, University of Florida, USA
+        <br>"Dynamic Work-groups for IoT and Cloud Systems",
+        <br>Kensworth Subratie, University of Florida, USA</td>
   </tr>
   <tr>
-    <td>11:00-12:00</td>
-    <td>Presentations</td>
+    <td>10:00-10:30</td>
+    <td>Coffee break
+        <br>Posters will be available</td>
   </tr>
   <tr>
-    <td>12:00-14:00</td>
-    <td>Lunch and PRAGMA SC meeting</td>
-  </tr>
-  <tr>
-    <td>14:00-16:00</td>
+    <td>10:30-12:30</td>
     <td>Working group and expedition breakouts II</td>
   </tr>
   <tr>
-    <td>16:00-16:30</td>
-    <td>Coffee break / posters</td>
+    <td>12:30-14:00</td>
+    <td>Lunch and PRAGMA SC meeting</td>
   </tr>
   <tr>
-    <td>16:30-17:30</td>
+    <td>14:00-15:15</td>
+    <td>Demo session III
+        <br>Session chair: Dr. Jason Haga, AIST, Japan
+        <br>"Prototyping distributed sensor networks using Amazon Web Services",
+        <br>Dave Stanton, Appirio
+        <br>"Global reference model and global garbage collection in the Dripcast",
+        <br>Ikuo Nakagawa, Osaka University, Japan
+        <br>"Multi-tenant data center experiment on PRAGMA-ENT",
+        <br>Kyuho Jeong, University of Florida, USA</td>
+  </tr>
+  <tr>
+    <td>15:15-15:45</td>
+    <td>Coffee break
+        <br>Posters will be available</td>
+  </tr>
+  <tr>
+    <td>15:45-16:30</td>
     <td>Working group updates</td>
   </tr>
   <tr>
-    <td>17:30-17:45</td>
+    <td>16:30-16:45</td>
     <td>Best poster awards</td>
   </tr>
   <tr>
-    <td>17:45-18:10</td>
-    <td>SC summary, wrap-up, welcome to PRAGMA-33</td>
+    <td>16:45-17:30</td>
+    <td>SC summary
+        <br>PRAGMA-32 wrap-up
+        <br>Welcome to PRAGMA-33</td>
+  </tr>
+  <tr>
+    <td>17:30</td>
+    <td>Adjourn</td>
+  </tr>
+  <tr>
+    <td>18:30-20:00</td>
+    <td>Dinner, UF Hilton Hotel</td>
   </tr>
 </table>
  
