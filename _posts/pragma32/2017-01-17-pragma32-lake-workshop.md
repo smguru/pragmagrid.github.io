@@ -19,6 +19,49 @@ This workshop is an activity associated with the GLEON/PRAGMA lake expedition, a
 
 If you simply plan to attend and learn more about the lake expedition efforts, all PRAGMA 32 attendees are welcome to attend - all you need to do is <a href="http://www.pragma-grid.net/pragma32-registration/">register for PRAGMA 32</a>. If you would like to engage more deeply with the effort to contribute towards a paper, we ask that you please contact the organizers via email prior to **Feb. 8th**, so we can better understand your interests, expertise, and expectations about the workshop. We plan to have at least three pre-workshop virtual meetings during February and March, the full workshop day on April 12th, continued discussions during PRAGMA break-outs, and post-workshop virtual meetings.
 
+## Meeting agenda
+
+<table class="program32">
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
+  </tr>
+     <td>10:30-11:30</td>
+     <td>Debrief, question overview, progress to date, presentation of initial figures</td>
+  <tr>
+    <td>11:30-12:30</td>
+    <td>Breaking into teams for visualization, writing, and GRAPLEr additional runs</td>
+  </tr>
+  <tr>
+    <td>12:30-13:00</td>
+    <td>Break, get lunch set up, and quick walk!</td>
+  </tr>
+  <tr> 
+    <td>13:00-13:30</td>
+    <td>Finish up lunch and identify priorities for afternoon</td>
+  </tr>
+  <tr>
+    <td>13:30-14:45</td>
+    <td>Resume work time for teams</td>
+  </tr>
+  <tr>
+    <td>14:45-15:30</td>
+    <td>Finalize outline, key figures, and tasks for post-workshop</td>
+  </tr>
+  <tr>
+    <td>15:30-16:00</td>
+    <td>Prepare presentation for larger PRAGMA debrief at 4:30</td>
+  </tr>
+  <tr>
+    <td>16:00-16:15</td>
+    <td>Return to Hilton conference center</td>
+  </tr>
+  <tr>
+    <td>16:30-17:00</td>
+    <td>Introductions and presentation of outcomes of workshop</td>
+  </tr>
+</table>
+
 
 ## Organizers 
 
