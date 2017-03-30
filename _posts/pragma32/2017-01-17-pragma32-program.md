@@ -51,29 +51,29 @@ short: program
   </tr>
   <tr>
     <td>8:30-8:50</td>
-    <td>Welcome statements
+    <td><strong>Welcome statements</strong>
         <br>Dr. Renato Figueiredo, PRAGMA-32 General Chair
         <br>Dr. John Harris, ECE Department Chair, University of Florida</td>
   </tr>
   <tr>
     <td>8:50-9:30</td>
-    <td>Keynote
+    <td><strong>Keynote</strong>
         <br>Dr. Peter Arzberger, PRAGMA Steering Committee Chair
         <br>"PRAGMA 2024: Building on Fifteen Years of Experience in Preparing for the Future"</td>
   </tr>
   <tr>
     <td>9:30-10:30</td>
-    <td>Student/poster lightning talks
+    <td><strong>Student/poster lightning talks</strong>
         <br>Session chair: Kensworth Subratie, University of Florida</td>
   </tr>
   <tr>
     <td>10:30-11:40</td>
-    <td>Group photo
-        <br>Break, with poster session</td>
+    <td><strong>Group photo</strong>
+        <br><strong>Break and poster session</strong></td>
   </tr>
   <tr>
     <td>11:40-12:30</td>
-    <td>Demo session I
+    <td><strong>Demo session I</strong>
         <br>Session chair: Dr. Jason Haga, AIST, Japan
         <br>
         <br>"Virtual cluster image sharing on the PRAGMA cloud testbed", 
@@ -84,11 +84,11 @@ short: program
   </tr>
   <tr>
     <td>12:30-14:00</td>
-    <td>Lunch</td>
+    <td><strong>Lunch</strong></td>
   </tr>
   <tr>
     <td>14:00-14:45</td>
-    <td>Working group and expedition updates
+    <td><strong>Working group and expedition updates</strong>
         <br>Resources working group
         <br>Telescience working group
         <br>Bioscience working group
@@ -98,12 +98,12 @@ short: program
   </tr>
   <tr>
     <td>14:45-15:15</td>
-    <td>Coffee break
+    <td><strong>Coffee break</strong>
         <br>Posters will be available</td>
   </tr>
   <tr>
     <td>15:15-17:00</td>
-    <td>Working group and expedition breakouts
+    <td><strong>Working group and expedition breakouts</strong>
         <br>Resources working group
         <br>Telescience working group
         <br>Bioscience working group
@@ -117,7 +117,7 @@ short: program
   </tr>
   <tr>
     <td>18:20-21:00</td>
-    <td>Dinner and special evening program
+    <td><strong>Dinner and special evening program</strong>
         <br>Florida Museum of Natural History</td>
   </tr>
 </table> 
@@ -139,7 +139,7 @@ short: program
   </tr>
   <tr>
     <td>8:30-10:00</td>
-    <td>Demo session II
+    <td><strong>Demo session II</strong>
         <br>Session chair: Dr. Kohei Ichikawa, NAIST, Japan
         <br>"River Disaster Management Application for Collaborative Visualization",
         <br>Jason Haga, AIST, Japan
@@ -152,20 +152,20 @@ short: program
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td>Coffee break
+    <td><strong>Coffee break</strong>
         <br>Posters will be available</td>
   </tr>
   <tr>
     <td>10:30-12:30</td>
-    <td>Working group and expedition breakouts II</td>
+    <td><strong>Working group and expedition breakouts II</strong></td>
   </tr>
   <tr>
     <td>12:30-14:00</td>
-    <td>Lunch and PRAGMA SC meeting</td>
+    <td><strong>Lunch and PRAGMA SC meeting</strong></td>
   </tr>
   <tr>
     <td>14:00-15:15</td>
-    <td>Demo session III
+    <td><strong>Demo session III</strong>
         <br>Session chair: Dr. Jason Haga, AIST, Japan
         <br>"Prototyping distributed sensor networks using Amazon Web Services",
         <br>Dave Stanton, Appirio
@@ -178,20 +178,20 @@ short: program
   </tr>
   <tr>
     <td>15:15-15:45</td>
-    <td>Coffee break
+    <td><strong>Coffee break</strong>
         <br>Posters will be available</td>
   </tr>
   <tr>
     <td>15:45-16:30</td>
-    <td>Working group updates</td>
+    <td><strong>Working group and expedition updates</strong></td>
   </tr>
   <tr>
     <td>16:30-16:45</td>
-    <td>Best poster awards</td>
+    <td><strong>Best poster awards</strong></td>
   </tr>
   <tr>
     <td>16:45-17:30</td>
-    <td>SC summary
+    <td><strong>Steering committee summary</strong>
         <br>PRAGMA-32 wrap-up
         <br>Welcome to PRAGMA-33</td>
   </tr>
