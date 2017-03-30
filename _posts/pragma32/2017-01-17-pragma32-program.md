@@ -75,8 +75,10 @@ short: program
     <td>11:40-12:30</td>
     <td>Demo session I
         <br>Session chair: Dr. Jason Haga, AIST, Japan
+        <br>
         <br>"Virtual cluster image sharing on the PRAGMA cloud testbed", 
         <br>Shava Smallen, UCSD, USA
+        <br>
         <br>"Towards Enhancing Usability and Modularity of the PRAGMA Cloud Scheduler",
         <br>Nannapas Banluesombatkul, Thammasat University, Thailand</td>
   </tr>
@@ -86,7 +88,13 @@ short: program
   </tr>
   <tr>
     <td>14:00-14:45</td>
-    <td>Working group and expedition updates</td>
+    <td>Working group and expedition updates
+        <br>Resources working group
+        <br>Telescience working group
+        <br>Bioscience working group
+        <br>Cyberlearning working group
+        <br>Lake expedition
+        </td>
   </tr>
   <tr>
     <td>14:45-15:15</td>
@@ -95,7 +103,13 @@ short: program
   </tr>
   <tr>
     <td>15:15-17:00</td>
-    <td>Working group and expedition breakouts</td>
+    <td>Working group and expedition breakouts
+        <br>Resources working group
+        <br>Telescience working group
+        <br>Bioscience working group
+        <br>Cyberlearning working group
+        <br>Lake expedition
+        </td>
   </tr>
   <tr>
     <td>17:00</td>
@@ -129,8 +143,10 @@ short: program
         <br>Session chair: Dr. Kohei Ichikawa, NAIST, Japan
         <br>"River Disaster Management Application for Collaborative Visualization",
         <br>Jason Haga, AIST, Japan
+        <br>
         <br>"Demonstration of IPoP Overlay VPN Application in Distributed Processing of Video Streams",
         <br>Vahid Daneshmand, University of Florida, USA
+        <br>
         <br>"Dynamic Work-groups for IoT and Cloud Systems",
         <br>Kensworth Subratie, University of Florida, USA</td>
   </tr>
@@ -153,8 +169,10 @@ short: program
         <br>Session chair: Dr. Jason Haga, AIST, Japan
         <br>"Prototyping distributed sensor networks using Amazon Web Services",
         <br>Dave Stanton, Appirio
+        <br>
         <br>"Global reference model and global garbage collection in the Dripcast",
         <br>Ikuo Nakagawa, Osaka University, Japan
+        <br>
         <br>"Multi-tenant data center experiment on PRAGMA-ENT",
         <br>Kyuho Jeong, University of Florida, USA</td>
   </tr>
