@@ -88,7 +88,8 @@ short: program
   </tr>
   <tr>
     <td>14:00-14:45</td>
-    <td><strong>Working group and expedition updates</strong>
+    <td><strong>Steering Committee update
+        <br>Working group and expedition updates</strong>
         <br>Resources working group
         <br>Telescience working group
         <br>Bioscience working group
