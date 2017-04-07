@@ -119,8 +119,9 @@ short: program
     <td>Adjourn</td>
   </tr>
   <tr>
-    <td>18:20-21:00</td>
+    <td>18:00-21:00</td>
     <td><strong>Dinner and special evening program</strong>
+        <br>Group will walk from Hilton hotel to the venue,
         <br>Florida Museum of Natural History</td>
   </tr>
 </table> 
@@ -220,7 +221,7 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>TBD</td>
+    <td>08:00-18:00</td>
     <td>Wrap-up / Cross working group discussions / Cultural learning</td>
   </tr>
 </table> 
