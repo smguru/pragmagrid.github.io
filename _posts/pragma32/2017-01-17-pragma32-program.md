@@ -30,7 +30,9 @@ short: program
   </tr>
   <tr>
     <td>Apr 12th</td>
-    <td>CENTRA/PRAGMA Dinner, Thomas Center</td>
+    <td>CENTRA/SUNTOWNS/PRAGMA Dinner
+        <br>6:00 PM: Shuttle departure from UF Hilton to dinner location
+        <br>6:30 PM: Dinner at The Historic Thomas Center, Gainesville</td>
   </tr>
 </table>
 
