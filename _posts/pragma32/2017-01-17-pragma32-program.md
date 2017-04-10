@@ -8,6 +8,8 @@ short: program
 
 
 ## Pre-PRAGMA Activities 
+
+<a href="http://www.pragma-grid.net/Pragma32Program.pdf" target="_blank">PRAGMA 32 Program (PDF)</a>
  
 <table class="program32">
   <tr>
