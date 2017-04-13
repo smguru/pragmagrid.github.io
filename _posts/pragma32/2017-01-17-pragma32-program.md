@@ -8,6 +8,8 @@ short: program
 
 
 ## Pre-PRAGMA Activities 
+
+<a href="http://www.pragma-grid.net/Pragma32Program.pdf" target="_blank">PRAGMA 32 Program (PDF)</a>
  
 <table class="program32">
   <tr>
@@ -30,7 +32,9 @@ short: program
   </tr>
   <tr>
     <td>Apr 12th</td>
-    <td>CENTRA/PRAGMA Dinner, Thomas Center</td>
+    <td>CENTRA/SUNTOWNS/PRAGMA Dinner
+        <br>6:00 PM: Shuttle departure from UF Hilton to dinner location
+        <br>6:30 PM: Dinner at The Historic Thomas Center, Gainesville</td>
   </tr>
 </table>
 
@@ -88,7 +92,8 @@ short: program
   </tr>
   <tr>
     <td>14:00-14:45</td>
-    <td><strong>Working group and expedition updates</strong>
+    <td><strong>Steering Committee update
+        <br>Working group and expedition updates</strong>
         <br>Resources working group
         <br>Telescience working group
         <br>Bioscience working group
@@ -116,8 +121,9 @@ short: program
     <td>Adjourn</td>
   </tr>
   <tr>
-    <td>18:20-21:00</td>
+    <td>18:00-21:00</td>
     <td><strong>Dinner and special evening program</strong>
+        <br>Group will walk from Hilton hotel to the venue,
         <br>Florida Museum of Natural History</td>
   </tr>
 </table> 
@@ -217,7 +223,7 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>TBD</td>
+    <td>08:00-18:00</td>
     <td>Wrap-up / Cross working group discussions / Cultural learning</td>
   </tr>
 </table> 
