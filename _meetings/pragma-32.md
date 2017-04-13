@@ -7,55 +7,106 @@ meeting_url: /pragma32
 date: 2017-01-13
 ---
 
-#### <span class="strongword">April 12</span>
-
-* **[Item 1][1]**
-* **[Item 2 ][2]**
-
-#### <span class="strongword">April 13</span>
-
-* **[Item 3 ][3]**
-* **[Item 4 ][4]**
-* **[Item 5 ][5]**
-
-#### <span class="strongword">April 14</span>
-
-* **[Item 6 ][6]**
-
-**PRAGMA32 Main Workshop Day 1**
-
-* <span class="strongword">09:00 - 09:15</span> **Opening Speech** <br>
-
-* <span class="strongword">09:15 - 09:35</span> **[Updates  since PRAGMA31][7]** 
-
-* <span class="strongword">09:35 - 10:25</span> **WORKING GROUP UPDATES**
-
-  [Resources Working Group][5] By: Dr. Philip Papadoupoulos <br>
-  [Biosciences Working Group][6] By: Dr. Jason Haga <br>
-  [Telescience Working Group][7] By: Dr. Shinji Shimojo <br>
-  [Cyber-Learning/Distance Education Working Group][8] By: Dr. Ruth Lee
-
-* <span class="strongword">11:00 - 12:00</span> **KEYNOTE TALK** <br>
 
 #### <span class="strongword">April 13 </span>
 
-**PRAGMA32 Main Workshop Day 2**
+**PRAGMA32 Main Workshop Day 1**
 
+
+* <span class="strongword">08:30 - 08:50</span> **Welcome  Statements** <br>
+  Dr. Renato Figueiredo, PRAGMA-32 General Chair<br>
+  Dr. John Harris, ECE Department Chair, University of Florida
+
+* <span class="strongword">08:50 - 09:30</span> **KEYNOTE TALK**<br>
+  Dr. Peter Arzberger, PRAGMA Steering Committee Chair<br> 
+  [PRAGMA 2024: Building on Fifteen Years of Experience in Preparing for the
+  Future][1] <br>
+
+* <span class="strongword">09:30 - 10:30</span> **Student/poster lightning talks**<br>
+  Session chair: Kensworth Subratie, University of Florida
+  * **[Numerical simulation modeling coupled to the GRAPLEr distributed computing platform 
+    provides insight into lake water quality responses to climate and land use change][2]**, Arianna Krinos
+  * **[Data Provenance as Killer App for PID Kernel Information ][3]**, Gabriel Zhou
+  * **[Self-Tuning of Job Concurrency for Hadoop Performance Improvement][4]**, Gil Jae Lee 
+  * **[Automation of Virtual Network Creation for SDN Testbed ][5]**, Hiroaki Yamanaka
+  * **[Interactive Map of Air Quality Monitors with Persistent Identifier ][6]**, Hsiu-Mei Chou 
+  * **[Real-time visualizer and history browser for IPOP Network Overlay ][7]**, Jaikrishna Sukumar
+  * **[Hypoxia-induced trade-offs on zooplankton vertical distribution and community 
+    structure in reservoirs][8]**, Jonathan Doubek 
+  * **[Multi-tenant data center experiment on PRAGMA-ENT][9]**, Kyuho Jeong
+  * **[Storms can both stimulate and inhibit phytoplankton communities: lessons from a 
+    whole-ecosystem lake mixing experiment ][10]**, Mary Lofton
+  * **[Towards Enhancing Usability and Modularity of the PRAGMA Cloud Scheduler][11]**, 
+    Nannapas Banluesombatkul and Prapansak Kaewlamul
+  * **[Identifying early warning indicators of eutrophication to inform real-world management:
+    engaging long-term datasets, ecosystem modeling, committed citizen scientists, and remote 
+	sensing][12]**, Nicole Ward
+  * **[Applying Deep Learning to Network Traffic Identification and Categorization][13]**, Pongsakorn U-chupala
+  * **[Metalimnetic oxygen minimum zones decouple diffusive methane and carbon dioxide fluxes from 
+    seasonal turnover in a eutrophic reservoir ][14]**, Ryan McClure
+  * **[Item ][15]**, Saumitra Aditya
+  * **[Item ][16]**, Toshikazu Nishida ?
+  * **[Item ][17]**, Vahid Daneshmand 
+  * **[IP Multicast using IPOP overlay network ][18]**, Vyas Sundaresh Kovakkat 
+  * **[Comparison PID Kernel Info Provenance to Research Objects ][19]**, Yu Luo
+
+
+* <span class="strongword">11:40 - 12:30</span> **Demo  Session 1**<br>
+  Session chair: Dr. Jason Haga, AIST, Japan 
+  * **[Virtual cluster image sharing on the PRAGMA cloud testbed][20]**,
+  Shava Smallen, UCSD, USA 
+  * **[Towards Enhancing Usability and Modularity of the PRAGMA Cloud Scheduler][21]**,<br>
+  Nannapas Banluesombatkul, Thammasat University, Thailand
+
+* <span class="strongword">14:00 - 14:45</span> 
+  **Steering Committee update**<br>
+  **Working group and expedition updates**<br>
+
+  [Resources Working Group][22] Dr. Philip Papadoupoulos <br>
+  [Telescience Working Group][23] Dr. Fang-Pang Lin <br>
+  [Biosciences Working Group][24] Dr. Jason Haga <br>
+  [Cyber-Learning/Distance Education Working Group][25] Dr. Ruth Lee<br>
+  [Lake Expedition Group][26] Dr. Cayelan Carey
+
+* <span class="strongword">15:15 - 17:00</span> 
+  **Working group and expedition breakouts**<br>
+
+<br><br>
 
 #### <span class="strongword">April 14 </span>
 
-**PRAGMA32 Main Workshop Day 3**
-
-* <span class="strongword">17:10 - 17:30</span> **CLOSING**
+**PRAGMA32 Main Workshop Day 2**
 
 {% assign base = 'https://github.com/pragmagrid/pragma-meetings/blob/master/pragma32' %}
 
-[1]: /link1
-[2]: http://link2
-[3]: http://link3
-[4]: {{ base }}/april-12/title1.pdf
-[5]: {{ base }}/april-13/titleX.pdf
-[6]: {{ base }}/april-14/titleX.pdf
-[7]: {{ base }}/updates.pdf
-[8]: {{ base }}/updates.pdf
+[1]: {{ base }}/april-13/keynote-parzberger.pdf
+
+[2]: {{ base }}/april-13/posters/poster-akrinos.pdf
+[3]: {{ base }}/april-13/posters/poster-gzhou.pdf
+[4]: {{ base }}/april-13/posters/poster-glee.pdf
+[5]: {{ base }}/april-13/posters/poster-hyamanaka.pdf
+[6]: {{ base }}/april-13/posters/poster-hchou.pdf
+[7]: {{ base }}/april-13/posters/poster-jsukumar.pdf
+[8]: {{ base }}/april-13/posters/poster-jdoubek.pdf
+[9]: {{ base }}/april-13/posters/poster-kjeong.pdf
+[10]: {{ base }}/april-13/posters/poster-mlofton.pdf
+[11]: {{ base }}/april-13/posters/poster-nan.pdf
+[12]: {{ base }}/april-13/posters/poster-nward.pdf
+[13]: {{ base }}/april-13/posters/poster-puchupala.pdf
+[14]: {{ base }}/april-13/posters/poster-rmccluer.pdf
+[15]: {{ base }}/april-13/posters/poster-
+[16]: {{ base }}/april-13/posters/poster-
+[17]: {{ base }}/april-13/posters/poster-vdaneshman.pdf
+[18]: {{ base }}/april-13/posters/poster-vkovakkat.pdf
+[19]: {{ base }}/april-13/posters/poster-yluo.pdf
+
+[20]: {{ base }}/april-13/demos/demo-testbed.pdf
+[21]: {{ base }}/april-13/demos/demo-gui-scheduler.pdf
+
+[22]: {{ base }}/april-13/wg/wg-resources-update.pdf    
+[23]: {{ base }}/april-13/wg/wg-telescience-update.pdf    
+[24]: {{ base }}/april-13/wg/wg-bioscience-update.pdf    
+[25]: {{ base }}/april-13/wg/wg-cyberlearning-update.pdf    
+[26]: {{ base }}/april-13/wg/wg-lake-ecology--update.pdf    
+
 
