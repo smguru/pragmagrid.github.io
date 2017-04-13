@@ -45,8 +45,9 @@ date: 2017-01-13
   * **[Metalimnetic oxygen minimum zones decouple diffusive methane and carbon dioxide fluxes from 
     seasonal turnover in a eutrophic reservoir ][14]**, Ryan McClure
   * **[Item ][15]**, Saumitra Aditya
-  * **[Item ][16]**, Toshikazu Nishida ?
-  * **[Item ][17]**, Vahid Daneshmand 
+  * **[Item ][16]**, Toshikazu Nishida 
+  * **[Demonstration of IPOP Overlay VPN Application in Distributed Processing 
+    of Video Streams][17]**, Vahid Daneshmand 
   * **[IP Multicast using IPOP overlay network ][18]**, Vyas Sundaresh Kovakkat 
   * **[Comparison PID Kernel Info Provenance to Research Objects ][19]**, Yu Luo
 
