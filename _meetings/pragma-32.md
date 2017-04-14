@@ -102,16 +102,17 @@ date: 2017-01-13
 <br><br>
 
 * <span class="strongword">15:45 - 16:30</span> **Working group and expedition updates**<br>
-  * [Resources Working Group][33] Dr. Philip Papadoupoulos <br>
-  * [Telescience Working Group][34] Dr. Fang-Pang Lin <br>
-  * [Biosciences Working Group][35] Dr. Jason Haga <br>
-  * [Cyber-Learning/Distance Education Working Group][36] Dr. Ruth Lee<br>
-  * [Lake Expedition Group][37] Dr. Cayelan Carey
+  * [Resources Working Group][33] <br>
+  * [Telescience Working Group][34] <br>
+  * [Lake Expedition Group][35] 
 <br><br>
 
 * <span class="strongword">16:30 - 16:45</span> **Best poster awards**<br>
+  * **1st (tie):**  Angeline Alfred and Arianna Krinos
+  * **3rd:**  Gil Jae Lee
+<br><br>
 
-* <span class="strongword">16:45 - 17:30</span> **Steering committee summary**<br>
+* <span class="strongword">16:45 - 17:30</span> **Steering committee [summary][36]**<br>
 
 {% assign base = 'https://github.com/pragmagrid/pragma-meetings/blob/master/pragma32' %}
 
@@ -152,6 +153,7 @@ date: 2017-01-13
 
 [33]: {{ base }}/april-14/wg/wg-resources-update2.pdf    
 [34]: {{ base }}/april-14/wg/wg-telescience-update2.pdf    
-[35]: {{ base }}/april-14/wg/wg-bioscience-update2.pdf    
-[36]: {{ base }}/april-14/wg/wg-cyberlearning-update2.pdf    
-[37]: {{ base }}/april-14/wg/wg-lake-ecology--update2.pdf    
+[35]: {{ base }}/april-14/wg/wg-lake-ecology--update2.pdf    
+
+[36]: {{ base }}/april-14/wg/steering-summaryu.pdf    
+
