@@ -8,7 +8,7 @@ short: Travel
 
 ## Air Travel
 
-Airports: the main connecting international airports to <strong><i><a href="http://www.gra-gnv.com/" targent="_blank">Gainesville Regional Airport (GNV)</a></i></strong> are Atlanta (<strong>ATL</strong>) and Charlotte (<strong>CLT</strong>). Alternatively, flying to Orlando (MCO) then take a bus to Gainesville is possible. Additional information regarding the Red Coach (bus) will be available by mid February.
+Airports: the main connecting international airports to <strong><i><a href="http://www.gra-gnv.com/" targent="_blank">Gainesville Regional Airport (GNV)</a></i></strong> are Atlanta (<strong>ATL</strong>) and Charlotte (<strong>CLT</strong>). Alternatively, flying to Orlando (MCO) then take a bus (Red Coach, to Gainesville) is possible: http://www.redcoachusa.com/ 
 
 
 ## Ground Transportation
