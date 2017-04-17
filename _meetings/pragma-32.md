@@ -153,7 +153,7 @@ date: 2017-01-13
 
 [33]: {{ base }}/april-14/wg/wg-resources-update2.pdf    
 [34]: {{ base }}/april-14/wg/wg-telescience-update2.pdf    
-[35]: {{ base }}/april-14/wg/wg-lake-ecology--update2.pdf    
+[35]: {{ base }}/april-14/wg/wg-lake-ecology-update2.pdf    
 
 [36]: {{ base }}/april-14/wg/steering-summaryu.pdf    
 
