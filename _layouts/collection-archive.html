@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="border">
+    <h2>Past Meetings</h2>
+</div>
+
+Please use the top menu "Meetings" tab or <a href="/meetings">this link</a> for past PRAGMA meetings.
+<br><br>
+All available documents for PRAGMA activities prior to the PRAGMA 24 workshop <br>  
+are archived and are availalbe for download from the git repository 
+<a href="https://github.com/pragmagrid/pragma-historic/tree/master/pragma-doc">pragma-historic</a> 
+<br>
+<br>
+
+<div class="border">
+    <h2>Past Events</h2>
+</div>
+
+{% assign pages = site.["news"] | sort: "date" %}
+
+<section id="services">
+  <div class="container">
+    <div class="row">
+      <table class="">
+        {% for service in pages reversed %}
+          {% if service.categories[0] == "archive" %}
+              <tr>
+                <td>
+                   {% if service.dates %}
+				     {% assign words = service.dates | split: ',' %}
+                     <span class="dates">{{ words[1] }}, {{ words[0] }}</span>
+                   {% else %}
+                     <span class="dates">{{ service.date | date: '%Y, %B %d'  }}</span>
+                   {% endif %}
+                   <span class="smalltitle">&nbsp;&nbsp;&nbsp;{{ service.title }}</span>
+                </td>
+              </tr>
+              <tr>
+                <td><ul> {{service.content}}</ul> </td>
+              </tr>
+          {% endif %}
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+</section>
+
+<hr class="primary">
+
+<p> <a href="{{ page.url }}"> Back to top </a> </p>

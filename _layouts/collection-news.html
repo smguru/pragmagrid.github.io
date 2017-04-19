@@ -69,7 +69,7 @@ Please see <a href="/meetings">this link </a> for past PRAGMA meetings. <br/>
     <div class="row">
       <table class="">
         {% for service in site.[page.short] reversed %}
-          {% if service.categories[0] == "archive" %}
+          {% if service.categories[0] == "highlight" %}
             <tr>
               <td>
                  <span class="dates">{{ service.date | date: '%B %d, %Y'  }}</span>
