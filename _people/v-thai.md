@@ -1,14 +1,15 @@
 ---
 title: Thai 
 firstname: Vinh Quang
-affiliation: Institute of Information Technology (IOIT), Dean of Faculty of Information technology and communication, Graduate University of Science and Technology(GUST),VAST
+affiliation: Institute of Information Technology (IOIT), Professor, VAST
 imagesrc: "v-thai.png "
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
-**PRAGMA Role:** Steering Committee Member.
+**PRAGMA Role:** Ex-Officio PRAGMA Steering Committee Member.
+
 
 [Website][1]
 
