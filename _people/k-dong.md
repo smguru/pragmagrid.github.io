@@ -1,13 +1,14 @@
 ---
 title: Dong
 firstname: Kejun (Kevin) 
-affiliation: Professor, Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
+affiliation: Product Manager, China Internet Network Information Center (CNNIC) 
 imagesrc: "k-dong.png"
 layout: person
 categories:
+ - "exsteering"
 ---
 
-**PRAGMA Role:** Steering Committee Member. 
+**PRAGMA Role:** Ex-Officio PRAGMA Steering Committee Member.
 
 **Related Work:** Collaboration Technology, Cloud Computing, Distributed Systems and Data Mining.
 
