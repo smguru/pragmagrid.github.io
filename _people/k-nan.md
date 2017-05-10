@@ -5,11 +5,12 @@ affiliation: Deputy Director General, Computer Network Information Center (CNIC)
 imagesrc: "k-nan.png"
 layout: person
 categories:
+ - "exsteering"
 ---
 
-**PRAGMA Role:** Steering Committee Member.
+**PRAGMA Role:** Ex-Officio PRAGMA Steering Committee Member.
 
-**Related Work:** Computer networks, distributed systems and CSCW, Duckling software.
+**Related Work:** Computer networks, distributed systems and CSCW, Duckling software, satellite multimedia streaming.
 
 [Website][1]
 
