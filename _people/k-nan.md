@@ -1,7 +1,7 @@
 ---
 title: Nan
 firstname: Kai
-affiliation: Deputy Director General, Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS)
+affiliation: Chief Architect, Global Vision Media Technology Company
 imagesrc: "k-nan.png"
 layout: person
 categories:
@@ -10,7 +10,7 @@ categories:
 
 **PRAGMA Role:** Ex-Officio PRAGMA Steering Committee Member.
 
-**Related Work:** Computer networks, distributed systems and CSCW, Duckling software, satellite multimedia streaming.
+**Related Work:** Satellite multimedia streaming.
 
 [Website][1]
 
