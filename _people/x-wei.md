@@ -5,10 +5,10 @@ affiliation: Dean, College of Computer Science and Technology, Jilin University
 imagesrc: "x-wei.png"
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
-**PRAGMA Role:** Member, PRAGMA Resource and Bioscience Working Group.
+**PRAGMA Role:** Ex-Officio PRAGMA Steering Committee Member.
 
 **Related Work:** Resource management and job scheduling in HPC and Cloud
 environment, numerical simulation and fault-tolerance.
