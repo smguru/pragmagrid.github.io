@@ -1,7 +1,7 @@
 ---
 title: Papadopoulos
 firstname: Phil
-affiliation: Chief Technology Officer & Division Director, Cloud and Cluster Software Development, San Diego Supercomputer Center (SDSC), UC San Diego (UCSD); Associate Research Professor (Adjunct), Computer Science, UCSD 
+affiliation: Chair, PRAGMA Steering Committee; Chief Technology Officer & Division Director, Cloud and Cluster Software Development, San Diego Supercomputer Center (SDSC), UC San Diego (UCSD); Associate Research Professor (Adjunct), Computer Science, UCSD 
 imagesrc: "p-papadopoulos.png"
 layout: person
 categories:
