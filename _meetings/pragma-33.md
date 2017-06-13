@@ -2,7 +2,7 @@
 title: PRAGMA 33
 imagesrc: "workshop-33.png"
 layout: page
-meeting_date: October 16-17, 2017, Brisbaine, Australia
+meeting_date: October 16-17, 2017, Brisbane, Australia
 meeting_url: /pragma33
 date: 2017-06-09
 ---
