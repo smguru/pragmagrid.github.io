@@ -3,7 +3,7 @@ title: PRAGMA 26
 imagesrc: "workshop-26.png"
 layout: page
 meeting_date: April 9-11, 2014, Tainan, Taiwan
-meeting_url: 
+meeting_url: ""  
 date: 2014-04-09
 ---
 
