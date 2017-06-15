@@ -40,4 +40,5 @@ exclude:
   - Makefile
   - server.sh
   - junk/
+  - howto/
 
