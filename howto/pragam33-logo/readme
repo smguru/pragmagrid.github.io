@@ -1,0 +1,10 @@
+Pragma 33 logo steps
+
+1 download  the web aus_map.png and kangaroo.jpg  
+2 do images transformations specified in the list:
+	bash list
+3 import resulting file header.jpg in gimp,
+  add words and  paint kangaroo
+  export resulting image as a final logo file *.jpg
+  Save gimp edit as  pragma33-logo.xcf
+

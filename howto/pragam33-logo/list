@@ -1,0 +1,20 @@
+
+# crop end of image
+convert -crop 750x403+100+0! kangaroo.jpg crop-end.jpg
+# crop previous image start to remove discoloration line
+convert -crop 300x403+0+0! crop-end.jpg crop-start.jpg
+# flip previous image horizontally
+convert -flop crop-start.jpg crop-start-flop.jpg
+# combine fliped start and end, stitch line on mirrored ends
+convert crop-start-flop.jpg crop-end.jpg +append cropped.jpg 
+# crop top of combined image, enforce size
+convert -crop 1050x285+0+110! cropped.jpg croptop.jpg
+# change colors of orig map
+convert aus_map.png -fill white -draw 'color 50,50 replace' -fill red -draw 'color 100,80 replace' map.png
+# place map in low left roner
+convert -composite croptop.jpg map.png -geometry 102x93+50+175 header.jpg 
+# use gimp on header.jpg to add "pragma 33" and kanagaroo dots, save
+
+# examples
+#convert -resize '900x200!' header.jpg new.jpg
+#convert -composite new.jpg ~/Desktop/aus_map.png  -geometry 102x93+780+15 new1.png 
