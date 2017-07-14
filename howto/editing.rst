@@ -10,8 +10,11 @@ Instructions here are for PRAGMA X meeting (for example, PRAGMA 33).
 Introduction
 --------------
 
-DO NOT EDIT **_config.yaml** at the top level  This is a main jekyll layout file 
-for the whole PRAGMA site, has no bearing for a specific meeting layout. 
+* DO NOT EDIT **_config.yaml** at the top level  This is a main jekyll layout file 
+  for the whole PRAGMA site, has no bearing for a specific meeting layout. 
+
+* Do not use TABS in any files, use spaces. TABS will break the layout for the
+  whole website **search** function.
 
 The sections below outline what needs to be a edited.
 The edits can be done from the GitHub  gui via web browser. 
@@ -24,13 +27,13 @@ The basic site is already setup and all templates are are prepared for the speci
 site. Most of the time these do not require any changes unless the site layout 
 needs to be updated.
 
-#. main layout file _layouts/pragma33.html
+#. **main layout file _layouts/pragma33.html**
 
    This file  specifies the layout for the pragma meeting site. 
    Specifically, the  top level tabs under the main image file and the menu on
    the left side.
 
-#. include file _includes/menu-pragma33.html
+#. **include file _includes/menu-pragma33.html**
 
    This file lists the menu items with their corresponding files. The menu is
    shown on the left hand side of  each page. If changes are needed, edit this
@@ -39,9 +42,9 @@ needs to be updated.
    A file must have an extention depending on the file format. Accepted
    formats are "md" and "html". Please see existing files for a reference.
 
-#.  CSS formatting file _sass/_pragma33.scss   
+#. **CSS formatting file _sass/_pragma33.scss**
 
-   To invoke this file, add  a line in css/main.scss (done when making templates)
+   This file is enabled in css/main.scss (done when making templates)
 
 
 Site files 
@@ -50,11 +53,11 @@ Site files
 These are the files that need to be edited with the correct content.
 Current files available are pace holders.
 
-#. all images go under images/pragma33/ 
+#. All images go under **images/pragma33/**
 
    Further division into subdirectories is up to you
 
-#. all pages go in _posts/pragma33/
+#. All pages go in **_posts/pragma33/**
 
    The naming convention similar to already existing templates files there
 
