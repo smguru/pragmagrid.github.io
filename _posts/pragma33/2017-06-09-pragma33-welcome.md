@@ -15,5 +15,6 @@ On behalf of organising committee we would like to invite you to PRAGMA-33 which
 On behalf of the PRAGMA-33 organising team, and with warm regards,
 
 David Abramson and Siddeswara Guru
+
 General Chair of PRAGMA-33
 
